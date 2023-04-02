@@ -165,3 +165,119 @@
       en: not (negating statements, words, or phrases)
       cog: Utopia
       pos: neg
+-
+  name: Unit 04
+  unit: 4
+  vocab:
+    -
+      gr: ἁγορα, ἁγορας, ἠ
+      en: assembly, place of assembly; marketplace
+      cog: agoraphobia
+      pos: n
+    -
+      gr: Ἀσπασια, Ἀσπασιας, ἡ
+      en: Aspasia (female proper name)
+      pos: n
+    -
+      gr: δημοκρατια, δημοκρατιασς, ἠ
+      en: democracy
+      pos: n
+    -
+      gr: ἡμερα, ἡμερας, ἡ
+      en: day
+      cog: ephemeral
+      pos: n
+    -
+      gr: θεα, θεας, ἡ
+      en: goddess
+      pos: n
+    -
+      gr: θυρα, θυρας, ἡ
+      en: door; (freq. pl.) double doors, folding doors
+      pos: n
+    -
+      gr: παιδεια, παιδειας, ἡ
+      en: education, training, culture
+      cog: propaedeutic
+      pos: n
+    -
+      gr: στρατια, στρατιας, ἡ
+      en: army
+      cog: strategy
+      pos: n
+    -
+      gr: συμφορα, συμφορας, ἡ
+      en: event, happening, circumstance; unlucky event, misfortune
+      pos: n
+    -
+      gr: φιλια, φιλιας, ἡ
+      en: friendship
+      cog: bibliophily
+      pos: n
+    -
+      gr: χωρα, χωρας, ἡ
+      en: land, country; space, room, place
+      cog: chorology
+      pos: n
+    -
+      gr: ἁδελφη, ἁδελφης, ἡ
+      en: sister
+      pos: n
+    -
+      gr: ἁρετη, ἁρετης, ἡ
+      en: excellence; valor, virtue
+      cog: aretalogy
+      pos: n
+    -
+      gr: ἁρχη, ἁρχης, ἡ
+      en: beginning; rule, office; realm, province
+      cog: monarchy
+      pos: n
+    -
+      gr: γνωμη, γνωμης, ἡ
+      en: faculty of judgment; opinion, decision, verdict
+      cog: gnomic
+      pos: n
+    -
+      gr: δικη, δικης, ἡ
+      en: justice, right; lawsuit; punishment (levied in a suit)
+      cog: syndic
+      pos: n
+    -
+      gr: ἡδονη, ἡδονης, ἡ
+      en: pleasure
+      cog: hedonist
+      pos: n
+    -
+      gr: νικη, νικης, ἡ
+      en: victory
+      cog: epinician
+      pos: n
+    -
+      gr: Ξανθιππη, Ξανθιππης, ἡ
+      en: Xanthippe (female proper name)
+      pos: n
+    -
+      gr: σκηνη, σκηνης, ἡ
+      en: tent, booth; stage building; stage
+      cog: scene
+      pos: n
+    -
+      gr: τιμη, τιμης, ἡ
+      en: honor; esteem; price
+      cog: timocratic
+      pos: n
+    -
+      gr: φυγη, φυγης, ἡ
+      en: running away, flight; exile
+      pos: n
+    -
+      gr: φωνη, φωνης, ἡ
+      en: sound; voice
+      cog: phonetic
+      pos: n
+    -
+      gr: ψυχη, ψυχης, ἡ
+      en: breath of life; life; soul
+      cog: psyche
+      pos: n
