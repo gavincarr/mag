@@ -38,6 +38,7 @@ type UnitVocab struct {
 // Options
 type Options struct {
 	Verbose bool `short:"v" long:"verbose" description:"display verbose output"`
+	Unit    int  `short:"u" long:"unit" description:"lint only this unit number"`
 	Args    struct {
 		Filename string
 	} `positional-args:"yes"`
@@ -69,7 +70,7 @@ func LintWord(wtr io.Writer, w Word, label string, i int) int {
 
 // LintVocab runs a series of checks on vocab, and outputs
 // any errors to stdout
-func LintVocab(wtr io.Writer, vocab []UnitVocab, stats *map[string]int) int {
+func LintVocab(wtr io.Writer, opts Options, vocab []UnitVocab, stats *map[string]int) int {
 	errors := 0
 	if len(vocab) == 0 {
 		fmt.Fprintln(wtr, "Empty vocab list!")
@@ -78,6 +79,10 @@ func LintVocab(wtr io.Writer, vocab []UnitVocab, stats *map[string]int) int {
 	}
 
 	for _, u := range vocab {
+		if opts.Unit > 0 && u.Unit != opts.Unit {
+			continue
+		}
+
 		(*stats)["units"]++
 		var label string
 		if u.Name != "" {
@@ -132,7 +137,7 @@ func RunCLI(wtr io.Writer, opts Options) error {
 	}
 
 	stats := make(map[string]int)
-	errors := LintVocab(wtr, vocab, &stats)
+	errors := LintVocab(wtr, opts, vocab, &stats)
 	stats["errors"] = errors
 
 	jstats, err := json.MarshalIndent(stats, "", "  ")
