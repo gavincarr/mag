@@ -128,12 +128,12 @@
       cog: pediatrics
       pos: n
     -
-      gr: ἀπο / ἀπ᾽ / ἀφ᾽
+      gr: ἀπο (ἀπ᾽ or ἀφ᾽ before vowels)
       en: (+ gen.) away from, from
       cog: aphelion, apogee, apocalypse
       pos: prep
     -
-      gr: ἐκ / ἐξ
+      gr: ἐκ (ἐξ before vowels)
       en: (+ gen.) out of, forth from; as a result of
       cog: eclectic, ecdysiast
       pos: prep
@@ -143,7 +143,7 @@
       cog: encaustic, empathy, ellipsis
       pos: prep
     -
-      gr: εἰς / ἐς
+      gr: εἰς or ἐς
       en: (+ acc.) into, to, toward; with respect to
       cog: isagogic
       pos: prep
@@ -161,7 +161,7 @@
       en: and; (adverbial) even, also, too
       pos: conj
     -
-      gr: οὐ / οὐκ / οὐχ
+      gr: οὐ (οὐκ or οὐχ before vowels)
       en: not (negating statements, words, or phrases)
       cog: Utopia
       pos: neg
@@ -281,3 +281,223 @@
       en: breath of life; life; soul
       cog: psyche
       pos: n
+-
+  name: Unit 05
+  unit: 5
+  vocab:
+    -
+      gr: ἀγω
+      en: lead; carry
+      cog: pedagogy
+      pos: v
+    -
+      gr: ἀποθνῃσκω (ἀπο)
+      en: die
+      pos: v
+    -
+      gr: ἀρχω
+      en: begin (+ gen.); rule, be leader of (+ gen.)
+      cog: monarchy
+      pos: v
+    -
+      gr: γραφω
+      en: scratch; inscribe; write
+      cog: graphic
+      pos: v
+    -
+      gr: ἐθελω
+      en: be willing, wish
+      pos: v
+    -
+      gr: ἐλαυνω
+      en: drive, set in motion; (intrans) ride, march
+      cog: elastic
+      pos: v
+    -
+      gr: ἐπιτρεπω (ἐπι)
+      en: turn over to, entrust
+      cog: protreptic
+      pos: v
+    -
+      gr: ἐχω
+      en: have, hold
+      cog: echeneis
+      pos: v
+    -
+      gr: λαμβανω
+      en: take, grasp; receive
+      cog: narcolepsy
+      pos: v
+    -
+      gr: λεγω
+      en: say, speak; recount
+      pos: v
+    -
+      gr: λειπω
+      en: leave, abandon
+      cog: ellipsis
+      pos: v
+    -
+      gr: λυω
+      en: loosen, release; undo, dissolve
+      cog: analysis
+      pos: v
+    -
+      gr: μενω
+      en: remain, stay; wait for, wait
+      pos: v
+    -
+      gr: πειθω
+      en: persuade, urge
+      pos: v
+    -
+      gr: πεμπω
+      en: send
+      cog: pomp
+      pos: v
+    -
+      gr: φερω
+      en: bear, carry, bring; endure
+      cog: pheromones, euphoria
+      pos: v
+    -
+      gr: φευγω
+      en: flee, flee from; be in exile
+      pos: v
+    -
+      gr: ἑταιρος, ἑταιρου, ὁ
+      en: comrade, companion
+      pos: n
+    -
+      gr: ἑταιρη, ἑταιρας, ἡ
+      en: woman companion; courtesan
+      pos: n
+    -
+      gr: Ἰσαιος, Ἰσαιου, ὁ
+      en: Isaeus
+      pos: n
+    -
+      gr: Πεισιστρατος, Πεισιστρατου, ὁ
+      en: Peisistratus
+      pos: n
+    -
+      gr: τυραννος, τυραννου, ὁ
+      en: absolute ruler, tyrant
+      cog: tyrannosaurus
+      pos: n
+-
+  name: Unit 06
+  unit: 6
+  vocab:
+    -
+      gr: ἀληθεια, ἀληθειας, ἡ
+      en: truth; truthfulness
+      cog: Alethea
+      pos: n
+    -
+      gr: γεφυρα, γεφυρας, ἡ
+      en: bridge
+      pos: n
+    -
+      gr: ἱερεια, ἱερειας, ἡ
+      en: priestess
+      pos: n
+    -
+      gr: μοιρα, μοιρας, ἡ
+      en: portion, lot; destiny, fate
+      cog: Moira
+      pos: n
+    -
+      gr: πειρα, πειρας, ἡ
+      en: attempt, trial
+      cog: empirical
+      pos: n
+    -
+      gr: ὑγιεια, ὑγιειας, ἡ
+      en: health, soundness
+      cog: hygiene
+      pos: n
+    -
+      gr: γλωττα, γλωττης, ἡ
+      en: tongue; language
+      cog: isogloss, glottal
+      pos: n
+    -
+      gr: δοξα, δοξης, ἡ
+      en: opinion; reputation
+      cog: orthodoxy
+      pos: n
+    -
+      gr: θαλαττα, θαλαττης, ἡ
+      en: sea
+      cog: thalassocracy
+      pos: n
+    -
+      gr: τραπεζα, τραπεζης, ἡ
+      en: table; bank (money changer's table)
+      cog: trapeze
+      pos: n
+    -
+      gr: Καλλιας, Καλλιου, ὁ
+      en: Callias
+      pos: n
+    -
+      gr: νεανιας, νεανιου, ὁ
+      en: young man
+      pos: n
+    -
+      gr: δεσποτης, δεσποτου, ὁ
+      en: master, lord; absolute ruler
+      cog: despot
+      pos: n
+    -
+      gr: δισκατης, δισκατου, ὁ
+      en: juryman, judge (in court)
+      pos: n
+    -
+      gr: κριτης, κριτου, ὁ
+      en: judge (in a contest), umpire
+      cog: critic
+      pos: n
+    -
+      gr: ναυτης, ναυτου, ὁ
+      en: sailor
+      cog: nautical
+      pos: n
+    -
+      gr: ὁπλιτης, ὁπλιτου, ὁ
+      en: heavy-armed soldier, hopite
+      pos: n
+    -
+      gr: ποιητης, ποιητου, ὁ
+      en: maker, poet
+      pos: n
+    -
+      gr: πολιτης, πολιτου, ὁ
+      en: citizen
+      cog: politics
+      pos: n
+    -
+      gr: στρατιωτης, στρατιωτου, ὁ
+      en: soldier
+      pos: n
+    -
+      gr: ἀντι (elided ἀντ᾽ or ἀνθ᾽)
+      en: (+ gen.) instead of, in place of, in return for
+      cog: antidote, antipathy, anti-
+      pos: prep 
+    -
+      gr: προ
+      en: (+ gen.) in front of; in defense of; before (of time or preference)
+      cog: proem, problem, prophet
+      pos: prep
+    -
+      gr: δια (elided δι᾽)
+      en: (+ gen.) through (of time or space); through, by (of agent or means); (+ acc.) because of, on account of, by aid of, by reason of
+      cog: dialysis, diachronic
+      pos: prep
+    -
+      gr: μετα (elided μετ᾽ or μεθ᾽)
+      en: (+ gen.) among, with; (+ acc.) after (of time or rank)
+      cog: metaphor, method, metamorphosis
+      pos: prep
