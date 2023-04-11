@@ -501,3 +501,118 @@
       en: (+ gen.) among, with; (+ acc.) after (of time or rank)
       cog: metaphor, method, metamorphosis
       pos: prep
+-
+  name: Unit 07
+  unit: 7
+  vocab:
+    -
+      gr: ἀγαθός, ἁγαθή, ἀγαθόν
+      en: good; well-born; brave
+      cog: Agatha
+      pos: adj
+    -
+      gr: αἰσχρός, αἱσχρά, αἰσχρόν
+      en: ugly; shameful, base, disgraceful (of deeds or things)
+      pos: adj
+    -
+      gr: ἄξιος, ἀξία, ἄξιον
+      en: worth; worthy, deserving of (takes a genitive complement e.g., ἄξιος τιμης, worthy of honor)
+      cog: axiom
+      pos: adj
+    -
+      gr: δῆλος, δῆλη, δῆλον
+      en: clear, manifest
+      cog: psychedelic
+      pos: adj
+    -
+      gr: δίκαιος, δίκαια, δίκαιον
+      en: just
+      pos: adj
+    -
+      gr: κακός, κακή, κακόν
+      en: bad; evil; low-born
+      cog: cacophony
+      pos: adj
+    -
+      gr: καλός, καλή, καλόν
+      en: beautiful, handsome; fine, noble
+      cog: calligraphy
+      pos: adj
+    -
+      gr: μακρός, μακρά, μακρόν
+      en: long, tall, large; far
+      cog: macroscopic
+      pos: adj
+    -
+      gr: μῑκρός, μῑκρά, μῑκρόν
+      en: small, little
+      cog: microscopic, microcomputer
+      pos: adj
+    -
+      gr: πονηρός, πονηρά, πονηρόν
+      en: worthless; knavish; evil, base
+      pos: adj
+    -
+      gr: σοφός, σοφή, σοφόν
+      en: skilled, clever, wise
+      cog: sophomore
+      pos: adj
+    -
+      gr: φίλιος, φιλία, φίλιον
+      en: friendly, friendly to (+ dat. of person); beloved
+      cog: philosophy
+      pos: adj
+    -
+      gr: χαλεπός, χαλεπή, χαλεπόν
+      en: difficult, hard; harsh, cruel
+      pos: adj
+    -
+      gr: ἱερός, ἱερά, ἱερόν
+      en: holy, consecrated
+      cog: Hieronymus (Jerome), hierarchy
+      pos: adj
+    -
+      gr: τὸ ἱερόν
+      en: holy place, shrine
+      pos: n
+    -
+      gr: τὰ ἱερά
+      en: offerings; omens obtained by sacrifice; sacred rites
+      pos: n
+    -
+      gr: πεζός, πεζή, πεζόν
+      en: on foot, on land
+      pos: adj
+    -
+      gr: ὁ πεζός
+      en: infantry
+      pos: n
+    -
+      gr: οἱ πεζοί
+      en: foot soldiers
+      pos: v
+    -
+      gr: πλούσιος, πλουσία, πλούσιον
+      en: wealthy, rich
+      cog: plutocrat
+      pos: adj
+    -
+      gr: οἱ πλούσιοι
+      en: rich men
+      pos: n
+    -
+      gr: πολέμιος, πολεμία, πολέμιον
+      en: hostile; belonging to war
+      pos: adj
+    -
+      gr: οἱ πολέμιοι
+      en: the enemy
+      pos: n
+    -
+      gr: φίλος, φίλη, φίλον
+      en: beloved, dear
+      pos: adj
+    -
+      gr: ὁ φίλος, ἡ φίλη
+      en: (male) friend, (female) friend
+      pos: n
