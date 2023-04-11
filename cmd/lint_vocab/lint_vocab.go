@@ -61,7 +61,7 @@ func LintWord(wtr io.Writer, w Word, label string, i int) int {
 			label, i)
 		errors++
 	} else if !rePos.MatchString(w.Pos) {
-		fmt.Fprintf(wtr, "Invalid 'pos' value found%s, word %d: %s\n",
+		fmt.Fprintf(wtr, "Invalid 'pos' value found%s, word %d: %q\n",
 			label, i, w.Pos)
 		errors++
 	}
