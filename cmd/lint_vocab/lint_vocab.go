@@ -19,7 +19,7 @@ const (
 )
 
 var (
-	rePos = regexp.MustCompile(`^(n|v|adj|adv|pron|prep|conj|neg|part)$`)
+	rePos = regexp.MustCompile(`^(n|v|adj|adv|pron|prep|conj|part)$`)
 )
 
 type Word struct {
