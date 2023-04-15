@@ -164,7 +164,7 @@
       gr: οὐ (οὐκ or οὐχ before vowels)
       en: not (negating statements, words, or phrases)
       cog: Utopia
-      pos: neg
+      pos: adv
 -
   name: Unit 04
   unit: 4
@@ -616,3 +616,81 @@
       gr: ὁ φίλος, ἡ φίλη
       en: (male) friend, (female) friend
       pos: n
+-
+  name: Unit 08
+  unit: 8
+  vocab:
+    -
+      gr: δοῦλος, δούλου, ὁ
+      en: (male) slave
+      cog: hierodule
+      pos: n
+    -
+      gr: δούλη, δούλης, ἡ
+      en: (female) slave
+      pos: n
+    -
+      gr: Κῦρος, Κύρου, ὁ
+      en: Cyrus (son of Achaemenid king Darius II of Persia, who challenged his brother for the throne in 401 B.C.E.)
+      pos: n
+    -
+      gr: πλοῦτος, πλούτου, ὁ
+      en: wealth, riches
+      cog: plutocrat
+      pos: n
+    -
+      gr: πονος, πονου, ὁ
+      en: hard work, toil; suffering
+      cog: geoponics
+      pos: n
+    -
+      gr: ποταμός, ποταμοῦ, ὁ
+      en: river
+      cog: Mesopotamia, hippopotamus
+      pos: n
+    -
+      gr: τρόπος, τρόπου, ὁ
+      en: turn; way, manner, fashion; habits, character
+      cog: tropics, heliotrope
+      pos: n
+    -
+      gr: ὕπνος, ὕπνου, ὁ
+      en: sleep
+      cog: hypnotism
+      pos: n
+    -
+      gr: φθόνος, φθόνου, ὁ
+      en: envy, jealousy
+      pos: n
+    -
+      gr: χρόνος, χρόνου, ὁ
+      en: time; period of time
+      cog: chronology
+      pos: n
+    -
+      gr: ἐπί (elided ἑπ᾽ or ἑφ᾽)
+      en: (+ gen.) upon; in the time of; (+ dat.) upon, over; next to; in addition to; (+ acc.) onto, up to, toward; against
+      cog: epideictic, epiglottis
+      pos: prep
+    -
+      gr: παρά (elided παρ᾽)
+      en: (+ gen.) from the side of, from (usually with a person as object); (+ dat.) by the side of, at the house of (almost alwyas with a person as object); (+ acc.) to the side of; beside, along
+      cog: paranormal, paradox, parallel
+      pos: prep
+    -
+      gr: πρός
+      en: (+ gen.) from, proceeding from; (+ dat.) near, beside; in addition to; (+ acc.) to, toward; against; in respect to, regarding
+      cog: prosthesis, prosody
+      pos: prep
+    -
+      gr: ὅς, ἥ, ὅ
+      en: who, which, that
+      pos: pron
+    -
+      gr: ὧ
+      en: o! (accompanies many vocatives; sometimes to be left untranslated in English)
+      pos: part
+    -
+      gr: μή
+      en: not (with imperatives, infinitives, must subjunctives and optatives, and other constructions to be learned later)
+      pos: adv
