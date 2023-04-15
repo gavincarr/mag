@@ -1,0 +1,3 @@
+- update lint_vocab to check for greek words w/o accents (excl. enclitics)
+- start adding a principal parts dataset
+- add a lint_pp utility
