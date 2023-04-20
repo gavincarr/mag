@@ -742,7 +742,7 @@
       en: hallowed (of things, acts); pious, pure (of persons)
       pos: adj
     -
-      gr: ῥᾴδιοσ, ῥᾳδία, ῥᾴδιον
+      gr: ῥᾴδιος, ῥᾳδία, ῥᾴδιον
       en: easy
       pos: adj
     -
@@ -773,3 +773,94 @@
       gr: οἱ σύμμαχοι
       en: allies
       pos: n
+-
+  name: Unit 10
+  unit: 10
+  vocab:
+    -
+      gr: βάλλω
+      en: throw, strike
+      cog: ballistics
+      pos: v
+    -
+      gr: εἱμί
+      en: be
+      cog: ontology (from the participial stem)
+      pos: v
+    -
+      gr: εὑρίσκω
+      en: find, find out, discover
+      cog: heuristic, Eureka
+      pos: v
+    -
+      gr: πάσχω
+      en: suffer; have (something) done to one, experience
+      cog: sympathy
+      pos: v
+    -
+      gr: πράττω
+      en: effect, accomplish, do; experience (a certain fortune), fare
+      cog: practical
+      pos: v
+    -
+      gr: ἀνάγκη, ἁνάγκης, ἡ
+      en: force, constraint, necessity
+      pos: n
+    -
+      gr: ἁνάγκη (ἐστί)
+      en: (impersonal expression) it is necessary, or compulsory, or unavoidable (+ dat. or acc. of person + inf.; often to be translated with "must" in a personal construction)
+      pos: n
+    -
+      gr: εἰρήνη, εἰρήνης, ἡ
+      en: peace; peace treaty
+      cog: Irene
+      pos: n
+    -
+      gr: ἐπιθυμία, ἐπιθυμίας, ἡ
+      en: desire, yearning
+      pos: n
+    -
+      gr: ἐπιορκία, ἐπιορκίας, ἡ
+      en: false swearing, perjury
+      pos: n
+    -
+      gr: λίθος, λίθου, ὁ/ἡ
+      en: stone; (if fem.) a particular variety of stone (e.g. magnet, crystall)
+      cog: monolith
+      pos: n
+    -
+      gr: μάχη, μάχης, ἡ
+      en: battle, combat
+      cog: Titanomachy
+      pos: n
+    -
+      gr: Ἀθηναῖος, Ἀθηναία, Ἀθηναῖον
+      en: Athenian
+      pos: adj
+    -
+      gr: οἱ Ἀθηναῖοι
+      en: the Athenians
+      pos: n
+    -
+      gr: αἴτιος, αἰτία, αἴτιον
+      en: responsible; responsible for, cause of (+ objective gen.)
+      cog: aetiology
+      pos: adj
+    -
+      gr: πλεῖστος, πλείστη, πλεῖστον
+      en: most, greatest, largest; (often with art.) the greatest number, th e most
+      cog: pleistocene
+      pos: adj
+    -
+      gr: οἱ πλεῖστοι
+      en: the majority, the greatest part (of a group)
+      pos: n
+    -
+      gr: πρότερος, προτέρα, πρότερον
+      en: former, earlier, previous
+      cog: hysteron proteron
+      pos: adj
+    -
+      gr: ὕστερος, ὑστέρα, ὕστερον
+      en: latter, later, next
+      pos: adj
