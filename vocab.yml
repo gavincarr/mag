@@ -694,3 +694,82 @@
       gr: μή
       en: not (with imperatives, infinitives, must subjunctives and optatives, and other constructions to be learned later)
       pos: adv
+-
+  name: Unit 09
+  unit: 9
+  vocab:
+    -
+      gr: ἀκούω
+      en: hear (usually with acc. of thing heard + gen. of person from whom it is heard, alone or commonly with prep. ἀπό, ἐκ, etc.)
+      cog: acoustics
+      pos: v
+    -
+      gr: βλάπτω
+      en: harm, damage
+      pos: v
+    -
+      gr: κελεύω
+      en: order, command (+ acc. of person + inf.)
+      pos: v
+    -
+      gr: τάττω
+      en: marshal, draw up (troops); arrange; appoint
+      cog: tactics, syntagmatic
+      pos: v
+    -
+      gr: δεῖ
+      en: it is necessary, it is needful (for one to do something) (+ acc. of person + inf.) (often to be translated with "ought to", "must", or "should" in a personal construction
+      cog: deontology
+      pos: v
+    -
+      gr: δοκεῖ
+      en: it seems good, it seems best (+ dat. of person + inf.)
+      pos: v
+    -
+      gr: ἔξεστι
+      en: it is permitted, it is possible (+ dat. or acc. of person + inf.)
+      pos: v
+    -
+      gr: πρέπει
+      en: it is fitting, it is becoming, it is seemly (+ dat. or acc. of person + inf.)
+      pos: v
+    -
+      gr: χρή
+      en: it is necessary (+ acc. of person + inf.) (often to be translated with "ought to", "must", or "should" in a personal construction)
+      pos: v
+    -
+      gr: ὅσιος, ὁσιά, ὅσιον
+      en: hallowed (of things, acts); pious, pure (of persons)
+      pos: adj
+    -
+      gr: ῥᾴδιοσ, ῥᾳδία, ῥᾴδιον
+      en: easy
+      pos: adj
+    -
+      gr: ἄδικος, ἄδικον
+      en: unjust
+      pos: adj
+    -
+      gr: ἁθάνατος, ἀθάνατον
+      en: undying, immortal
+      pos: adj
+    -
+      gr: ἀνόσιος, ἀνόσιον
+      en: unholy, profane
+      pos: adj
+    -
+      gr: βάρβαρος, βάρβαρον
+      en: non-Greek-speaking, foreign; (perjorative) barbarian
+      pos: adj
+    -
+      gr: οἱ βάρβαροι
+      en: foreigners, esp. the Persians
+      pos: n
+    -
+      gr: σύμμαχος, σύμμαχον
+      en: fighting along with, allied with
+      pos: adj
+    -
+      gr: οἱ σύμμαχοι
+      en: allies
+      pos: n
