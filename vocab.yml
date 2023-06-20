@@ -2,868 +2,878 @@
   name: Unit 03
   unit: 3
   vocab:
-    -
-      gr: ἄγγελος, ἀγγέλου, ὁ
-      en: messenger, herald
-      cog: angel
-      pos: n
-    -
-      gr: ἀδελφός, ἀδελφοῦ, ὁ
-      en: brother
-      cog: Philadelphia
-      pos: n
-    -
-      gr: ἄνεμος, ἀνέμου, ὁ
-      en: wind
-      cog: anemometer
-      pos: n
-    -
-      gr: ἄνθρωπος, ἀνθρώπου, ὁ
-      en: human being, man (occasionally fem., woman)
-      cog: anthropology
-      pos: n
-    -
-      gr: βίος, βίου, ὁ
-      en: life, manner of living, livelihood
-      cog: biology
-      pos: n
-    -
-      gr: διδάσκαλος, διδασκάλου, ὁ
-      en: teacher; trainer of a chorus, producer of a play
-      cog: Didaskalia, didactic
-      pos: n
-    -
-      gr: ἥλιος, ἡλίου, ὁ
-      en: sun
-      cog: helium
-      pos: n
-    -
-      gr: θάνατος, θανάτου, ὁ
-      en: death
-      cog: euthansia
-      pos: n
-    -
-      gr: θεός, θεοῦ, ὁ
-      en: god, divinity (occasionally fem., goddess)
-      cog: theology
-      pos: n
-    -
-      gr: ἵππος, ἵππου, ὁ
-      en: horse (also fem., mare)
-      cog: hippopotamus
-      pos: n
-    -
-      gr: λόγος, λόγου, ὁ
-      en: word, speech, tale, story; reckoning, account, proportion; reason, rationality
-      cog: philology
-      pos: n
-    -
-      gr: νόμος, νόμου, ὁ
-      en: custom; law
-      cog: economic
-      pos: n
-    -
-      gr: οἶκος, οἴκου, ὁ
-      en: house, dwelling place; household
-      cog: ecology, economy, ecosystem
-      pos: n
-    -
-      gr: πόλεμος, πολέμου, ὁ
-      en: war
-      cog: polemic
-      pos: n
-    -
-      gr: στρατηγός, στρατηγοῦ, ὁ
-      en: general
-      cog: strategic
-      pos: n
-    -
-      gr: στρατός, στρατοῦ, ὁ
-      en: army, host
-      cog: strategic
-      pos: n
-    -
-      gr: φόβος, φόβου, ὁ
-      en: fear
-      cog: phobia, Phobos
-      pos: n
-    -
-      gr: νόσος, νόσου, ἡ
-      en: sickness, disease
-      cog: nosology
-      pos: n
-    -
-      gr: ὁσός, ὁσοῦ, ἡ
-      en: road, path, way; journey
-      cog: odometer, method
-      pos: n
-    -
-      gr: ψῆφος, ψήφου, ἡ
-      en: small stone, pebble (used in reckoning, in games, in voting); vote
-      cog: psephologist
-      pos: n 
-    -
-      gr: βιβλίον, βιβλίου, το
-      en: book
-      cog: bibliophile
-      pos: n
-    -
-      gr: δῶρον, δῶρου, το
-      en: gift; (in political or judicial contexts) bribe
-      cog: Eudora
-      pos: n
-    -
-      gr: ἔργον, ἔργου, το
-      en: work, action, deed
-      cog: erg, energy
-      pos: n
-    -
-      gr: μέτρον, μέτρου, το
-      en: measure, size, distance; moderate amount, proportion
-      cog: meter
-      pos: n
-    -
-      gr: παιδίον, παιδίου, το
-      en: child
-      cog: pediatrics
-      pos: n
-    -
-      gr: ἀπό (ἀπ᾽ or ἀφ᾽ before vowels)
-      en: (+ gen.) away from, from
-      cog: aphelion, apogee, apocalypse
-      pos: prep
-    -
-      gr: ἐκ (ἐξ before vowels)
-      en: (+ gen.) out of, forth from; as a result of
-      cog: eclectic, ecdysiast
-      pos: prep
-    -
-      gr: ἐν
-      en: (+ dat.) in, within, on, at, among
-      cog: encaustic, empathy, ellipsis
-      pos: prep
-    -
-      gr: εἰς or ἐς
-      en: (+ acc.) into, to, toward; with respect to
-      cog: isagogic
-      pos: prep
-    -
-      gr: σύν
-      en: (+ dat.) together with, with
-      cog: synonym, sympathy
-      pos: prep
-    -
-      gr: ἀλλά
-      en: but, but rather
-      pos: conj
-    -
-      gr: καί
-      en: and; (adverbial) even, also, too
-      pos: conj
-    -
-      gr: οὐ (οὐκ or οὐχ before vowels)
-      en: not (negating statements, words, or phrases)
-      cog: Utopia
-      pos: adv
+  -
+    gr: ἄγγελος, ἀγγέλου, ὁ
+    en: messenger, herald
+    cog: angel
+    pos: n
+  -
+    gr: ἀδελφός, ἀδελφοῦ, ὁ
+    en: brother
+    cog: Philadelphia
+    pos: n
+  -
+    gr: ἄνεμος, ἀνέμου, ὁ
+    en: wind
+    cog: anemometer
+    pos: n
+  -
+    gr: ἄνθρωπος, ἀνθρώπου, ὁ
+    en: human being, man (occasionally fem., woman)
+    cog: anthropology
+    pos: n
+  -
+    gr: βίος, βίου, ὁ
+    en: life, manner of living, livelihood
+    cog: biology
+    pos: n
+  -
+    gr: διδάσκαλος, διδασκάλου, ὁ
+    en: teacher; trainer of a chorus, producer of a play
+    cog: Didaskalia, didactic
+    pos: n
+  -
+    gr: ἥλιος, ἡλίου, ὁ
+    en: sun
+    cog: helium
+    pos: n
+  -
+    gr: θάνατος, θανάτου, ὁ
+    en: death
+    cog: euthansia
+    pos: n
+  -
+    gr: θεός, θεοῦ, ὁ
+    en: god, divinity (occasionally fem., goddess)
+    cog: theology
+    pos: n
+  -
+    gr: ἵππος, ἵππου, ὁ
+    en: horse (also fem., mare)
+    cog: hippopotamus
+    pos: n
+  -
+    gr: λόγος, λόγου, ὁ
+    en: word, speech, tale, story; reckoning, account, proportion; reason, rationality
+    cog: philology
+    pos: n
+  -
+    gr: νόμος, νόμου, ὁ
+    en: custom; law
+    cog: economic
+    pos: n
+  -
+    gr: οἶκος, οἴκου, ὁ
+    en: house, dwelling place; household
+    cog: ecology, economy, ecosystem
+    pos: n
+  -
+    gr: πόλεμος, πολέμου, ὁ
+    en: war
+    cog: polemic
+    pos: n
+  -
+    gr: στρατηγός, στρατηγοῦ, ὁ
+    en: general
+    cog: strategic
+    pos: n
+  -
+    gr: στρατός, στρατοῦ, ὁ
+    en: army, host
+    cog: strategic
+    pos: n
+  -
+    gr: φόβος, φόβου, ὁ
+    en: fear
+    cog: phobia, Phobos
+    pos: n
+  -
+    gr: νόσος, νόσου, ἡ
+    en: sickness, disease
+    cog: nosology
+    pos: n
+  -
+    gr: ὁσός, ὁσοῦ, ἡ
+    en: road, path, way; journey
+    cog: odometer, method
+    pos: n
+  -
+    gr: ψῆφος, ψήφου, ἡ
+    en: small stone, pebble (used in reckoning, in games, in voting); vote
+    cog: psephologist
+    pos: n
+  -
+    gr: βιβλίον, βιβλίου, το
+    en: book
+    cog: bibliophile
+    pos: n
+  -
+    gr: δῶρον, δῶρου, το
+    en: gift; (in political or judicial contexts) bribe
+    cog: Eudora
+    pos: n
+  -
+    gr: ἔργον, ἔργου, το
+    en: work, action, deed
+    cog: erg, energy
+    pos: n
+  -
+    gr: μέτρον, μέτρου, το
+    en: measure, size, distance; moderate amount, proportion
+    cog: meter
+    pos: n
+  -
+    gr: παιδίον, παιδίου, το
+    en: child
+    cog: pediatrics
+    pos: n
+  -
+    gr: ἀπό
+    gr_ext: (ἀπ᾽ or ἀφ᾽ before vowels)
+    en: (+ gen.) away from, from
+    cog: aphelion, apogee, apocalypse
+    pos: prep
+  -
+    gr: ἐκ
+    gr_ext: (ἐξ before vowels)
+    en: (+ gen.) out of, forth from; as a result of
+    cog: eclectic, ecdysiast
+    pos: prep
+  -
+    gr: ἐν
+    en: (+ dat.) in, within, on, at, among
+    cog: encaustic, empathy, ellipsis
+    pos: prep
+  -
+    gr: εἰς
+    gr_ext: or ἐς
+    en: (+ acc.) into, to, toward; with respect to
+    cog: isagogic
+    pos: prep
+  -
+    gr: σύν
+    en: (+ dat.) together with, with
+    cog: synonym, sympathy
+    pos: prep
+  -
+    gr: ἀλλά
+    en: but, but rather
+    pos: conj
+  -
+    gr: καί
+    en: and; (adverbial) even, also, too
+    pos: conj
+  -
+    gr: οὐ
+    gr_ext: (οὐκ or οὐχ before vowels)
+    en: not (negating statements, words, or phrases)
+    cog: Utopia
+    pos: adv
 -
   name: Unit 04
   unit: 4
   vocab:
-    -
-      gr: ἁγορά, ἁγορᾶς, ἠ
-      en: assembly, place of assembly; marketplace
-      cog: agoraphobia
-      pos: n
-    -
-      gr: Ἀσπασία, Ἀσπασίας, ἡ
-      en: Aspasia (female proper name)
-      pos: n
-    -
-      gr: δημοκρατία, δημοκρατίας, ἠ
-      en: democracy
-      pos: n
-    -
-      gr: ἡμέρα, ἡμέρας, ἡ
-      en: day
-      cog: ephemeral
-      pos: n
-    -
-      gr: θεά, θεᾶς, ἡ
-      en: goddess
-      pos: n
-    -
-      gr: θύρα, θύρας, ἡ
-      en: door; (freq. pl.) double doors, folding doors
-      pos: n
-    -
-      gr: παιδεία, παιδείας, ἡ
-      en: education, training, culture
-      cog: propaedeutic
-      pos: n
-    -
-      gr: στρατιά, στρατιᾶς, ἡ
-      en: army
-      cog: strategy
-      pos: n
-    -
-      gr: συμφορά, συμφορᾶς, ἡ
-      en: event, happening, circumstance; unlucky event, misfortune
-      pos: n
-    -
-      gr: φιλία, φιλίας, ἡ
-      en: friendship
-      cog: bibliophily
-      pos: n
-    -
-      gr: χώρα, χώρας, ἡ
-      en: land, country; space, room, place
-      cog: chorology
-      pos: n
-    -
-      gr: ἁδελφή, ἁδελφῆς, ἡ
-      en: sister
-      pos: n
-    -
-      gr: ἁρετή, ἁρετῆς, ἡ
-      en: excellence; valor, virtue
-      cog: aretalogy
-      pos: n
-    -
-      gr: ἁρχή, ἁρχῆς, ἡ
-      en: beginning; rule, office; realm, province
-      cog: monarchy
-      pos: n
-    -
-      gr: γνώμη, γνώμης, ἡ
-      en: faculty of judgment; opinion, decision, verdict
-      cog: gnomic
-      pos: n
-    -
-      gr: δίκη, δίκης, ἡ
-      en: justice, right; lawsuit; punishment (levied in a suit)
-      cog: syndic
-      pos: n
-    -
-      gr: ἡδονή, ἡδονῆς, ἡ
-      en: pleasure
-      cog: hedonist
-      pos: n
-    -
-      gr: νίκη, νίκης, ἡ
-      en: victory
-      cog: epinician
-      pos: n
-    -
-      gr: Ξανθίππη, Ξανθίππης, ἡ
-      en: Xanthippe (female proper name)
-      pos: n
-    -
-      gr: σκηνή, σκηνῆς, ἡ
-      en: tent, booth; stage building; stage
-      cog: scene
-      pos: n
-    -
-      gr: τιμή, τιμῆς, ἡ
-      en: honor; esteem; price
-      cog: timocratic
-      pos: n
-    -
-      gr: φυγή, φυγῆς, ἡ
-      en: running away, flight; exile
-      pos: n
-    -
-      gr: φωνή, φωνῆς, ἡ
-      en: sound; voice
-      cog: phonetic
-      pos: n
-    -
-      gr: ψυχή, ψυχῆς, ἡ
-      en: breath of life; life; soul
-      cog: psyche
-      pos: n
+  -
+    gr: ἁγορά, ἁγορᾶς, ἠ
+    en: assembly, place of assembly; marketplace
+    cog: agoraphobia
+    pos: n
+  -
+    gr: Ἀσπασία, Ἀσπασίας, ἡ
+    en: Aspasia (female proper name)
+    pos: n
+  -
+    gr: δημοκρατία, δημοκρατίας, ἠ
+    en: democracy
+    pos: n
+  -
+    gr: ἡμέρα, ἡμέρας, ἡ
+    en: day
+    cog: ephemeral
+    pos: n
+  -
+    gr: θεά, θεᾶς, ἡ
+    en: goddess
+    pos: n
+  -
+    gr: θύρα, θύρας, ἡ
+    en: door; (freq. pl.) double doors, folding doors
+    pos: n
+  -
+    gr: παιδεία, παιδείας, ἡ
+    en: education, training, culture
+    cog: propaedeutic
+    pos: n
+  -
+    gr: στρατιά, στρατιᾶς, ἡ
+    en: army
+    cog: strategy
+    pos: n
+  -
+    gr: συμφορά, συμφορᾶς, ἡ
+    en: event, happening, circumstance; unlucky event, misfortune
+    pos: n
+  -
+    gr: φιλία, φιλίας, ἡ
+    en: friendship
+    cog: bibliophily
+    pos: n
+  -
+    gr: χώρα, χώρας, ἡ
+    en: land, country; space, room, place
+    cog: chorology
+    pos: n
+  -
+    gr: ἁδελφή, ἁδελφῆς, ἡ
+    en: sister
+    pos: n
+  -
+    gr: ἁρετή, ἁρετῆς, ἡ
+    en: excellence; valor, virtue
+    cog: aretalogy
+    pos: n
+  -
+    gr: ἁρχή, ἁρχῆς, ἡ
+    en: beginning; rule, office; realm, province
+    cog: monarchy
+    pos: n
+  -
+    gr: γνώμη, γνώμης, ἡ
+    en: faculty of judgment; opinion, decision, verdict
+    cog: gnomic
+    pos: n
+  -
+    gr: δίκη, δίκης, ἡ
+    en: justice, right; lawsuit; punishment (levied in a suit)
+    cog: syndic
+    pos: n
+  -
+    gr: ἡδονή, ἡδονῆς, ἡ
+    en: pleasure
+    cog: hedonist
+    pos: n
+  -
+    gr: νίκη, νίκης, ἡ
+    en: victory
+    cog: epinician
+    pos: n
+  -
+    gr: Ξανθίππη, Ξανθίππης, ἡ
+    en: Xanthippe (female proper name)
+    pos: n
+  -
+    gr: σκηνή, σκηνῆς, ἡ
+    en: tent, booth; stage building; stage
+    cog: scene
+    pos: n
+  -
+    gr: τιμή, τιμῆς, ἡ
+    en: honor; esteem; price
+    cog: timocratic
+    pos: n
+  -
+    gr: φυγή, φυγῆς, ἡ
+    en: running away, flight; exile
+    pos: n
+  -
+    gr: φωνή, φωνῆς, ἡ
+    en: sound; voice
+    cog: phonetic
+    pos: n
+  -
+    gr: ψυχή, ψυχῆς, ἡ
+    en: breath of life; life; soul
+    cog: psyche
+    pos: n
 -
   name: Unit 05
   unit: 5
   vocab:
-    -
-      gr: ἄγω
-      en: lead; carry
-      cog: pedagogy
-      pos: v
-    -
-      gr: ἀποθνῄσκω (ἀπο)
-      en: die
-      pos: v
-    -
-      gr: ἄρχω
-      en: begin (+ gen.); rule, be leader of (+ gen.)
-      cog: monarchy
-      pos: v
-    -
-      gr: γράφω
-      en: scratch; inscribe; write
-      cog: graphic
-      pos: v
-    -
-      gr: ἐθέλω
-      en: be willing, wish
-      pos: v
-    -
-      gr: ἐλαύνω
-      en: drive, set in motion; (intrans) ride, march
-      cog: elastic
-      pos: v
-    -
-      gr: ἐπιτρέπω (ἐπι)
-      en: turn over to, entrust
-      cog: protreptic
-      pos: v
-    -
-      gr: ἔχω
-      en: have, hold
-      cog: echeneis
-      pos: v
-    -
-      gr: λαμβάνω
-      en: take, grasp; receive
-      cog: narcolepsy
-      pos: v
-    -
-      gr: λέγω
-      en: say, speak; recount
-      pos: v
-    -
-      gr: λείπω
-      en: leave, abandon
-      cog: ellipsis
-      pos: v
-    -
-      gr: λύω
-      en: loosen, release; undo, dissolve
-      cog: analysis
-      pos: v
-    -
-      gr: μένω
-      en: remain, stay; wait for, wait
-      pos: v
-    -
-      gr: πείθω
-      en: persuade, urge
-      pos: v
-    -
-      gr: πέμπω
-      en: send
-      cog: pomp
-      pos: v
-    -
-      gr: φέρω
-      en: bear, carry, bring; endure
-      cog: pheromones, euphoria
-      pos: v
-    -
-      gr: φεύγω
-      en: flee, flee from; be in exile
-      pos: v
-    -
-      gr: ἑταῖρος, ἑταίρου, ὁ
-      en: comrade, companion
-      pos: n
-    -
-      gr: ἑταίρη, ἑταίρας, ἡ
-      en: woman companion; courtesan
-      pos: n
-    -
-      gr: Ἰσαῖος, Ἰσαίου, ὁ
-      en: Isaeus
-      pos: n
-    -
-      gr: Πεισίστρατος, Πεισιστράτου, ὁ
-      en: Peisistratus
-      pos: n
-    -
-      gr: τύραννος, τυράννου, ὁ
-      en: absolute ruler, tyrant
-      cog: tyrannosaurus
-      pos: n
+  -
+    gr: ἄγω
+    en: lead; carry
+    cog: pedagogy
+    pos: v
+  -
+    gr: ἀποθνῄσκω
+    en: die
+    pos: v
+  -
+    gr: ἄρχω
+    en: begin (+ gen.); rule, be leader of (+ gen.)
+    cog: monarchy
+    pos: v
+  -
+    gr: γράφω
+    en: scratch; inscribe; write
+    cog: graphic
+    pos: v
+  -
+    gr: ἐθέλω
+    en: be willing, wish
+    pos: v
+  -
+    gr: ἐλαύνω
+    en: drive, set in motion; (intrans) ride, march
+    cog: elastic
+    pos: v
+  -
+    gr: ἐπιτρέπω
+    en: turn over to, entrust
+    cog: protreptic
+    pos: v
+  -
+    gr: ἔχω
+    en: have, hold
+    cog: echeneis
+    pos: v
+  -
+    gr: λαμβάνω
+    en: take, grasp; receive
+    cog: narcolepsy
+    pos: v
+  -
+    gr: λέγω
+    en: say, speak; recount
+    pos: v
+  -
+    gr: λείπω
+    en: leave, abandon
+    cog: ellipsis
+    pos: v
+  -
+    gr: λύω
+    en: loosen, release; undo, dissolve
+    cog: analysis
+    pos: v
+  -
+    gr: μένω
+    en: remain, stay; wait for, wait
+    pos: v
+  -
+    gr: πείθω
+    en: persuade, urge
+    pos: v
+  -
+    gr: πέμπω
+    en: send
+    cog: pomp
+    pos: v
+  -
+    gr: φέρω
+    en: bear, carry, bring; endure
+    cog: pheromones, euphoria
+    pos: v
+  -
+    gr: φεύγω
+    en: flee, flee from; be in exile
+    pos: v
+  -
+    gr: ἑταῖρος, ἑταίρου, ὁ
+    en: comrade, companion
+    pos: n
+  -
+    gr: ἑταίρη, ἑταίρας, ἡ
+    en: woman companion; courtesan
+    pos: n
+  -
+    gr: Ἰσαῖος, Ἰσαίου, ὁ
+    en: Isaeus
+    pos: n
+  -
+    gr: Πεισίστρατος, Πεισιστράτου, ὁ
+    en: Peisistratus
+    pos: n
+  -
+    gr: τύραννος, τυράννου, ὁ
+    en: absolute ruler, tyrant
+    cog: tyrannosaurus
+    pos: n
 -
   name: Unit 06
   unit: 6
   vocab:
-    -
-      gr: ἀλήθεια, ἀληθείας, ἡ
-      en: truth; truthfulness
-      cog: Alethea
-      pos: n
-    -
-      gr: γέφῡρα, γεφύρας, ἡ
-      en: bridge
-      pos: n
-    -
-      gr: ἱέρεια, ἱερείας, ἡ
-      en: priestess
-      pos: n
-    -
-      gr: μοῖρα, μοίρας, ἡ
-      en: portion, lot; destiny, fate
-      cog: Moira
-      pos: n
-    -
-      gr: πεῖρα, πείρας, ἡ
-      en: attempt, trial
-      cog: empirical
-      pos: n
-    -
-      gr: ὑγίεια, ὑγιείας, ἡ
-      en: health, soundness
-      cog: hygiene
-      pos: n
-    -
-      gr: γλῶττα, γλώττης, ἡ
-      en: tongue; language
-      cog: isogloss, glottal
-      pos: n
-    -
-      gr: δόξα, δόξης, ἡ
-      en: opinion; reputation
-      cog: orthodoxy
-      pos: n
-    -
-      gr: θάλαττα, θαλάττης, ἡ
-      en: sea
-      cog: thalassocracy
-      pos: n
-    -
-      gr: τράπεζα, τραπέζης, ἡ
-      en: table; bank (money changer's table)
-      cog: trapeze
-      pos: n
-    -
-      gr: Καλλίας, Καλλίου, ὁ
-      en: Callias
-      pos: n
-    -
-      gr: νεανίας, νεανίου, ὁ
-      en: young man
-      pos: n
-    -
-      gr: δεσπότης, δεσπότου, ὁ
-      en: master, lord; absolute ruler
-      cog: despot
-      pos: n
-    -
-      gr: δισκατής, δισκατοῦ, ὁ
-      en: juryman, judge (in court)
-      pos: n
-    -
-      gr: κριτής, κριτοῦ, ὁ
-      en: judge (in a contest), umpire
-      cog: critic
-      pos: n
-    -
-      gr: ναύτης, ναύτου, ὁ
-      en: sailor
-      cog: nautical
-      pos: n
-    -
-      gr: ὁπλίτης, ὁπλίτου, ὁ
-      en: heavy-armed soldier, hopite
-      pos: n
-    -
-      gr: ποιητής, ποιητοῦ, ὁ
-      en: maker, poet
-      pos: n
-    -
-      gr: πολίτης, πολίτου, ὁ
-      en: citizen
-      cog: politics
-      pos: n
-    -
-      gr: στρατιώτης, στρατιώτου, ὁ
-      en: soldier
-      pos: n
-    -
-      gr: ἀντί (elided ἀντ᾽ or ἀνθ᾽)
-      en: (+ gen.) instead of, in place of, in return for
-      cog: antidote, antipathy, anti-
-      pos: prep 
-    -
-      gr: πρό
-      en: (+ gen.) in front of; in defense of; before (of time or preference)
-      cog: proem, problem, prophet
-      pos: prep
-    -
-      gr: διά (elided δι᾽)
-      en: (+ gen.) through (of time or space); through, by (of agent or means); (+ acc.) because of, on account of, by aid of, by reason of
-      cog: dialysis, diachronic
-      pos: prep
-    -
-      gr: μετά (elided μετ᾽ or μεθ᾽)
-      en: (+ gen.) among, with; (+ acc.) after (of time or rank)
-      cog: metaphor, method, metamorphosis
-      pos: prep
+  -
+    gr: ἀλήθεια, ἀληθείας, ἡ
+    en: truth; truthfulness
+    cog: Alethea
+    pos: n
+  -
+    gr: γέφῡρα, γεφύρας, ἡ
+    en: bridge
+    pos: n
+  -
+    gr: ἱέρεια, ἱερείας, ἡ
+    en: priestess
+    pos: n
+  -
+    gr: μοῖρα, μοίρας, ἡ
+    en: portion, lot; destiny, fate
+    cog: Moira
+    pos: n
+  -
+    gr: πεῖρα, πείρας, ἡ
+    en: attempt, trial
+    cog: empirical
+    pos: n
+  -
+    gr: ὑγίεια, ὑγιείας, ἡ
+    en: health, soundness
+    cog: hygiene
+    pos: n
+  -
+    gr: γλῶττα, γλώττης, ἡ
+    en: tongue; language
+    cog: isogloss, glottal
+    pos: n
+  -
+    gr: δόξα, δόξης, ἡ
+    en: opinion; reputation
+    cog: orthodoxy
+    pos: n
+  -
+    gr: θάλαττα, θαλάττης, ἡ
+    en: sea
+    cog: thalassocracy
+    pos: n
+  -
+    gr: τράπεζα, τραπέζης, ἡ
+    en: table; bank (money changer's table)
+    cog: trapeze
+    pos: n
+  -
+    gr: Καλλίας, Καλλίου, ὁ
+    en: Callias
+    pos: n
+  -
+    gr: νεανίας, νεανίου, ὁ
+    en: young man
+    pos: n
+  -
+    gr: δεσπότης, δεσπότου, ὁ
+    en: master, lord; absolute ruler
+    cog: despot
+    pos: n
+  -
+    gr: δισκατής, δισκατοῦ, ὁ
+    en: juryman, judge (in court)
+    pos: n
+  -
+    gr: κριτής, κριτοῦ, ὁ
+    en: judge (in a contest), umpire
+    cog: critic
+    pos: n
+  -
+    gr: ναύτης, ναύτου, ὁ
+    en: sailor
+    cog: nautical
+    pos: n
+  -
+    gr: ὁπλίτης, ὁπλίτου, ὁ
+    en: heavy-armed soldier, hopite
+    pos: n
+  -
+    gr: ποιητής, ποιητοῦ, ὁ
+    en: maker, poet
+    pos: n
+  -
+    gr: πολίτης, πολίτου, ὁ
+    en: citizen
+    cog: politics
+    pos: n
+  -
+    gr: στρατιώτης, στρατιώτου, ὁ
+    en: soldier
+    pos: n
+  -
+    gr: ἀντί
+    gr_ext: (elided ἀντ᾽ or ἀνθ᾽)
+    en: (+ gen.) instead of, in place of, in return for
+    cog: antidote, antipathy, anti-
+    pos: prep
+  -
+    gr: πρό
+    en: (+ gen.) in front of; in defense of; before (of time or preference)
+    cog: proem, problem, prophet
+    pos: prep
+  -
+    gr: διά
+    gr_ext: (elided δι᾽)
+    en: (+ gen.) through (of time or space); through, by (of agent or means); (+ acc.) because of, on account of, by aid of, by reason of
+    cog: dialysis, diachronic
+    pos: prep
+  -
+    gr: μετά
+    gr_ext: (elided μετ᾽ or μεθ᾽)
+    en: (+ gen.) among, with; (+ acc.) after (of time or rank)
+    cog: metaphor, method, metamorphosis
+    pos: prep
 -
   name: Unit 07
   unit: 7
   vocab:
-    -
-      gr: ἀγαθός, ἁγαθή, ἀγαθόν
-      en: good; well-born; brave
-      cog: Agatha
-      pos: adj
-    -
-      gr: αἰσχρός, αἱσχρά, αἰσχρόν
-      en: ugly; shameful, base, disgraceful (of deeds or things)
-      pos: adj
-    -
-      gr: ἄξιος, ἀξία, ἄξιον
-      en: worth; worthy, deserving of (takes a genitive complement e.g., ἄξιος τιμης, worthy of honor)
-      cog: axiom
-      pos: adj
-    -
-      gr: δῆλος, δῆλη, δῆλον
-      en: clear, manifest
-      cog: psychedelic
-      pos: adj
-    -
-      gr: δίκαιος, δίκαια, δίκαιον
-      en: just
-      pos: adj
-    -
-      gr: κακός, κακή, κακόν
-      en: bad; evil; low-born
-      cog: cacophony
-      pos: adj
-    -
-      gr: καλός, καλή, καλόν
-      en: beautiful, handsome; fine, noble
-      cog: calligraphy
-      pos: adj
-    -
-      gr: μακρός, μακρά, μακρόν
-      en: long, tall, large; far
-      cog: macroscopic
-      pos: adj
-    -
-      gr: μῑκρός, μῑκρά, μῑκρόν
-      en: small, little
-      cog: microscopic, microcomputer
-      pos: adj
-    -
-      gr: πονηρός, πονηρά, πονηρόν
-      en: worthless; knavish; evil, base
-      pos: adj
-    -
-      gr: σοφός, σοφή, σοφόν
-      en: skilled, clever, wise
-      cog: sophomore
-      pos: adj
-    -
-      gr: φίλιος, φιλία, φίλιον
-      en: friendly, friendly to (+ dat. of person); beloved
-      cog: philosophy
-      pos: adj
-    -
-      gr: χαλεπός, χαλεπή, χαλεπόν
-      en: difficult, hard; harsh, cruel
-      pos: adj
-    -
-      gr: ἱερός, ἱερά, ἱερόν
-      en: holy, consecrated
-      cog: Hieronymus (Jerome), hierarchy
-      pos: adj
-    -
-      gr: τὸ ἱερόν
-      en: holy place, shrine
-      pos: n
-    -
-      gr: τὰ ἱερά
-      en: offerings; omens obtained by sacrifice; sacred rites
-      pos: n
-    -
-      gr: πεζός, πεζή, πεζόν
-      en: on foot, on land
-      pos: adj
-    -
-      gr: ὁ πεζός
-      en: infantry
-      pos: n
-    -
-      gr: οἱ πεζοί
-      en: foot soldiers
-      pos: v
-    -
-      gr: πλούσιος, πλουσία, πλούσιον
-      en: wealthy, rich
-      cog: plutocrat
-      pos: adj
-    -
-      gr: οἱ πλούσιοι
-      en: rich men
-      pos: n
-    -
-      gr: πολέμιος, πολεμία, πολέμιον
-      en: hostile; belonging to war
-      pos: adj
-    -
-      gr: οἱ πολέμιοι
-      en: the enemy
-      pos: n
-    -
-      gr: φίλος, φίλη, φίλον
-      en: beloved, dear
-      pos: adj
-    -
-      gr: ὁ φίλος, ἡ φίλη
-      en: (male) friend, (female) friend
-      pos: n
+  -
+    gr: ἀγαθός, ἁγαθή, ἀγαθόν
+    en: good; well-born; brave
+    cog: Agatha
+    pos: adj
+  -
+    gr: αἰσχρός, αἱσχρά, αἰσχρόν
+    en: ugly; shameful, base, disgraceful (of deeds or things)
+    pos: adj
+  -
+    gr: ἄξιος, ἀξία, ἄξιον
+    en: worth; worthy, deserving of (takes a genitive complement e.g., ἄξιος τιμης, worthy of honor)
+    cog: axiom
+    pos: adj
+  -
+    gr: δῆλος, δῆλη, δῆλον
+    en: clear, manifest
+    cog: psychedelic
+    pos: adj
+  -
+    gr: δίκαιος, δίκαια, δίκαιον
+    en: just
+    pos: adj
+  -
+    gr: κακός, κακή, κακόν
+    en: bad; evil; low-born
+    cog: cacophony
+    pos: adj
+  -
+    gr: καλός, καλή, καλόν
+    en: beautiful, handsome; fine, noble
+    cog: calligraphy
+    pos: adj
+  -
+    gr: μακρός, μακρά, μακρόν
+    en: long, tall, large; far
+    cog: macroscopic
+    pos: adj
+  -
+    gr: μῑκρός, μῑκρά, μῑκρόν
+    en: small, little
+    cog: microscopic, microcomputer
+    pos: adj
+  -
+    gr: πονηρός, πονηρά, πονηρόν
+    en: worthless; knavish; evil, base
+    pos: adj
+  -
+    gr: σοφός, σοφή, σοφόν
+    en: skilled, clever, wise
+    cog: sophomore
+    pos: adj
+  -
+    gr: φίλιος, φιλία, φίλιον
+    en: friendly, friendly to (+ dat. of person); beloved
+    cog: philosophy
+    pos: adj
+  -
+    gr: χαλεπός, χαλεπή, χαλεπόν
+    en: difficult, hard; harsh, cruel
+    pos: adj
+  -
+    gr: ἱερός, ἱερά, ἱερόν
+    en: holy, consecrated
+    cog: Hieronymus (Jerome), hierarchy
+    pos: adj
+  -
+    gr: τὸ ἱερόν
+    en: holy place, shrine
+    pos: n
+  -
+    gr: τὰ ἱερά
+    en: offerings; omens obtained by sacrifice; sacred rites
+    pos: n
+  -
+    gr: πεζός, πεζή, πεζόν
+    en: on foot, on land
+    pos: adj
+  -
+    gr: ὁ πεζός
+    en: infantry
+    pos: n
+  -
+    gr: οἱ πεζοί
+    en: foot soldiers
+    pos: v
+  -
+    gr: πλούσιος, πλουσία, πλούσιον
+    en: wealthy, rich
+    cog: plutocrat
+    pos: adj
+  -
+    gr: οἱ πλούσιοι
+    en: rich men
+    pos: n
+  -
+    gr: πολέμιος, πολεμία, πολέμιον
+    en: hostile; belonging to war
+    pos: adj
+  -
+    gr: οἱ πολέμιοι
+    en: the enemy
+    pos: n
+  -
+    gr: φίλος, φίλη, φίλον
+    en: beloved, dear
+    pos: adj
+  -
+    gr: ὁ φίλος, ἡ φίλη
+    en: (male) friend, (female) friend
+    pos: n
 -
   name: Unit 08
   unit: 8
   vocab:
-    -
-      gr: δοῦλος, δούλου, ὁ
-      en: (male) slave
-      cog: hierodule
-      pos: n
-    -
-      gr: δούλη, δούλης, ἡ
-      en: (female) slave
-      pos: n
-    -
-      gr: Κῦρος, Κύρου, ὁ
-      en: Cyrus (son of Achaemenid king Darius II of Persia, who challenged his brother for the throne in 401 B.C.E.)
-      pos: n
-    -
-      gr: πλοῦτος, πλούτου, ὁ
-      en: wealth, riches
-      cog: plutocrat
-      pos: n
-    -
-      gr: πονος, πονου, ὁ
-      en: hard work, toil; suffering
-      cog: geoponics
-      pos: n
-    -
-      gr: ποταμός, ποταμοῦ, ὁ
-      en: river
-      cog: Mesopotamia, hippopotamus
-      pos: n
-    -
-      gr: τρόπος, τρόπου, ὁ
-      en: turn; way, manner, fashion; habits, character
-      cog: tropics, heliotrope
-      pos: n
-    -
-      gr: ὕπνος, ὕπνου, ὁ
-      en: sleep
-      cog: hypnotism
-      pos: n
-    -
-      gr: φθόνος, φθόνου, ὁ
-      en: envy, jealousy
-      pos: n
-    -
-      gr: χρόνος, χρόνου, ὁ
-      en: time; period of time
-      cog: chronology
-      pos: n
-    -
-      gr: ἐπί (elided ἑπ᾽ or ἑφ᾽)
-      en: (+ gen.) upon; in the time of; (+ dat.) upon, over; next to; in addition to; (+ acc.) onto, up to, toward; against
-      cog: epideictic, epiglottis
-      pos: prep
-    -
-      gr: παρά (elided παρ᾽)
-      en: (+ gen.) from the side of, from (usually with a person as object); (+ dat.) by the side of, at the house of (almost alwyas with a person as object); (+ acc.) to the side of; beside, along
-      cog: paranormal, paradox, parallel
-      pos: prep
-    -
-      gr: πρός
-      en: (+ gen.) from, proceeding from; (+ dat.) near, beside; in addition to; (+ acc.) to, toward; against; in respect to, regarding
-      cog: prosthesis, prosody
-      pos: prep
-    -
-      gr: ὅς, ἥ, ὅ
-      en: who, which, that
-      pos: pron
-    -
-      gr: ὧ
-      en: o! (accompanies many vocatives; sometimes to be left untranslated in English)
-      pos: part
-    -
-      gr: μή
-      en: not (with imperatives, infinitives, must subjunctives and optatives, and other constructions to be learned later)
-      pos: adv
+  -
+    gr: δοῦλος, δούλου, ὁ
+    en: (male) slave
+    cog: hierodule
+    pos: n
+  -
+    gr: δούλη, δούλης, ἡ
+    en: (female) slave
+    pos: n
+  -
+    gr: Κῦρος, Κύρου, ὁ
+    en: Cyrus (son of Achaemenid king Darius II of Persia, who challenged his brother for the throne in 401 B.C.E.)
+    pos: n
+  -
+    gr: πλοῦτος, πλούτου, ὁ
+    en: wealth, riches
+    cog: plutocrat
+    pos: n
+  -
+    gr: πονος, πονου, ὁ
+    en: hard work, toil; suffering
+    cog: geoponics
+    pos: n
+  -
+    gr: ποταμός, ποταμοῦ, ὁ
+    en: river
+    cog: Mesopotamia, hippopotamus
+    pos: n
+  -
+    gr: τρόπος, τρόπου, ὁ
+    en: turn; way, manner, fashion; habits, character
+    cog: tropics, heliotrope
+    pos: n
+  -
+    gr: ὕπνος, ὕπνου, ὁ
+    en: sleep
+    cog: hypnotism
+    pos: n
+  -
+    gr: φθόνος, φθόνου, ὁ
+    en: envy, jealousy
+    pos: n
+  -
+    gr: χρόνος, χρόνου, ὁ
+    en: time; period of time
+    cog: chronology
+    pos: n
+  -
+    gr: ἐπί
+    gr_ext: (elided ἑπ᾽ or ἑφ᾽)
+    en: (+ gen.) upon; in the time of; (+ dat.) upon, over; next to; in addition to; (+ acc.) onto, up to, toward; against
+    cog: epideictic, epiglottis
+    pos: prep
+  -
+    gr: παρά
+    gr_ext: (elided παρ᾽)
+    en: (+ gen.) from the side of, from (usually with a person as object); (+ dat.) by the side of, at the house of (almost alwyas with a person as object); (+ acc.) to the side of; beside, along
+    cog: paranormal, paradox, parallel
+    pos: prep
+  -
+    gr: πρός
+    en: (+ gen.) from, proceeding from; (+ dat.) near, beside; in addition to; (+ acc.) to, toward; against; in respect to, regarding
+    cog: prosthesis, prosody
+    pos: prep
+  -
+    gr: ὅς, ἥ, ὅ
+    en: who, which, that
+    pos: pron
+  -
+    gr: ὧ
+    en: o! (accompanies many vocatives; sometimes to be left untranslated in English)
+    pos: part
+  -
+    gr: μή
+    en: not (with imperatives, infinitives, must subjunctives and optatives, and other constructions to be learned later)
+    pos: adv
 -
   name: Unit 09
   unit: 9
   vocab:
-    -
-      gr: ἀκούω
-      en: hear (usually with acc. of thing heard + gen. of person from whom it is heard, alone or commonly with prep. ἀπό, ἐκ, etc.)
-      cog: acoustics
-      pos: v
-    -
-      gr: βλάπτω
-      en: harm, damage
-      pos: v
-    -
-      gr: κελεύω
-      en: order, command (+ acc. of person + inf.)
-      pos: v
-    -
-      gr: τάττω
-      en: marshal, draw up (troops); arrange; appoint
-      cog: tactics, syntagmatic
-      pos: v
-    -
-      gr: δεῖ
-      en: it is necessary, it is needful (for one to do something) (+ acc. of person + inf.) (often to be translated with "ought to", "must", or "should" in a personal construction
-      cog: deontology
-      pos: v
-    -
-      gr: δοκεῖ
-      en: it seems good, it seems best (+ dat. of person + inf.)
-      pos: v
-    -
-      gr: ἔξεστι
-      en: it is permitted, it is possible (+ dat. or acc. of person + inf.)
-      pos: v
-    -
-      gr: πρέπει
-      en: it is fitting, it is becoming, it is seemly (+ dat. or acc. of person + inf.)
-      pos: v
-    -
-      gr: χρή
-      en: it is necessary (+ acc. of person + inf.) (often to be translated with "ought to", "must", or "should" in a personal construction)
-      pos: v
-    -
-      gr: ὅσιος, ὁσιά, ὅσιον
-      en: hallowed (of things, acts); pious, pure (of persons)
-      pos: adj
-    -
-      gr: ῥᾴδιος, ῥᾳδία, ῥᾴδιον
-      en: easy
-      pos: adj
-    -
-      gr: ἄδικος, ἄδικον
-      en: unjust
-      pos: adj
-    -
-      gr: ἁθάνατος, ἀθάνατον
-      en: undying, immortal
-      pos: adj
-    -
-      gr: ἀνόσιος, ἀνόσιον
-      en: unholy, profane
-      pos: adj
-    -
-      gr: βάρβαρος, βάρβαρον
-      en: non-Greek-speaking, foreign; (perjorative) barbarian
-      pos: adj
-    -
-      gr: οἱ βάρβαροι
-      en: foreigners, esp. the Persians
-      pos: n
-    -
-      gr: σύμμαχος, σύμμαχον
-      en: fighting along with, allied with
-      pos: adj
-    -
-      gr: οἱ σύμμαχοι
-      en: allies
-      pos: n
+  -
+    gr: ἀκούω
+    en: hear (usually with acc. of thing heard + gen. of person from whom it is heard, alone or commonly with prep. ἀπό, ἐκ, etc.)
+    cog: acoustics
+    pos: v
+  -
+    gr: βλάπτω
+    en: harm, damage
+    pos: v
+  -
+    gr: κελεύω
+    en: order, command (+ acc. of person + inf.)
+    pos: v
+  -
+    gr: τάττω
+    en: marshal, draw up (troops); arrange; appoint
+    cog: tactics, syntagmatic
+    pos: v
+  -
+    gr: δεῖ
+    en: it is necessary, it is needful (for one to do something) (+ acc. of person + inf.) (often to be translated with "ought to", "must", or "should" in a personal construction
+    cog: deontology
+    pos: v
+  -
+    gr: δοκεῖ
+    en: it seems good, it seems best (+ dat. of person + inf.)
+    pos: v
+  -
+    gr: ἔξεστι
+    en: it is permitted, it is possible (+ dat. or acc. of person + inf.)
+    pos: v
+  -
+    gr: πρέπει
+    en: it is fitting, it is becoming, it is seemly (+ dat. or acc. of person + inf.)
+    pos: v
+  -
+    gr: χρή
+    en: it is necessary (+ acc. of person + inf.) (often to be translated with "ought to", "must", or "should" in a personal construction)
+    pos: v
+  -
+    gr: ὅσιος, ὁσιά, ὅσιον
+    en: hallowed (of things, acts); pious, pure (of persons)
+    pos: adj
+  -
+    gr: ῥᾴδιος, ῥᾳδία, ῥᾴδιον
+    en: easy
+    pos: adj
+  -
+    gr: ἄδικος, ἄδικον
+    en: unjust
+    pos: adj
+  -
+    gr: ἁθάνατος, ἀθάνατον
+    en: undying, immortal
+    pos: adj
+  -
+    gr: ἀνόσιος, ἀνόσιον
+    en: unholy, profane
+    pos: adj
+  -
+    gr: βάρβαρος, βάρβαρον
+    en: non-Greek-speaking, foreign; (perjorative) barbarian
+    pos: adj
+  -
+    gr: οἱ βάρβαροι
+    en: foreigners, esp. the Persians
+    pos: n
+  -
+    gr: σύμμαχος, σύμμαχον
+    en: fighting along with, allied with
+    pos: adj
+  -
+    gr: οἱ σύμμαχοι
+    en: allies
+    pos: n
 -
   name: Unit 10
   unit: 10
   vocab:
-    -
-      gr: βάλλω
-      en: throw, strike
-      cog: ballistics
-      pos: v
-    -
-      gr: εἱμί
-      en: be
-      cog: ontology (from the participial stem)
-      pos: v
-    -
-      gr: εὑρίσκω
-      en: find, find out, discover
-      cog: heuristic, Eureka
-      pos: v
-    -
-      gr: πάσχω
-      en: suffer; have (something) done to one, experience
-      cog: sympathy
-      pos: v
-    -
-      gr: πράττω
-      en: effect, accomplish, do; experience (a certain fortune), fare
-      cog: practical
-      pos: v
-    -
-      gr: ἀνάγκη, ἁνάγκης, ἡ
-      en: force, constraint, necessity
-      pos: n
-    -
-      gr: ἁνάγκη (ἐστί)
-      en: (impersonal expression) it is necessary, or compulsory, or unavoidable (+ dat. or acc. of person + inf.; often to be translated with "must" in a personal construction)
-      pos: n
-    -
-      gr: εἰρήνη, εἰρήνης, ἡ
-      en: peace; peace treaty
-      cog: Irene
-      pos: n
-    -
-      gr: ἐπιθυμία, ἐπιθυμίας, ἡ
-      en: desire, yearning
-      pos: n
-    -
-      gr: ἐπιορκία, ἐπιορκίας, ἡ
-      en: false swearing, perjury
-      pos: n
-    -
-      gr: λίθος, λίθου, ὁ/ἡ
-      en: stone; (if fem.) a particular variety of stone (e.g. magnet, crystall)
-      cog: monolith
-      pos: n
-    -
-      gr: μάχη, μάχης, ἡ
-      en: battle, combat
-      cog: Titanomachy
-      pos: n
-    -
-      gr: Ἀθηναῖος, Ἀθηναία, Ἀθηναῖον
-      en: Athenian
-      pos: adj
-    -
-      gr: οἱ Ἀθηναῖοι
-      en: the Athenians
-      pos: n
-    -
-      gr: αἴτιος, αἰτία, αἴτιον
-      en: responsible; responsible for, cause of (+ objective gen.)
-      cog: aetiology
-      pos: adj
-    -
-      gr: πλεῖστος, πλείστη, πλεῖστον
-      en: most, greatest, largest; (often with art.) the greatest number, th e most
-      cog: pleistocene
-      pos: adj
-    -
-      gr: οἱ πλεῖστοι
-      en: the majority, the greatest part (of a group)
-      pos: n
-    -
-      gr: πρότερος, προτέρα, πρότερον
-      en: former, earlier, previous
-      cog: hysteron proteron
-      pos: adj
-    -
-      gr: ὕστερος, ὑστέρα, ὕστερον
-      en: latter, later, next
-      pos: adj
+  -
+    gr: βάλλω
+    en: throw, strike
+    cog: ballistics
+    pos: v
+  -
+    gr: εἱμί
+    en: be
+    cog: ontology (from the participial stem)
+    pos: v
+  -
+    gr: εὑρίσκω
+    en: find, find out, discover
+    cog: heuristic, Eureka
+    pos: v
+  -
+    gr: πάσχω
+    en: suffer; have (something) done to one, experience
+    cog: sympathy
+    pos: v
+  -
+    gr: πράττω
+    en: effect, accomplish, do; experience (a certain fortune), fare
+    cog: practical
+    pos: v
+  -
+    gr: ἀνάγκη, ἁνάγκης, ἡ
+    en: force, constraint, necessity
+    pos: n
+  -
+    gr: ἁνάγκη
+    gr_ext: (ἐστί)
+    en: (impersonal expression) it is necessary, or compulsory, or unavoidable (+ dat. or acc. of person + inf.; often to be translated with "must" in a personal construction)
+    pos: n
+  -
+    gr: εἰρήνη, εἰρήνης, ἡ
+    en: peace; peace treaty
+    cog: Irene
+    pos: n
+  -
+    gr: ἐπιθυμία, ἐπιθυμίας, ἡ
+    en: desire, yearning
+    pos: n
+  -
+    gr: ἐπιορκία, ἐπιορκίας, ἡ
+    en: false swearing, perjury
+    pos: n
+  -
+    gr: λίθος, λίθου, ὁ/ἡ
+    en: stone; (if fem.) a particular variety of stone (e.g. magnet, crystall)
+    cog: monolith
+    pos: n
+  -
+    gr: μάχη, μάχης, ἡ
+    en: battle, combat
+    cog: Titanomachy
+    pos: n
+  -
+    gr: Ἀθηναῖος, Ἀθηναία, Ἀθηναῖον
+    en: Athenian
+    pos: adj
+  -
+    gr: οἱ Ἀθηναῖοι
+    en: the Athenians
+    pos: n
+  -
+    gr: αἴτιος, αἰτία, αἴτιον
+    en: responsible; responsible for, cause of (+ objective gen.)
+    cog: aetiology
+    pos: adj
+  -
+    gr: πλεῖστος, πλείστη, πλεῖστον
+    en: most, greatest, largest; (often with art.) the greatest number, th e most
+    cog: pleistocene
+    pos: adj
+  -
+    gr: οἱ πλεῖστοι
+    en: the majority, the greatest part (of a group)
+    pos: n
+  -
+    gr: πρότερος, προτέρα, πρότερον
+    en: former, earlier, previous
+    cog: hysteron proteron
+    pos: adj
+  -
+    gr: ὕστερος, ὑστέρα, ὕστερον
+    en: latter, later, next
+    pos: adj
 -
   name: Unit 11
   unit: 11
@@ -939,7 +949,8 @@
     en: learn, hear (sometimes + gen. of person); learn by inquiry, inquire
     pos: v
   -
-    gr: ὑπο (elided ὑπ᾽ or ὑψ᾽)
+    gr: ὑπο
+    gr_ext: (elided ὑπ᾽ or ὑψ᾽)
     en: (+ gen.) from under, under; by (agent with passive verb or expression); (+ dat.) under; under the power of; (+ acc.) under, during, in the course of
     cog: hypothesis, hypotenuse, hypodermic
     pos: prep
@@ -997,11 +1008,13 @@
     en: at that time, then
     pos: adv
   -
-    gr: τε (elided τ᾽ or θ᾽)
+    gr: τε
+    gr_ext: (elided τ᾽ or θ᾽)
     en: (postpositive) and
     pos: conj
   -
-    gr: δέ (elided δ᾽)
+    gr: δέ
+    gr_ext: (elided δ᾽)
     en: (postpositive) and, but
     pos: conj
   -
@@ -1018,17 +1031,20 @@
     cog: tautology, autocrat
     pos: pron
   -
-    gr: ἀνά (elided ἀν᾽)
+    gr: ἀνά
+    gr_ext: (elided ἀν᾽)
     en: (+ acc.) up, up along, throughout
     cog: analogy, anagram, anabasis, anode)
     pos: prep
   -
-    gr: κατά (elided κατ᾽ or καθ᾽)
+    gr: κατά
+    gr_ext: (elided κατ᾽ or καθ᾽)
     en: (+ gen.) down from, down upon; against (the interests of a person); concerning; (+ acc.) down along, over, throughout; in accordance with
     cog: katabasis, catalyst, catalog, cathode
     pos: prep
   -
-    gr: περί (never elided)
+    gr: περί
+    gr_ext: (never elided)
     en: (+ gen.) about, concerning; above, beyond; (+ dat.) around (position); about (an object for which one struggles); (+ acc.) around (motion); about, concerning
     cog: perihelion, perimeter, periphery
     pos: prep
