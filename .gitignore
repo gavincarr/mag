@@ -6,7 +6,6 @@
 /.env.local
 /.netrc
 /DevNotes
-/Rakefile
 /TODO
 /c.out
 /data/*
