@@ -864,3 +864,176 @@
       gr: ὕστερος, ὑστέρα, ὕστερον
       en: latter, later, next
       pos: adj
+-
+  name: Unit 11
+  unit: 11
+  vocab:
+  -
+    gr: ἀποκτείνω
+    en: kill, put to death
+    pos: v
+  -
+    gr: βουλεύω
+    en: plan, devise; (mid.) take counsel, deliberate
+    cog: probouleutic
+    pos: v
+  -
+    gr: γυμνάζω
+    en: train (naked), exercise; (mid.) exercise oneself, be in training
+    cog: gymnastics, gymnasium
+    pos: v
+  -
+    gr: δικάζω
+    en: judge; serve as judge or juror; (mid.) plead a case, participate in a suit
+    pos: v
+  -
+    gr: κόπτω
+    en: strike, chop, beat; plunder (land); (mid.) beat one's breast in mourning
+    cog: syncope
+    pos: v
+  -
+    gr: παρασκευάζω
+    en: prepare, provide, procure; (mid.) prepare for oneself, make preparations
+    pos: v
+  -
+    gr: πολιτεύω
+    en: be a citizen; hae a certain form of government; (mid.) live or behave as a free citizen; participate in politics
+    pos: v
+  -
+    gr: σπένδω
+    en: pour a libation; (mid.) exchange libations, make a truce, make peace
+    cog: spondaic
+    pos: v
+  -
+    gr: αἰσθάνομαι
+    en: perceive (+ acc. or + gen.); sense, understand
+    cog: aesthetics
+    pos: v
+  -
+    gr: βούλομαι
+    en: want, desire wish (+ complementary inf.)
+    pos: v
+  -
+    gr: γίγνομαι
+    en: come into being, be born, become; occur
+    cog: genus
+    pos: v
+  -
+    gr: ἔρχομαι
+    en: come, go
+    pos: v
+  -
+    gr: μάχομαι
+    en: fight (+ dat. of the enemy person or + prep. phrase)
+    pos: v
+  -
+    gr: οἴομαι or οἶμαι
+    en: think, suppose, believe
+    pos: v
+  -
+    gr: παρακελεύομαι
+    en: exhort, encourage (+ dat. of person, sometimes + inf.)
+    pos: v
+  -
+    gr: πυνθάνομαι
+    en: learn, hear (sometimes + gen. of person); learn by inquiry, inquire
+    pos: v
+  -
+    gr: ὑπο (elided ὑπ᾽ or ὑψ᾽)
+    en: (+ gen.) from under, under; by (agent with passive verb or expression); (+ dat.) under; under the power of; (+ acc.) under, during, in the course of
+    cog: hypothesis, hypotenuse, hypodermic
+    pos: prep
+-
+  name: Unit 12
+  unit: 12
+  vocab:
+  -
+    gr: ἀεί
+    en: always
+    pos: adv
+  -
+    gr: αὖ
+    en: again; in turn
+    pos: adv
+  -
+    gr: αὖθις
+    en: again; in turn; hereafter, in the future
+    pos: adv
+  -
+    gr: αὐτίκα
+    en: at once, immediately
+    pos: adv
+  -
+    gr: εἶτα
+    en: then, next; accordingly, therefore
+    pos: adv
+  -
+    gr: ἔπειτα
+    en: then, next; therefore
+    pos: adv
+  -
+    gr: ἐνθάδε
+    en: here, there
+    pos: adv
+  -
+    gr: εὖ
+    en: well
+    cog: euphony, eugenics, euthanasia
+    pos: adv
+  -
+    gr: ἤδη
+    en: already; immediately; actually, now
+    pos: adv
+  -
+    gr: μάλα
+    en: very, exceedingly
+    pos: adv
+  -
+    gr: νῦν
+    en: now, presently
+    pos: adv
+  -
+    gr: τότε
+    en: at that time, then
+    pos: adv
+  -
+    gr: τε (elided τ᾽ or θ᾽)
+    en: (postpositive) and
+    pos: conj
+  -
+    gr: δέ (elided δ᾽)
+    en: (postpositive) and, but
+    pos: conj
+  -
+    gr: γάρ
+    en: (postpositive) for, because
+    pos: conj
+  -
+    gr: μέν
+    en: (postpositive; emphatic particle usually anticipating a contrast with δέ)
+    pos: conj
+  -
+    gr: αὐτός, αὐτή, αὐτό
+    en: (oblique cases) him, her, it, them; (intensive) myself, himself, herself, itself, etc; (with art.) the same
+    cog: tautology, autocrat
+    pos: pron
+  -
+    gr: ἀνά (elided ἀν᾽)
+    en: (+ acc.) up, up along, throughout
+    cog: analogy, anagram, anabasis, anode)
+    pos: prep
+  -
+    gr: κατά (elided κατ᾽ or καθ᾽)
+    en: (+ gen.) down from, down upon; against (the interests of a person); concerning; (+ acc.) down along, over, throughout; in accordance with
+    cog: katabasis, catalyst, catalog, cathode
+    pos: prep
+  -
+    gr: περί (never elided)
+    en: (+ gen.) about, concerning; above, beyond; (+ dat.) around (position); about (an object for which one struggles); (+ acc.) around (motion); about, concerning
+    cog: perihelion, perimeter, periphery
+    pos: prep
+  -
+    gr: ὑπέρ
+    en: (+ gen.) over, above (of motion or position); in defense of; concerning; (+ acc.) over, across, beyond (of motion or position)
+    cog: hypertrophy, hyperbole, Hyperion
+    pos: prep
