@@ -103,8 +103,10 @@
 στρατιώτης,"στρατιώτης, στρατιώτου, ὁ",soldier,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
 ἀντί,ἀντί (elided ἀντ᾽ or ἀνθ᾽),"(+ gen.) instead of, in place of, in return for",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
 πρό,πρό,(+ gen.) in front of; in defense of; before (of time or preference),pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
-διά,διά (elided δι᾽),"(+ gen.) through (of time or space); through, by (of agent or means); (+ acc.) because of, on account of, by aid of, by reason of",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
-μετά,μετά (elided μετ᾽ or μεθ᾽),"(+ gen.) among, with; (+ acc.) after (of time or rank)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
+διά-gen,διά (elided δι᾽) (+ gen.),"(+ gen.) through (of time or space); through, by (of agent or means)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
+διά-acc,διά (elided δι᾽) (+ acc.),"(+ acc.) because of, on account of, by aid of, by reason of",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
+μετά-gen,μετά (elided μετ᾽ or μεθ᾽) (+ gen.),"(+ gen.) among, with",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
+μετά-acc,μετά (elided μετ᾽ or μεθ᾽) (+ acc.),(+ acc.) after (of time or rank),pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
 ἀγαθός,"ἀγαθός, ἁγαθή, ἀγαθόν",good; well-born; brave,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 07
 αἰσχρός,"αἰσχρός, αἱσχρά, αἰσχρόν","ugly; shameful, base, disgraceful (of deeds or things)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 07
 ἄξιος,"ἄξιος, ἀξία, ἄξιον","worth; worthy, deserving of (takes a genitive complement e.g., ἄξιος τιμης, worthy of honor)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 07
@@ -140,9 +142,15 @@
 ὕπνος,"ὕπνος, ὕπνου, ὁ",sleep,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 φθόνος,"φθόνος, φθόνου, ὁ","envy, jealousy",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 χρόνος,"χρόνος, χρόνου, ὁ",time; period of time,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-ἐπί,ἐπί (elided ἑπ᾽ or ἑφ᾽),"(+ gen.) upon; in the time of; (+ dat.) upon, over; next to; in addition to; (+ acc.) onto, up to, toward; against",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-παρά,παρά (elided παρ᾽),"(+ gen.) from the side of, from (usually with a person as object); (+ dat.) by the side of, at the house of (almost alwyas with a person as object); (+ acc.) to the side of; beside, along",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-πρός,πρός,"(+ gen.) from, proceeding from; (+ dat.) near, beside; in addition to; (+ acc.) to, toward; against; in respect to, regarding",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+ἐπί-gen,ἐπί (elided ἑπ᾽ or ἑφ᾽) (+ gen.),(+ gen.) upon; in the time of,pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+ἐπί-dat,ἐπί (elided ἑπ᾽ or ἑφ᾽) (+ dat.),"(+ dat.) upon, over; next to; in addition to",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+ἐπί-acc,ἐπί (elided ἑπ᾽ or ἑφ᾽) (+ acc.),"(+ acc.) onto, up to, toward; against",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+παρά-gen,παρά (elided παρ᾽) (+ gen.),"(+ gen.) from the side of, from (usually with a person as object)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+παρά-dat,παρά (elided παρ᾽) (+ dat.),"(+ dat.) by the side of, at the house of (almost alwyas with a person as object)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+παρά-acc,παρά (elided παρ᾽) (+ acc.),"(+ acc.) to the side of; beside, along",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+πρός-gen,πρός (+ gen.),"(+ gen.) from, proceeding from",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+πρός-dat,πρός (+ dat.),"(+ dat.) near, beside; in addition to",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+πρός-acc,πρός (+ acc.),"(+ acc.) to, toward; against; in respect to, regarding",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 ὅς,"ὅς, ἥ, ὅ","who, which, that",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 ὧ,ὧ,o! (accompanies many vocatives; sometimes to be left untranslated in English),pos::particle,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 μή,μή,"not (with imperatives, infinitives, must subjunctives and optatives, and other constructions to be learned later)",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
@@ -199,7 +207,9 @@
 οἴομαι or οἶμαι,οἴομαι or οἶμαι,"think, suppose, believe",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
 παρακελεύομαι,παρακελεύομαι,"exhort, encourage (+ dat. of person, sometimes + inf.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
 πυνθάνομαι,πυνθάνομαι,"learn, hear (sometimes + gen. of person); learn by inquiry, inquire",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
-ὑπο,ὑπο (elided ὑπ᾽ or ὑψ᾽),"(+ gen.) from under, under; by (agent with passive verb or expression); (+ dat.) under; under the power of; (+ acc.) under, during, in the course of",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+ὑπο-gen,ὑπο (elided ὑπ᾽ or ὑψ᾽) (+ gen.),"(+ gen.) from under, under; by (agent with passive verb or expression)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+ὑπο-dat,ὑπο (elided ὑπ᾽ or ὑψ᾽) (+ dat.),(+ dat.) under; under the power of,pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+ὑπο-acc,ὑπο (elided ὑπ᾽ or ὑψ᾽) (+ acc.),"(+ acc.) under, during, in the course of",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
 ἀεί,ἀεί,always,pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 αὖ,αὖ,again; in turn,pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 αὖθις,αὖθις,"again; in turn; hereafter, in the future",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
@@ -218,9 +228,13 @@
 μέν,μέν,(postpositive; emphatic particle usually anticipating a contrast with δέ),pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 αὐτός,"αὐτός, αὐτή, αὐτό","(oblique cases) him, her, it, them; (intensive) myself, himself, herself, itself, etc; (with art.) the same",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 ἀνά,ἀνά (elided ἀν᾽),"(+ acc.) up, up along, throughout",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
-κατά,κατά (elided κατ᾽ or καθ᾽),"(+ gen.) down from, down upon; against (the interests of a person); concerning; (+ acc.) down along, over, throughout; in accordance with",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
-περί,περί (never elided),"(+ gen.) about, concerning; above, beyond; (+ dat.) around (position); about (an object for which one struggles); (+ acc.) around (motion); about, concerning",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
-ὑπέρ,ὑπέρ,"(+ gen.) over, above (of motion or position); in defense of; concerning; (+ acc.) over, across, beyond (of motion or position)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+κατά-gen,κατά (elided κατ᾽ or καθ᾽) (+ gen.),"(+ gen.) down from, down upon; against (the interests of a person); concerning",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+κατά-acc,κατά (elided κατ᾽ or καθ᾽) (+ acc.),"(+ acc.) down along, over, throughout; in accordance with",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+περί-gen,περί (never elided) (+ gen.),"(+ gen.) about, concerning; above, beyond",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+περί-dat,περί (never elided) (+ dat.),(+ dat.) around (position); about (an object for which one struggles),pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+περί-acc,περί (never elided) (+ acc.),"(+ acc.) around (motion); about, concerning",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+ὑπέρ-gen,ὑπέρ (+ gen.),"(+ gen.) over, above (of motion or position); in defense of; concerning",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+ὑπέρ-acc,ὑπέρ (+ acc.),"(+ acc.) over, across, beyond (of motion or position)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 ἀδικέω,ἀδικέω,"be unjust, do wrong; harm, do wrong to (someone [acc.])",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 αἱρέω,αἱρέω,"take, grasp, seize; (mid.) choose, elect",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 ἀφικνέομαι,ἀφικνέομαι,"arrive at, come to, reach",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
