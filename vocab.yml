@@ -727,7 +727,8 @@
     pos: v
   -
     gr: δεῖ
-    en: it is necessary, it is needful (for one to do something) (+ acc. of person + inf.) (often to be translated with "ought to", "must", or "should" in a personal construction
+    en: it is necessary, it is needful (for one to do something) (+ acc. of person + inf.)
+    en_ext: (often to be translated with "ought to", "must", or "should" in a personal construction
     cog: deontology
     pos: v
   -
@@ -1053,3 +1054,220 @@
     en: (+ gen.) over, above (of motion or position); in defense of; concerning; (+ acc.) over, across, beyond (of motion or position)
     cog: hypertrophy, hyperbole, Hyperion
     pos: prep
+-
+  name: Unit 13
+  unit: 13
+  vocab:
+  -
+    gr: ἀδικέω
+    en: be unjust, do wrong; harm, do wrong to (someone [acc.])
+    pos: v
+  -
+    gr: αἱρέω
+    gr_mp: αἱροῦμαι
+    en: take, grasp, seize; (mid.) choose, elect
+    cog: heresy
+    pos: v
+  -
+    gr: ἀφικνέομαι
+    en: arrive at, come to, reach
+    pos: v
+  -
+    gr: δέω
+    en: lack, be in need of (+ gen.)
+    en_ext: (active rare apart from use in certain fixed idioms)
+    pos: v
+  -
+    gr: δέομαι
+    en: want, be in need of (+ gen.) (more common than the active); beg, ask for (+ gen. of person + inf.)
+    pos: v
+  -
+    gr: δεῖται
+    en: (impersonal) there is need of (+ dat. of person and gen. of thing needed)
+    pos: v
+  -
+    gr: δοκέω
+    en: (commonly) seem (sometimes + dat. of person + inf.); (rarely in prose) think, suppose
+    pos: v
+  -
+    gr: κρατέω
+    en: be strong; rule over (+ gen.); conquer (+ acc. or gen.)
+    cog: democratic
+    pos: v
+  -
+    gr: νοσέω
+    en: be sick
+    pos: v
+  -
+    gr: οἰκέω
+    en: inhabit, settle; manage (a house or a government); dwell, live
+    cog: economy, ecology
+    pos: v
+  -
+    gr: ποιέω
+    en: make, produce; do
+    cog: poet
+    pos: v
+  -
+    gr: φιλέω
+    en: love, like
+    pos: v
+  -
+    gr: φοβέω
+    en: put to flight; terrify, frighten; (more commonly, mid./pass.) be afraid, be afraid of (+ acc; + inf)
+    pos: v
+  -
+    gr: ὠφελέω
+    en: help, aid
+    pos: v
+  -
+    gr: ὅδε, ἥδε, τόδε
+    en: this; the following
+    pos: adj
+    poss: demonstrative
+  -
+    gr: οὗτος, ἅυτη, τοῦτο
+    en: this; the foregoing; the latter
+    pos: adj
+    poss: demonstrative
+  -
+    gr: ἐκεῖνος, ἐκείνη, ἐκεῖνο
+    en: that, the former
+    pos: adj
+    poss: demonstrative
+  -
+    gr: ὧδε
+    en: in this way, thus, so very
+    pos: adv
+    poss: demonstrative
+  -
+    gr: οὕτω
+    gr_ext: (before vowel) οὕτως
+    en: in this manner, thus, so
+    pos: adv
+    poss: demonstrative
+  -
+    gr: ἐκείνως
+    en: in that manner
+    pos: adv
+    poss: demonstrative
+  -
+    gr: ἐκεῖ
+    en: in that place, there
+    pos: adv
+    poss: demonstrative
+-
+  name: Unit 14
+  unit: 14
+  vocab:
+  -
+    gr: θώραξ, θώρακος, ὁ
+    en: breastplate; breast, trunk (of the body)
+    cog: thoracic
+    pos: n
+  -
+    gr: κλώψ, κλοπός, ὁ
+    en: thief
+    cog: kleptomania
+    pos: n
+  -
+    gr: φάλαγξ, φάλαγγος, ἡ
+    en: line of battle; line of hoplites
+    cog: phalanx, Falangist
+    pos: n
+  -
+    gr: φύλαξ, φύλακος, ὁ
+    en: guard, sentinel
+    cog: prophylactic
+    pos: n
+  -
+    gr: ἀσπίς, ἀσπίδος, ἡ
+    en: shield
+    cog: aspidistra
+    pos: n
+  -
+    gr: Ἑλλάς, Ἑλλάδος, ἡ
+    en: Hellas, Greece
+    cog: Helladic
+    pos: n
+  -
+    gr: ἐλπίς, ἐλπίδος, ἡ
+    en: hope, expectation
+    pos: n
+  -
+    gr: ἔρις, ἔριδος, ἡ
+    en: strife, quarrel, rivalry
+    cog: eristic
+    pos: n
+  -
+    gr: ὄρνις, ὄρνιθος, ὁ or ἡ
+    en: bird; omen
+    cog: ornithology
+    pos: n
+  -
+    gr: πατρίς, πατρίδος, ἡ
+    en: fatherland
+    cog: patriotic
+    pos: n
+  -
+    gr: χάρις, χάριτος, ἡ
+    en: grace, beauty; favor, kindness; gratitude
+    cog: charisma, Eucharist
+    pos: n
+  -
+    gr: φυγάς, φυγάδος, ὁ or ἡ
+    en: exile; runaway, fugitive
+    pos: n
+  -
+    gr: γέρων, γέροντος, ὁ
+    en: old man
+    cog: geriatrics
+    pos: n
+  -
+    gr: γίγας, γίγαντος, ὁ
+    en: Earth-born monster, giant
+    cog: gigantic, gigabyte
+    pos: n
+  -
+    gr: λέων, λέοντος, ὁ
+    en: lion
+    cog: Leontyne
+    pos: n
+  -
+    gr: ὀδούς, ὀδόντος, ὁ
+    en: tooth
+    cog: orthodontist
+    pos: n
+  -
+    gr: βούλευμα, βουλεύματος, το
+    en: plan; proposal, resolution
+    pos: n
+  -
+    gr: γράμμα, γράμματος, το
+    en: line, picture; letter (of alphabet); piece of writing
+    cog: grammatical, grammatology
+    pos: n
+  -
+    gr: ποίημα, ποιήματος, το
+    en: work, product; poem
+    pos: n
+  -
+    gr: πρᾶγμα, πράγματος, το
+    en: deed, action; event, circumstance, thing; (pl.) toil, trouble
+    cog: pragmatic
+    pos: n
+  -
+    gr: τέρας, τέρατος, το
+    en: portent, sign, marvel; monster
+    cog: teratogenesis
+    pos: n
+  -
+    gr: ὕδωρ, ὕδατος, το
+    en: water
+    cog: hydrofoil
+    pos: n
+  -
+    gr: φῶς, φωτός, το
+    en: light
+    cog: photon, photograph
+    pos: n
