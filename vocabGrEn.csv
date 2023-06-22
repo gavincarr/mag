@@ -2,6 +2,7 @@
 #separator:Comma
 #columns:ID,Front,Back,Tags,DeckName
 #deck column:5
+#html:true
 ἄγγελος,"ἄγγελος, ἀγγέλου, ὁ","messenger, herald",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
 ἀδελφός,"ἀδελφός, ἀδελφοῦ, ὁ",brother,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
 ἄνεμος,"ἄνεμος, ἀνέμου, ὁ",wind,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
@@ -34,7 +35,7 @@
 σύν,σύν,"(+ dat.) together with, with",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
 ἀλλά,ἀλλά,"but, but rather",pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
 καί,καί,"and; (adverbial) even, also, too",pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
-οὐ,οὐ (οὐκ or οὐχ before vowels),"not (negating statements, words, or phrases)",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
+οὐ,οὐ (οὐκ or οὐχ before vowels),"not<br><i>(negating statements, words, or phrases)</i>",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
 ἁγορά,"ἁγορά, ἁγορᾶς, ἠ","assembly, place of assembly; marketplace",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 04
 Ἀσπασία,"Ἀσπασία, Ἀσπασίας, ἡ",Aspasia (female proper name),pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 04
 δημοκρατία,"δημοκρατία, δημοκρατίας, ἠ",democracy,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 04
@@ -103,10 +104,10 @@
 στρατιώτης,"στρατιώτης, στρατιώτου, ὁ",soldier,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
 ἀντί,ἀντί (elided ἀντ᾽ or ἀνθ᾽),"(+ gen.) instead of, in place of, in return for",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
 πρό,πρό,(+ gen.) in front of; in defense of; before (of time or preference),pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
-διά-gen,διά (elided δι᾽) (+ gen.),"(+ gen.) through (of time or space); through, by (of agent or means)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
-διά-acc,διά (elided δι᾽) (+ acc.),"(+ acc.) because of, on account of, by aid of, by reason of",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
-μετά-gen,μετά (elided μετ᾽ or μεθ᾽) (+ gen.),"(+ gen.) among, with",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
-μετά-acc,μετά (elided μετ᾽ or μεθ᾽) (+ acc.),(+ acc.) after (of time or rank),pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
+διά-gen,διά (+ gen.) (elided δι᾽),"(+ gen.) through (of time or space); through, by (of agent or means)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
+διά-acc,διά (+ acc.) (elided δι᾽),"(+ acc.) because of, on account of, by aid of, by reason of",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
+μετά-gen,μετά (+ gen.) (elided μετ᾽ or μεθ᾽),"(+ gen.) among, with",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
+μετά-acc,μετά (+ acc.) (elided μετ᾽ or μεθ᾽),(+ acc.) after (of time or rank),pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 06
 ἀγαθός,"ἀγαθός, ἁγαθή, ἀγαθόν",good; well-born; brave,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 07
 αἰσχρός,"αἰσχρός, αἱσχρά, αἰσχρόν","ugly; shameful, base, disgraceful (of deeds or things)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 07
 ἄξιος,"ἄξιος, ἀξία, ἄξιον","worth; worthy, deserving of (takes a genitive complement e.g., ἄξιος τιμης, worthy of honor)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 07
@@ -134,7 +135,7 @@
 ὁ φίλος,"ὁ φίλος, ἡ φίλη","(male) friend, (female) friend",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 07
 δοῦλος,"δοῦλος, δούλου, ὁ",(male) slave,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 δούλη,"δούλη, δούλης, ἡ",(female) slave,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-Κῦρος,"Κῦρος, Κύρου, ὁ","Cyrus (son of Achaemenid king Darius II of Persia, who challenged his brother for the throne in 401 B.C.E.)",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+Κῦρος,"Κῦρος, Κύρου, ὁ","Cyrus<br><i>(son of Achaemenid king Darius II of Persia, who challenged his brother for the throne in 401 B.C.E.)</i>",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 πλοῦτος,"πλοῦτος, πλούτου, ὁ","wealth, riches",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 πονος,"πονος, πονου, ὁ","hard work, toil; suffering",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 ποταμός,"ποταμός, ποταμοῦ, ὁ",river,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
@@ -142,27 +143,27 @@
 ὕπνος,"ὕπνος, ὕπνου, ὁ",sleep,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 φθόνος,"φθόνος, φθόνου, ὁ","envy, jealousy",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 χρόνος,"χρόνος, χρόνου, ὁ",time; period of time,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-ἐπί-gen,ἐπί (elided ἑπ᾽ or ἑφ᾽) (+ gen.),(+ gen.) upon; in the time of,pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-ἐπί-dat,ἐπί (elided ἑπ᾽ or ἑφ᾽) (+ dat.),"(+ dat.) upon, over; next to; in addition to",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-ἐπί-acc,ἐπί (elided ἑπ᾽ or ἑφ᾽) (+ acc.),"(+ acc.) onto, up to, toward; against",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-παρά-gen,παρά (elided παρ᾽) (+ gen.),"(+ gen.) from the side of, from (usually with a person as object)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-παρά-dat,παρά (elided παρ᾽) (+ dat.),"(+ dat.) by the side of, at the house of (almost alwyas with a person as object)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-παρά-acc,παρά (elided παρ᾽) (+ acc.),"(+ acc.) to the side of; beside, along",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+ἐπί-gen,ἐπί (+ gen.) (elided ἑπ᾽ or ἑφ᾽),(+ gen.) upon; in the time of,pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+ἐπί-dat,ἐπί (+ dat.) (elided ἑπ᾽ or ἑφ᾽),"(+ dat.) upon, over; next to; in addition to",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+ἐπί-acc,ἐπί (+ acc.) (elided ἑπ᾽ or ἑφ᾽),"(+ acc.) onto, up to, toward; against",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+παρά-gen,παρά (+ gen.) (elided παρ᾽),"(+ gen.) from the side of, from (usually with a person as object)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+παρά-dat,παρά (+ dat.) (elided παρ᾽),"(+ dat.) by the side of, at the house of (almost always with a person as object)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+παρά-acc,παρά (+ acc.) (elided παρ᾽),"(+ acc.) to the side of; beside, along",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 πρός-gen,πρός (+ gen.),"(+ gen.) from, proceeding from",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 πρός-dat,πρός (+ dat.),"(+ dat.) near, beside; in addition to",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 πρός-acc,πρός (+ acc.),"(+ acc.) to, toward; against; in respect to, regarding",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 ὅς,"ὅς, ἥ, ὅ","who, which, that",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-ὧ,ὧ,o! (accompanies many vocatives; sometimes to be left untranslated in English),pos::particle,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-μή,μή,"not (with imperatives, infinitives, must subjunctives and optatives, and other constructions to be learned later)",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-ἀκούω,ἀκούω,"hear (usually with acc. of thing heard + gen. of person from whom it is heard, alone or commonly with prep. ἀπό, ἐκ, etc.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
+ὧ,ὧ,o!<br><i>(accompanies many vocatives; sometimes to be left untranslated in English)</i>,pos::particle,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+μή,μή,"not<br><i>(with imperatives, infinitives, must subjunctives and optatives, and other constructions to be learned later)</i>",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+ἀκούω,ἀκούω,"hear<br><i>(usually with acc. of thing heard + gen. of person from whom it is heard, alone or commonly with prep. ἀπό, ἐκ, etc.)</i>",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
 βλάπτω,βλάπτω,"harm, damage",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
 κελεύω,κελεύω,"order, command (+ acc. of person + inf.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
 τάττω,τάττω,"marshal, draw up (troops); arrange; appoint",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
-δεῖ,δεῖ,"it is necessary, it is needful (for one to do something) (+ acc. of person + inf.) (often to be translated with ""ought to"", ""must"", or ""should"" in a personal construction",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
+δεῖ,δεῖ,"it is necessary, it is needful (for one to do something) (+ acc. of person + inf.)<br><i>(often to be translated with ""ought to"", ""must"", or ""should"" in a personal construction</i>",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
 δοκεῖ,δοκεῖ,"it seems good, it seems best (+ dat. of person + inf.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
 ἔξεστι,ἔξεστι,"it is permitted, it is possible (+ dat. or acc. of person + inf.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
 πρέπει,πρέπει,"it is fitting, it is becoming, it is seemly (+ dat. or acc. of person + inf.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
-χρή,χρή,"it is necessary (+ acc. of person + inf.) (often to be translated with ""ought to"", ""must"", or ""should"" in a personal construction)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
+χρή,χρή,"it is necessary (+ acc. of person + inf.)<br><i>(often to be translated with ""ought to"", ""must"", or ""should"" in a personal construction)</i>",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
 ὅσιος,"ὅσιος, ὁσιά, ὅσιον","hallowed (of things, acts); pious, pure (of persons)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
 ῥᾴδιος,"ῥᾴδιος, ῥᾳδία, ῥᾴδιον",easy,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
 ἄδικος,"ἄδικος, ἄδικον",unjust,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 09
@@ -178,7 +179,7 @@
 πάσχω,πάσχω,"suffer; have (something) done to one, experience",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 πράττω,πράττω,"effect, accomplish, do; experience (a certain fortune), fare",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 ἀνάγκη,"ἀνάγκη, ἁνάγκης, ἡ","force, constraint, necessity",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
-ἁνάγκη,ἁνάγκη (ἐστί),"(impersonal expression) it is necessary, or compulsory, or unavoidable (+ dat. or acc. of person + inf.; often to be translated with ""must"" in a personal construction)",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
+ἁνάγκη,ἁνάγκη (ἐστί),"(impersonal expression) it is necessary, or compulsory, or unavoidable (+ dat. or acc. of person + inf.)<br><i>(often to be translated with ""must"" in a personal construction)</i>",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 εἰρήνη,"εἰρήνη, εἰρήνης, ἡ",peace; peace treaty,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 ἐπιθυμία,"ἐπιθυμία, ἐπιθυμίας, ἡ","desire, yearning",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 ἐπιορκία,"ἐπιορκία, ἐπιορκίας, ἡ","false swearing, perjury",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
@@ -207,9 +208,9 @@
 οἴομαι or οἶμαι,οἴομαι or οἶμαι,"think, suppose, believe",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
 παρακελεύομαι,παρακελεύομαι,"exhort, encourage (+ dat. of person, sometimes + inf.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
 πυνθάνομαι,πυνθάνομαι,"learn, hear (sometimes + gen. of person); learn by inquiry, inquire",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
-ὑπο-gen,ὑπο (elided ὑπ᾽ or ὑψ᾽) (+ gen.),"(+ gen.) from under, under; by (agent with passive verb or expression)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
-ὑπο-dat,ὑπο (elided ὑπ᾽ or ὑψ᾽) (+ dat.),(+ dat.) under; under the power of,pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
-ὑπο-acc,ὑπο (elided ὑπ᾽ or ὑψ᾽) (+ acc.),"(+ acc.) under, during, in the course of",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+ὑπο-gen,ὑπο (+ gen.) (elided ὑπ᾽ or ὑψ᾽),"(+ gen.) from under, under; by (agent with passive verb or expression)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+ὑπο-dat,ὑπο (+ dat.) (elided ὑπ᾽ or ὑψ᾽),(+ dat.) under; under the power of,pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+ὑπο-acc,ὑπο (+ acc.) (elided ὑπ᾽ or ὑψ᾽),"(+ acc.) under, during, in the course of",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
 ἀεί,ἀεί,always,pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 αὖ,αὖ,again; in turn,pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 αὖθις,αὖθις,"again; in turn; hereafter, in the future",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
@@ -228,17 +229,17 @@
 μέν,μέν,(postpositive; emphatic particle usually anticipating a contrast with δέ),pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 αὐτός,"αὐτός, αὐτή, αὐτό","(oblique cases) him, her, it, them; (intensive) myself, himself, herself, itself, etc; (with art.) the same",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 ἀνά,ἀνά (elided ἀν᾽),"(+ acc.) up, up along, throughout",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
-κατά-gen,κατά (elided κατ᾽ or καθ᾽) (+ gen.),"(+ gen.) down from, down upon; against (the interests of a person); concerning",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
-κατά-acc,κατά (elided κατ᾽ or καθ᾽) (+ acc.),"(+ acc.) down along, over, throughout; in accordance with",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
-περί-gen,περί (never elided) (+ gen.),"(+ gen.) about, concerning; above, beyond",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
-περί-dat,περί (never elided) (+ dat.),(+ dat.) around (position); about (an object for which one struggles),pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
-περί-acc,περί (never elided) (+ acc.),"(+ acc.) around (motion); about, concerning",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+κατά-gen,κατά (+ gen.) (elided κατ᾽ or καθ᾽),"(+ gen.) down from, down upon; against (the interests of a person); concerning",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+κατά-acc,κατά (+ acc.) (elided κατ᾽ or καθ᾽),"(+ acc.) down along, over, throughout; in accordance with",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+περί-gen,περί (+ gen.) (never elided),"(+ gen.) about, concerning; above, beyond",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+περί-dat,περί (+ dat.) (never elided),(+ dat.) around (position); about (an object for which one struggles),pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
+περί-acc,περί (+ acc.) (never elided),"(+ acc.) around (motion); about, concerning",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 ὑπέρ-gen,ὑπέρ (+ gen.),"(+ gen.) over, above (of motion or position); in defense of; concerning",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 ὑπέρ-acc,ὑπέρ (+ acc.),"(+ acc.) over, across, beyond (of motion or position)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 12
 ἀδικέω,ἀδικέω,"be unjust, do wrong; harm, do wrong to (someone [acc.])",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 αἱρέω,αἱρέω,"take, grasp, seize; (mid.) choose, elect",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 ἀφικνέομαι,ἀφικνέομαι,"arrive at, come to, reach",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
-δέω,δέω,"lack, be in need of (+ gen.) (active rare apart from use in certain fixed idioms)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
+δέω,δέω,"lack, be in need of (+ gen.)<br><i>(active rare apart from use in certain fixed idioms)</i>",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 δέομαι,δέομαι,"want, be in need of (+ gen.) (more common than the active); beg, ask for (+ gen. of person + inf.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 δεῖται,δεῖται,(impersonal) there is need of (+ dat. of person and gen. of thing needed),pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 δοκέω,δοκέω,"(commonly) seem (sometimes + dat. of person + inf.); (rarely in prose) think, suppose",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
@@ -282,16 +283,16 @@
 ἀγών,"ἀγών, ἀγῶνος, ὁ","contest, struggle; assembly; national games",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 ἁλς,"ἁλς, ἁλός, ὁ","salt, grain of salt",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 ἁλς-ἡ,"ἁλς, ἁλός, ἡ",(poetic) sea,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
-ἀνήρ,"ἀνήρ, ἀνδρός, ὁ","man, male; warrior; husband; ""real man"", ""man"" (in contexts emphasizing sexist or macho traits)",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+ἀνήρ,"ἀνήρ, ἀνδρός, ὁ","man, male; warrior; husband; ""real man"", ""man""<br><i>(in contexts emphasizing sexist or macho traits)</i>",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 δαίμων,"δαίμων, δαίμονος, ὁ or ἡ","god, divinity; tutelary divinity, the power controlling one's destiny; one's destiny, lot",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 Ἕλλην,"Ἕλλην, Ἕλληνος, ὁ","a Greek (man), Hellene",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 θυγάτηρ,"θυγάτηρ, θυγατρός, ἡ",daughter,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 μήτηρ,"μήτηρ, μητρός, ἡ",mother,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 πατήρ,"πατήρ, πατρός, ὁ",father,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 ῥήτωρ,"ῥήτωρ, ῥήτορος, ὁ","speaker, orator",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
-Δεμοσθένης,"Δεμοσθένης, Δεμοσθένους, ὀ","Demosthenes (Athenian orator and philosopher, 4th cent. B.C.E.)",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
-Σωκράτης,"Σωκράτης, Σωκράτους, ὁ","Socrates (Athenian philosopher, teacher of Plato)",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
-τριήρης,"τριήρης, τριήρους, ἡ",trireme (a swift warship with three banks of oars),pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+Δεμοσθένης,"Δεμοσθένης, Δεμοσθένους, ὀ","Demosthenes<br><i>(Athenian orator and philosopher, 4th cent. B.C.E.)</i>",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+Σωκράτης,"Σωκράτης, Σωκράτους, ὁ","Socrates<br><i>(Athenian philosopher, teacher of Plato)</i>",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+τριήρης,"τριήρης, τριήρους, ἡ",trireme<br><i>(a swift warship with three banks of oars)</i>,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 γένος,"γένος, γένους, το","race, stock, family; offspring; class, sort, kind",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 γέρας,"γέρας, γέρως, το","gift of honour, privilege",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 γήρας,"γήρας, γήρως, το",old age,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
