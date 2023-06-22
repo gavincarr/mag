@@ -1282,11 +1282,13 @@
     pos: n
   -
     gr: ἁλς, ἁλός, ὁ
+    id: ἁλς
     en: salt, grain of salt
     cog: halides
     pos: n
   -
     gr: ἁλς, ἁλός, ἡ
+    id: ἁλς-ἡ
     en: (poetic) sea
     pos: n
   -
