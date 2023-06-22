@@ -166,7 +166,8 @@
   -
     gr: οὐ
     gr_ext: (οὐκ or οὐχ before vowels)
-    en: not (negating statements, words, or phrases)
+    en: not
+    en_ext: (negating statements, words, or phrases)
     cog: Utopia
     pos: adv
 -
@@ -638,7 +639,8 @@
     pos: n
   -
     gr: Κῦρος, Κύρου, ὁ
-    en: Cyrus (son of Achaemenid king Darius II of Persia, who challenged his brother for the throne in 401 B.C.E.)
+    en: Cyrus
+    en_ext: (son of Achaemenid king Darius II of Persia, who challenged his brother for the throne in 401 B.C.E.)
     pos: n
   -
     gr: πλοῦτος, πλούτου, ὁ
@@ -683,7 +685,7 @@
   -
     gr: παρά
     gr_ext: (elided παρ᾽)
-    en: (+ gen.) from the side of, from (usually with a person as object); (+ dat.) by the side of, at the house of (almost alwyas with a person as object); (+ acc.) to the side of; beside, along
+    en: (+ gen.) from the side of, from (usually with a person as object); (+ dat.) by the side of, at the house of (almost always with a person as object); (+ acc.) to the side of; beside, along
     cog: paranormal, paradox, parallel
     pos: prep
   -
@@ -697,11 +699,13 @@
     pos: pron
   -
     gr: ὧ
-    en: o! (accompanies many vocatives; sometimes to be left untranslated in English)
+    en: o!
+    en_ext: (accompanies many vocatives; sometimes to be left untranslated in English)
     pos: part
   -
     gr: μή
-    en: not (with imperatives, infinitives, must subjunctives and optatives, and other constructions to be learned later)
+    en: not
+    en_ext: (with imperatives, infinitives, must subjunctives and optatives, and other constructions to be learned later)
     pos: adv
 -
   name: Unit 09
@@ -709,7 +713,8 @@
   vocab:
   -
     gr: ἀκούω
-    en: hear (usually with acc. of thing heard + gen. of person from whom it is heard, alone or commonly with prep. ἀπό, ἐκ, etc.)
+    en: hear
+    en_ext: (usually with acc. of thing heard + gen. of person from whom it is heard, alone or commonly with prep. ἀπό, ἐκ, etc.)
     cog: acoustics
     pos: v
   -
@@ -745,7 +750,8 @@
     pos: v
   -
     gr: χρή
-    en: it is necessary (+ acc. of person + inf.) (often to be translated with "ought to", "must", or "should" in a personal construction)
+    en: it is necessary (+ acc. of person + inf.)
+    en_ext: (often to be translated with "ought to", "must", or "should" in a personal construction)
     pos: v
   -
     gr: ὅσιος, ὁσιά, ὅσιον
@@ -819,7 +825,8 @@
   -
     gr: ἁνάγκη
     gr_ext: (ἐστί)
-    en: (impersonal expression) it is necessary, or compulsory, or unavoidable (+ dat. or acc. of person + inf.; often to be translated with "must" in a personal construction)
+    en: (impersonal expression) it is necessary, or compulsory, or unavoidable (+ dat. or acc. of person + inf.)
+    en_ext: (often to be translated with "must" in a personal construction)
     pos: n
   -
     gr: εἰρήνη, εἰρήνης, ἡ
