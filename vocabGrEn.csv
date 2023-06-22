@@ -279,3 +279,53 @@
 τέρας,"τέρας, τέρατος, το","portent, sign, marvel; monster",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
 ὕδωρ,"ὕδωρ, ὕδατος, το",water,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
 φῶς,"φῶς, φωτός, το",light,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
+ἀγών,"ἀγών, ἀγῶνος, ὁ","contest, struggle; assembly; national games",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+ἁλς,"ἁλς, ἁλός, ὁ","salt, grain of salt",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+ἁλς-ἡ,"ἁλς, ἁλός, ἡ",(poetic) sea,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+ἀνήρ,"ἀνήρ, ἀνδρός, ὁ","man, male; warrior; husband; ""real man"", ""man"" (in contexts emphasizing sexist or macho traits)",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+δαίμων,"δαίμων, δαίμονος, ὁ or ἡ","god, divinity; tutelary divinity, the power controlling one's destiny; one's destiny, lot",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+Ἕλλην,"Ἕλλην, Ἕλληνος, ὁ","a Greek (man), Hellene",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+θυγάτηρ,"θυγάτηρ, θυγατρός, ἡ",daughter,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+μήτηρ,"μήτηρ, μητρός, ἡ",mother,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+πατήρ,"πατήρ, πατρός, ὁ",father,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+ῥήτωρ,"ῥήτωρ, ῥήτορος, ὁ","speaker, orator",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+Δεμοσθένης,"Δεμοσθένης, Δεμοσθένους, ὀ","Demosthenes (Athenian orator and philosopher, 4th cent. B.C.E.)",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+Σωκράτης,"Σωκράτης, Σωκράτους, ὁ","Socrates (Athenian philosopher, teacher of Plato)",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+τριήρης,"τριήρης, τριήρους, ἡ",trireme (a swift warship with three banks of oars),pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+γένος,"γένος, γένους, το","race, stock, family; offspring; class, sort, kind",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+γέρας,"γέρας, γέρως, το","gift of honour, privilege",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+γήρας,"γήρας, γήρως, το",old age,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+ἔτος,"ἔτος, ἔτους, το",year,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+κράτος,"κράτος, κράτους, το","strength, power; victory",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+μέρος,"μέρος, μέρους, το","share, portion; part; one's turn",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+πλῆθος,"πλῆθος, πλήθους, το","multitude; the masses, the majority; quantity; size",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+τεῖχος,"τεῖχος, τείχους, το",wall,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+τέλος,"τέλος, τέλους, το","fulfillment, completion; end, finish; authority; (pl.) service, duty; offerings, rites; taxes",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+τίς,"τίς, τί",(pronoun) who? which? what?; (adj.) which? what?,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+δῆμος,"δῆμος, δήμου, ὁ","the common people; the democratic assembly; township, deme",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+ἡγεμών,"ἡγεμών, ἡγεμόνος, ὁ","leader, guide",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+θήρ,"θήρ, θηρός, ὁ","beast of prey, wild animal",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+θηρίον,"θηρίον, θηρίου, ὁ",wild animal,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+παῖς,"παῖς, παιδός, ὁ or ἡ","child, boy, girl; slave, servant",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+τύχη,"τύχη, τύχης, ἡ","fate; chance; fortune (good, bad, or neutral); happening, event",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+ἄλλος,"ἄλλος, ἄλλη, ἄλλο",another; other,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+ἀρχαῖος,"ἀρχαῖος, ἀρχαία, ἀρχαῖον","ancient, old; old-fashioned",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+βλαβερός,"βλαβερός, βλαβερά, βλαβερόν",harmful,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+δεινός,"δεινός, δεινή, δεινόν","fearful, terrible; wondrous; clever, skillful",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+δεινός λέγειν,δεινός λέγειν,clever at speaking,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+κοινός,"κοινός, κοινή, κοινόν","common, public",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+τὸ κοινόν,τὸ κοινόν,"public authority, state, league",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+τὰ κοινά,τὰ κοινά,public affairs; public funds,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+φανερός,"φανερός, φανερά, φανερόν","visible, manifest",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+αἰτέω,αἰτέω,ask for (+ acc. of person + acc. of thing or inf.),pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+ἀπαγω,ἀπαγω,"lead away; arrest, carry off to prison",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+ἀπεχω,ἀπεχω,"hold off; (intrans.) be away from, be distant from",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+ἐπαινέω,ἐπαινέω,"approve, praise",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+ἐπιθυμέω,ἐπιθυμέω,"long for, desire (+ gen. of object desired)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+ζητέω,ζητέω,"seek, seek for; examine, investigate",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+ἡγέομαι,ἡγέομαι,"lead, guide (usually + dat. of person); command, rule (usually + gen. of person); consider, think",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+κωλύω,κωλύω,"hinder, prevent (+ acc. + inf.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+παράγω,παράγω,"lead by; lead astray, mislead; bring forward, introduce",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+παρέχω,παρέχω,"furnish, supply, afford",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+τρέπω,τρέπω,"turn, direct; change; put to flight (in battle)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+φυλάττω,φυλάττω,"guard, defend; wathc for; (mid.) be on one's guard, be on guard against (+ acc.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
