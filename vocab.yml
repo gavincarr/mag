@@ -1271,3 +1271,242 @@
     en: light
     cog: photon, photograph
     pos: n
+-
+  name: Unit 15
+  unit: 15
+  vocab:
+  -
+    gr: ἀγών, ἀγῶνος, ὁ
+    en: contest, struggle; assembly; national games
+    cog: agony, agonistic
+    pos: n
+  -
+    gr: ἁλς, ἁλός, ὁ
+    en: salt, grain of salt
+    cog: halides
+    pos: n
+  -
+    gr: ἁλς, ἁλός, ἡ
+    en: (poetic) sea
+    pos: n
+  -
+    gr: ἀνήρ, ἀνδρός, ὁ
+    en: man, male; warrior; husband; "real man", "man"
+    en_ext: (in contexts emphasizing sexist or macho traits)
+    cog: android, androgynous
+    pos: n
+  -
+    gr: δαίμων, δαίμονος, ὁ or ἡ
+    en: god, divinity; tutelary divinity, the power controlling one's destiny; one's destiny, lot
+    cog: demon
+    pos: n
+  -
+    gr: Ἕλλην, Ἕλληνος, ὁ
+    en: a Greek (man), Hellene
+    cog: Hellenic
+    pos: n
+  -
+    gr: θυγάτηρ, θυγατρός, ἡ
+    en: daughter
+    pos: n
+  -
+    gr: μήτηρ, μητρός, ἡ
+    en: mother
+    cog: metropolis, metronymic
+    pos: n
+  -
+    gr: πατήρ, πατρός, ὁ
+    en: father
+    cog: patriarchy
+    pos: n
+  -
+    gr: ῥήτωρ, ῥήτορος, ὁ
+    en: speaker, orator
+    cog: rhetoric
+    pos: n
+  -
+    gr: Δεμοσθένης, Δεμοσθένους, ὀ
+    en: Demosthenes
+    en_ext: (Athenian orator and philosopher, 4th cent. B.C.E.)
+    pos: n
+  -
+    gr: Σωκράτης, Σωκράτους, ὁ
+    en: Socrates
+    en_ext: (Athenian philosopher, teacher of Plato)
+    pos: n
+  -
+    gr: τριήρης, τριήρους, ἡ
+    en: trireme
+    en_ext: (a swift warship with three banks of oars)
+    cog: trierarch
+    pos: n
+  -
+    gr: γένος, γένους, το
+    en: race, stock, family; offspring; class, sort, kind
+    cog: genocide, genealogy
+    pos: n
+  -
+    gr: γέρας, γέρως, το
+    en: gift of honour, privilege
+    pos: n
+  -
+    gr: γήρας, γήρως, το
+    en: old age
+    cog: geriatrics
+    pos: n
+  -
+    gr: ἔτος, ἔτους, το
+    en: year
+    cog: etesian
+    pos: n
+  -
+    gr: κράτος, κράτους, το
+    en: strength, power; victory
+    cog: timocratic
+    pos: n
+  -
+    gr: μέρος, μέρους, το
+    en: share, portion; part; one's turn
+    cog: meroblastic, penthemimeral
+    pos: n
+  -
+    gr: πλῆθος, πλήθους, το
+    en: multitude; the masses, the majority; quantity; size
+    cog: plethora
+    pos: n
+  -
+    gr: τεῖχος, τείχους, το
+    en: wall
+    cog: teichoscopy
+    pos: n
+  -
+    gr: τέλος, τέλους, το
+    en: fulfillment, completion; end, finish; authority; (pl.) service, duty; offerings, rites; taxes
+    cog: teleological
+    pos: n
+  -
+    gr: τίς, τί
+    en: (pronoun) who? which? what?; (adj.) which? what?
+    pos: pron
+-
+  name: Unit 16
+  unit: 16
+  vocab:
+  -
+    gr: δῆμος, δήμου, ὁ
+    en: the common people; the democratic assembly; township, deme
+    cog: demagogue, democracy
+    pos: n
+  -
+    gr: ἡγεμών, ἡγεμόνος, ὁ
+    en: leader, guide
+    cog: hegemony
+    pos: n
+  -
+    gr: θήρ, θηρός, ὁ
+    en: beast of prey, wild animal
+    pos: n
+  -
+    gr: θηρίον, θηρίου, ὁ
+    en: wild animal
+    cog: theriomorphic, megatherium
+    pos: n
+  -
+    gr: παῖς, παιδός, ὁ or ἡ
+    en: child, boy, girl; slave, servant
+    cog: pedagogy
+    pos: n
+  -
+    gr: τύχη, τύχης, ἡ
+    en: fate; chance; fortune (good, bad, or neutral); happening, event
+    cog: Tyche
+    pos: n
+  -
+    gr: ἄλλος, ἄλλη, ἄλλο
+    en: another; other
+    cog: allomorph, allegory
+    pos: adj
+  -
+    gr: ἀρχαῖος, ἀρχαία, ἀρχαῖον
+    en: ancient, old; old-fashioned
+    cog: archaeology
+    pos: adj
+  -
+    gr: βλαβερός, βλαβερά, βλαβερόν
+    en: harmful
+    pos: adj
+  -
+    gr: δεινός, δεινή, δεινόν
+    en: fearful, terrible; wondrous; clever, skillful
+    cog: deinonychus, dinosaur
+    pos: adj
+  -
+    gr: δεινός λέγειν
+    en: clever at speaking
+    pos: adj
+  -
+    gr: κοινός, κοινή, κοινόν
+    en: common, public
+    cog: Koine, epicene
+    pos: adj
+  -
+    gr: τὸ κοινόν
+    en: public authority, state, league
+    pos: n
+  -
+    gr: τὰ κοινά
+    en: public affairs; public funds
+    pos: n
+  -
+    gr: φανερός, φανερά, φανερόν
+    en: visible, manifest
+    pos: adj
+  -
+    gr: αἰτέω
+    en: ask for (+ acc. of person + acc. of thing or inf.)
+    pos: v
+  -
+    gr: ἀπαγω
+    en: lead away; arrest, carry off to prison
+    pos: v
+  -
+    gr: ἀπεχω
+    en: hold off; (intrans.) be away from, be distant from
+    pos: v
+  -
+    gr: ἐπαινέω
+    en: approve, praise
+    pos: v
+  -
+    gr: ἐπιθυμέω
+    en: long for, desire (+ gen. of object desired)
+    pos: v
+  -
+    gr: ζητέω
+    en: seek, seek for; examine, investigate
+    pos: v
+  -
+    gr: ἡγέομαι
+    en: lead, guide (usually + dat. of person); command, rule (usually + gen. of person); consider, think
+    pos: v
+  -
+    gr: κωλύω
+    en: hinder, prevent (+ acc. + inf.)
+    pos: v
+  -
+    gr: παράγω
+    en: lead by; lead astray, mislead; bring forward, introduce
+    pos: v
+  -
+    gr: παρέχω
+    en: furnish, supply, afford
+    pos: v
+  -
+    gr: τρέπω
+    en: turn, direct; change; put to flight (in battle)
+    cog: trophy
+    pos: v
+  -
+    gr: φυλάττω
+    en: guard, defend; wathc for; (mid.) be on one's guard, be on guard against (+ acc.)
+    pos: v
