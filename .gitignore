@@ -1,6 +1,7 @@
 .*.sw?
 .nfs*
 *~
+*.apkg
 
 /.env
 /.env.local

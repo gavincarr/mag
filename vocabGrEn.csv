@@ -330,3 +330,54 @@
 παρέχω,παρέχω,"furnish, supply, afford",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 τρέπω,τρέπω,"turn, direct; change; put to flight (in battle)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 φυλάττω,φυλάττω,"guard, defend; wathc for; (mid.) be on one's guard, be on guard against (+ acc.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+εὐχή,"εὐχή, εὐχῆς, ἡ","prayer, vow",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+ὄνομα,"ὄνομα, ὀνόματος, το",name,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+πληγή,"πληγή, πληγῆς, ἡ","blow, stroke",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+πούς,"πούς, ποδός, ἡ",foot,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+σοφία,"σοφία, σοφίας, ἡ","cleverness, skill; intelligence, wisdom, learning",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+στάδιον,"στάδιον, σταδίου, το (alternative plural στάδιοι, σταδίων, ὁ)","stade (unit of length, about 600 ft. or 1/8 mile); race course, single course (without a turn)",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+στρατόπεδον,"στρατόπεδον, στρατοπέδου, το",camp (of an army),pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+φόρος,"φόρος, φόρου, ὁ","payment, tribute",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+χρῆμα,"χρῆμα, χρήματος, το","thing, matter, affair; (pl.) goods, property, money",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+διαφέρω,διαφέρω,"carry across; endure; differ, excel (+ gen. of person or thing compared; sometimes + acc. of respect)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+εὔχομαι,εὔχομαι,"pray, pray for; profess openly, boast",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+κατηγορέω,κατηγορέω,"speak against, accuse (+ gen. of person accused)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+κρύπτω,κρύπτω,"hide, cover, conceal (sometimes + acc. of person and acc. of thing)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+πλήττω,πλήττω,strike,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+ἰσχυρός,"ἰσχυρός, ἰσχυρά, ἰσχυρόν","strong, forceful; violent",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+στενός,"στενός, στενή, στενόν","narrow; close, confined",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+τις,"τις, τι","(enclitic pron.) any, some, anyone, someone, anything, something; (adj.) any, some, (a) certain",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+ἑπτά,ἑπτά,(indeclinable) seven,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+ὀκτώ,ὀκτώ,(indeclinable) eight,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+δέκα,δέκα,(indeclinable) ten,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+πότε,πότε,when? (interrogative),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+ποτε,ποτε,"(enclitic) at any time, ever<br><i>(idiomatically reinforces a preceding interrogative: e.g. τίς ποτε; ""who in the world?"")</i>",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+οὔποτε,"οὔποτε, μήποτε",never,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+ποῦ,ποῦ,where? (interrogative),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+που,που,"(enclitic) somewhere, anywhere; to some degree, perhaps",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+πῶς,πῶς,how? (interrogative),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+πως,πως,"(enclitic) somehow, in any way, at all",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+καλέω,καλέω,"call, summon; call by name, name",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 18
+μανθάνω,μανθάνω,learn; perceive; understand,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 18
+μέλλω,μέλλω,"be destined to, be likely to (+ inf.); be about to (+ future inf., or + pres. or aor. inf); delay (+ pres. inf.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 18
+νομίζω,νομίζω,"have as a custom; acknowledge, consder as; believe, think (+ inf. of indirect discourse)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 18
+πίπτω,πίπτω,fall,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 18
+οὐδέ,"οὐδέ, μηδέ","and not, but not; (adv.) not even",pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 18
+οὔτε...οὔτε,"οὔτε...οὔτε, μήτε...μήτε","neither, nor",pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 18
+ἀγγέλλω,ἀγγέλλω,"bear a message, announce, report",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+γιγνώσκω,γιγνώσκω,"come to know, get to know; perceive; think, judge",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+εἶδον,εἶδον (stem ἰδ-),(aorist) saw,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+εἶπον,εἶπον (stem εἰπ-),(aorist) said,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+ἐλπίζω,ἐλπίζω,"expect; hope for, hope",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+ἕτερος,"ἕτερος, ἑτέρα, ἕτερον","one of two, the other of two",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+ἑκάτερος,"ἑκάτερος, ἑκατέρα, ἑκάτερον",each (of two),pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+ἕκαστος,"ἕκαστος, ἑκάστη, ἕκαστον",each (of more than two),pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+ἐπεί,ἐπεί,"when, after, since (of time or cause)",pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+ἐπειδή,ἐπειδή,"when, after, since (of time or cause)",pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+πάνυ,πάνυ,"very, exceedingly; altogther",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+πολλάκις,πολλάκις,"often, many times",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+ὀλιγάκις,ὀλιγάκις,"seldom, a few times",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+ἑκάστοτε,ἑκάστοτε,"on each occasion, each time",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 19
+φημί,φημί,say,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 20
+ἔτι,ἔτι,"yet, still; longer",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 20
+οὐκέτι,"οὐκέτι, μηκέτι","no longer, no further",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 20
