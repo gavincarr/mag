@@ -1682,3 +1682,86 @@
     gr: οὔτε...οὔτε, μήτε...μήτε
     en: neither, nor
     pos: conj
+-
+  name: Unit 19
+  unit: 19
+  vocab:
+  -
+    gr: ἀγγέλλω
+    en: bear a message, announce, report
+    pos: v
+  -
+    gr: γιγνώσκω
+    en: come to know, get to know; perceive; think, judge
+    cog: agnostic
+    pos: v
+  -
+    gr: εἶδον
+    gr_ext: (stem ἰδ-)
+    en: (aorist) saw
+    cog: optics
+    pos: v
+  -
+    gr: εἶπον
+    gr_ext: (stem εἰπ-)
+    en: (aorist) said
+    cog: optics
+    pos: v
+  -
+    gr: ἐλπίζω
+    en: expect; hope for, hope
+    pos: v
+  -
+    gr: ἕτερος, ἑτέρα, ἕτερον
+    en: one of two, the other of two
+    cog: heterodox
+    pos: adj
+  -
+    gr: ἑκάτερος, ἑκατέρα, ἑκάτερον
+    en: each (of two)
+    pos: adj
+  -
+    gr: ἕκαστος, ἑκάστη, ἕκαστον
+    en: each (of more than two)
+    pos: adj
+  -
+    gr: ἐπεί
+    en: when, after, since (of time or cause)
+    pos: conj
+  -
+    gr: ἐπειδή
+    en: when, after, since (of time or cause)
+    pos: conj
+  -
+    gr: πάνυ
+    en: very, exceedingly; altogther
+    pos: adv
+  -
+    gr: πολλάκις
+    en: often, many times
+    pos: adv
+  -
+    gr: ὀλιγάκις
+    en: seldom, a few times
+    pos: adv
+  -
+    gr: ἑκάστοτε
+    en: on each occasion, each time
+    pos: adv
+-
+  name: Unit 20
+  unit: 20
+  vocab:
+  -
+    gr: φημί
+    en: say
+    cog: prophet, blasphemy, euphemism
+    pos: v
+  -
+    gr: ἔτι
+    en: yet, still; longer
+    pos: adv
+  -
+    gr: οὐκέτι, μηκέτι
+    en: no longer, no further
+    pos: adv
