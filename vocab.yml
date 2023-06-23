@@ -1519,3 +1519,166 @@
     gr: φυλάττω
     en: guard, defend; wathc for; (mid.) be on one's guard, be on guard against (+ acc.)
     pos: v
+-
+  name: Unit 17
+  unit: 17
+  vocab:
+  -
+    gr: εὐχή, εὐχῆς, ἡ
+    en: prayer, vow
+    pos: n
+  -
+    gr: ὄνομα, ὀνόματος, το
+    en: name
+    cog: synonym, onomatopoeia
+    pos: n
+  -
+    gr: πληγή, πληγῆς, ἡ
+    en: blow, stroke
+    cog: paraplegic
+    pos: n
+  -
+    gr: πούς, ποδός, ἡ
+    en: foot
+    cog: octopus, podiatrist
+    pos: n
+  -
+    gr: σοφία, σοφίας, ἡ
+    en: cleverness, skill; intelligence, wisdom, learning
+    cog: philosophy
+    pos: n
+  -
+    gr: στάδιον, σταδίου, το
+    gr_ext: (alternative plural στάδιοι, σταδίων, ὁ)
+    en: stade (unit of length, about 600 ft. or 1/8 mile); race course, single course (without a turn)
+    cog: stadium
+    pos: n
+  -
+    gr: στρατόπεδον, στρατοπέδου, το
+    en: camp (of an army)
+    pos: n
+  -
+    gr: φόρος, φόρου, ὁ
+    en: payment, tribute
+    pos: n
+  -
+    gr: χρῆμα, χρήματος, το
+    en: thing, matter, affair; (pl.) goods, property, money
+    cog: chrematistic
+    pos: n
+  -
+    gr: διαφέρω
+    en: carry across; endure; differ, excel (+ gen. of person or thing compared; sometimes + acc. of respect)
+    pos: v
+  -
+    gr: εὔχομαι
+    en: pray, pray for; profess openly, boast
+    pos: v
+  -
+    gr: κατηγορέω
+    en: speak against, accuse (+ gen. of person accused)
+    cog: category
+    pos: v
+  -
+    gr: κρύπτω
+    en: hide, cover, conceal (sometimes + acc. of person and acc. of thing)
+    cog: cryptographer
+    pos: v
+  -
+    gr: πλήττω
+    en: strike
+    cog: apoplexy
+    pos: v
+  -
+    gr: ἰσχυρός, ἰσχυρά, ἰσχυρόν
+    en: strong, forceful; violent
+    pos: adj
+  -
+    gr: στενός, στενή, στενόν
+    en: narrow; close, confined
+    cog: stenography
+    pos: adj
+  -
+    gr: τις, τι
+    en: (enclitic pron.) any, some, anyone, someone, anything, something; (adj.) any, some, (a) certain
+    pos: pron
+  -
+    gr: ἑπτά
+    en: (indeclinable) seven
+    cog: heptagon
+    pos: adj
+  -
+    gr: ὀκτώ
+    en: (indeclinable) eight
+    cog: octopus
+    pos: adj
+  -
+    gr: δέκα
+    en: (indeclinable) ten
+    cog: decade
+    pos: adj
+  -
+    gr: πότε
+    en: when? (interrogative)
+    pos: pron
+  -
+    gr: ποτε
+    en: (enclitic) at any time, ever
+    en_ext: "(idiomatically reinforces a preceding interrogative: e.g. τίς ποτε; \"who in the world?\")"
+    pos: adv
+  -
+    gr: οὔποτε, μήποτε
+    en: never
+    pos: pron
+  -
+    gr: ποῦ
+    en: where? (interrogative)
+    pos: pron
+  -
+    gr: που
+    en: (enclitic) somewhere, anywhere; to some degree, perhaps
+    pos: adv
+  -
+    gr: πῶς
+    en: how? (interrogative)
+    pos: pron
+  -
+    gr: πως
+    en: (enclitic) somehow, in any way, at all
+    pos: adv
+-
+  name: Unit 18
+  unit: 18
+  vocab:
+  -
+    gr: καλέω
+    en: call, summon; call by name, name
+    cog: ecclesiastic
+    pos: v
+  -
+    gr: μανθάνω
+    en: learn; perceive; understand
+    cog: mathematics
+    pos: v
+  -
+    gr: μέλλω
+    en: be destined to, be likely to (+ inf.); be about to (+ future inf., or + pres. or aor. inf); delay (+ pres. inf.)
+    pos: v
+  -
+    gr: νομίζω
+    en: have as a custom; acknowledge, consder as; believe, think (+ inf. of indirect discourse)
+    cog: numismatics
+    pos: v
+  -
+    gr: πίπτω
+    en: fall
+    cog: peripety
+    pos: v
+  -
+    gr: οὐδέ, μηδέ
+    en: and not, but not; (adv.) not even
+    pos: conj
+  -
+    gr: οὔτε...οὔτε, μήτε...μήτε
+    en: neither, nor
+    pos: conj
