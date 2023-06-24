@@ -21,7 +21,7 @@
 στρατός,"στρατός, στρατοῦ, ὁ","army, host<br>[strategic]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
 φόβος,"φόβος, φόβου, ὁ","fear<br>[phobia, Phobos]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
 νόσος,"νόσος, νόσου, ἡ","sickness, disease<br>[nosology]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
-ὁσός,"ὁσός, ὁσοῦ, ἡ","road, path, way; journey<br>[odometer, method]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
+ὁδός,"ὁδός, ὁδοῦ, ἡ","road, path, way; journey<br>[odometer, method]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
 ψῆφος,"ψῆφος, ψήφου, ἡ","small stone, pebble (used in reckoning, in games, in voting); vote<br>[psephologist]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
 βιβλίον,"βιβλίον, βιβλίου, το",book<br>[bibliophile],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
 δῶρον,"δῶρον, δῶρου, το",gift; (in political or judicial contexts) bribe<br>[Eudora],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 03
@@ -382,3 +382,56 @@
 φημί,φημί,"say<br>[prophet, blasphemy, euphemism]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 20
 ἔτι,ἔτι,"yet, still; longer",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 20
 οὐκέτι,"οὐκέτι, μηκέτι","no longer, no further",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 20
+δύναμις,"δύναμις, δυνάμεως, ἡ","power; authority; capacity, ability<br>[dynamic]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ποίησις,"ποίησις, ποιήσεως, ἡ","creation, production; writing of poetry; poem",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+πόλις,"πόλις, πόλεως, ἡ",city; citadel<br>[metropolis],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+πρᾶξις,"πρᾶξις, πράξεως, ἡ","action, doing, achievement<br>[praxis]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+στάσις,"στάσις, στάσεως, ἡ","position, standing; party (with political interests), faction; party strife, discord<br>[apostasy]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ὕβρις,"ὕβρις, ὕβρεως, ἡ","violence, insolence; assault, rape<br>[hybristic]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+φύσις,"φύσις, φύσεως, ἠ","origin, birth, growth; nature<br>[physics, epiphysis]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἄστυ,"ἄστυ, ἄστεως, το",town,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+πῆχυς,"πῆχυς, πήχεως, ὁ","forearm, arm; cubit (unit of measure equal to average length from elbow to tip of middle finger)",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἰσχυς,"ἰσχυς, ἰσχῦος, ἡ",strength,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἰχθύς,"ἰχθύς, ἰχθύος, ὁ or ἡ",fish<br>[icthyologist],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+σῦς,"σῦς, σῦος or ὗς, ὗος, ὁ or ἡ","swine, hog, sow",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+βασιλεύς,"βασιλεύς, βασιλέως, ὀ",king<br>[Basil],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+βοῦς,"βοῦς, βοός, ὁ or ἡ","ox, cow<br>[Euboea]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+γραῦς,"γραῦς, γραός, ἡ",old woman,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἱερεύς,"ἱερεύς, ἱερέως, ὁ","priest, sacrificer",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἱππεύς,"ἱππεύς, ἱππέως, ὁ",cavalryman; (pl.) the cavalry,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ναῦς,"ναῦς, νεώς, ἡ",ship<br>[naumachy],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+φονεύς,"φονεύς, φονέως, ὁ",murderer,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+γυνή,"γυνή, γυναικός, ἡ",woman; lady; wife<br>[gynecology],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+υἱός (ὑός),"υἱός (ὑός), υἱοῦ or υἱέος, ὁ",son,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+χείρ,"χείρ, χειρός, ὁ","hand<br>[surgeon, chiropractor]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+εγώ,"εγώ, ἡμεῖς","I, we<br>[egomaniac]",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+σύ,"σύ, ὑμεῖς","you(s.), you (pl.)",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+μόνος,"μόνος, μόνη, μόνον","alone; only, single (normally in predictate position)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+μόνον,μόνον,"(adv. acc.) only, solely",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ού μόνον...ἀλλὰ καὶ,ού μόνον...ἀλλὰ καὶ,not only...but also,pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἀληθής,"ἀληθής, ἀληθές","true, genuine; truthful",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἀσθενής,"ἀσθενής, ἀσθενές","without strength, weak<br>[myasthenia]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἀσφαλής,"ἀσφαλής, ἀσφαλές","steadfast; safe, secure; trustworthy",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+δυστυχής,"δυστυχής, δυστυχές","unlucky, unfortunate",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+εὐγενής,"εὐγενής, εὐγενές","well-born; noble, noble-minded<br>[eugenics]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+εὐτυχής,"εὐτυχής, εὐτυχές","lucky, fortunate",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+πλήρης,"πλήρης, πλῆρες","full, full of (+ gen.)<br>[pleromorph, plerome]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+σαφής,"σαφής, σαφές","sure, reliable; clear, distinct",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ψευδής,"ψευδής, ψευδές","lying, false, untrue<br>[pseudonym]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἄφρων,"ἄφρων, ἄφρον","senseless, foolish",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+εὐδαίμων,"εὐδαίμων, εὔδαιμον","blessed with a good δαίμων; fortunate, happy; wealthy<br>[eudaemonism]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+σώφρων,"σώφρων, σῶφρον","of sound mind; prudent; self-controlled; temperate, chaste",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+βαθύς,"βαθύς, βαθεῖα, βαθύ","deep, high<br>[bathyscaph]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+βαρύς,"βαρύς, βαρεῖα, βαρύ",heavy<br>[barometer],pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+βραχύς,"βραχύς, βραχεῖα, βραχύ","short; small<br>[brachylogy, brachistochrone]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+γλυκύς,"γλυκύς, γλυκεῖα, γλυκύ","sweet, pleasant, delightful<br>[glycerine]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἡδύς,"ἡδύς, ἡδεῖα, ἡδύ","pleasant, welcome; glad, pleased<br>[hedonist]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἥμισυς,"ἥμισυς, ἡμίσεια, ἥμισυ",half<br>[hemisphere],pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+μέλας,"μέλας, μέλαινα, μέλαν","black, dark<br>[melanin]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+πᾶς,"πᾶς, πᾶσα, πᾶν","all, every, the whole<br>[pantomime, panhellenic]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἅπας,"ἅπας, ἅπασα, ἅπαν","all, the whole (strengthed form of πᾶς)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+χαρίεις,"χαρίεις, χαρίεσσα, χαρίεν","graceful, beautiful, elegant; clever",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἐμός,"ἐμός, ἐμή, ἐμόν","my, mine",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+σός,"σός, σή, σόν","your, yours (sing.)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἡμέτερος,"ἡμέτερος, ἡμετέρα, ἡμέτερον","our, ours",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ὑμέτερος,"ὑμέτερος, ὑμετέρα, ὑμέτερον","your, yours (plural)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
