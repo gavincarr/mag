@@ -93,7 +93,7 @@
     cog: nosology
     pos: n
   -
-    gr: ὁσός, ὁσοῦ, ἡ
+    gr: ὁδός, ὁδοῦ, ἡ
     en: road, path, way; journey
     cog: odometer, method
     pos: n
@@ -1765,3 +1765,249 @@
     gr: οὐκέτι, μηκέτι
     en: no longer, no further
     pos: adv
+-
+  name: Unit 21
+  unit: 21
+  vocab:
+  -
+    gr: δύναμις, δυνάμεως, ἡ
+    en: power; authority; capacity, ability
+    cog: dynamic
+    pos: n
+  -
+    gr: ποίησις, ποιήσεως, ἡ
+    en: creation, production; writing of poetry; poem
+    pos: n
+  -
+    gr: πόλις, πόλεως, ἡ
+    en: city; citadel
+    cog: metropolis
+    pos: n
+  -
+    gr: πρᾶξις, πράξεως, ἡ
+    en: action, doing, achievement
+    cog: praxis
+    pos: n
+  -
+    gr: στάσις, στάσεως, ἡ
+    en: position, standing; party (with political interests), faction; party strife, discord
+    cog: apostasy
+    pos: n
+  -
+    gr: ὕβρις, ὕβρεως, ἡ
+    en: violence, insolence; assault, rape
+    cog: hybristic
+    pos: n
+  -
+    gr: φύσις, φύσεως, ἠ
+    en: origin, birth, growth; nature
+    cog: physics, epiphysis
+    pos: n
+  -
+    gr: ἄστυ, ἄστεως, το
+    en: town
+    pos: n
+  -
+    gr: πῆχυς, πήχεως, ὁ
+    en: forearm, arm; cubit (unit of measure equal to average length from elbow to tip of middle finger)
+    pos: n
+  -
+    gr: ἰσχυς, ἰσχῦος, ἡ
+    en: strength
+    pos: n
+  -
+    gr: ἰχθύς, ἰχθύος, ὁ or ἡ
+    en: fish
+    cog: icthyologist
+    pos: n
+  -
+    gr: σῦς, σῦος or ὗς, ὗος, ὁ or ἡ
+    en: swine, hog, sow
+    pos: n
+  -
+    gr: βασιλεύς, βασιλέως, ὀ
+    en: king
+    cog: Basil
+    pos: n
+  -
+    gr: βοῦς, βοός, ὁ or ἡ
+    en: ox, cow
+    cog: Euboea
+    pos: n
+  -
+    gr: γραῦς, γραός, ἡ
+    en: old woman
+    pos: n
+  -
+    gr: ἱερεύς, ἱερέως, ὁ
+    en: priest, sacrificer
+    pos: n
+  -
+    gr: ἱππεύς, ἱππέως, ὁ
+    en: cavalryman; (pl.) the cavalry
+    pos: n
+  -
+    gr: ναῦς, νεώς, ἡ
+    en: ship
+    cog: naumachy
+    pos: n
+  -
+    gr: φονεύς, φονέως, ὁ
+    en: murderer
+    pos: n
+  -
+    gr: γυνή, γυναικός, ἡ
+    en: woman; lady; wife
+    cog: gynecology
+    pos: n
+  -
+    gr: υἱός (ὑός), υἱοῦ or υἱέος, ὁ
+    en: son
+    pos: n
+  -
+    gr: χείρ, χειρός, ὁ
+    en: hand
+    cog: surgeon, chiropractor
+    pos: n
+  -
+    gr: εγώ, ἡμεῖς
+    en: I, we
+    cog: egomaniac
+    pos: pron
+  -
+    gr: σύ, ὑμεῖς
+    en: you(s.), you (pl.)
+    pos: pron
+  -
+    gr: μόνος, μόνη, μόνον
+    en: alone; only, single (normally in predictate position)
+    pos: adj
+  -
+    gr: μόνον
+    en: (adv. acc.) only, solely
+    pos: adv
+  -
+    gr: ού μόνον...ἀλλὰ καὶ
+    en: not only...but also
+    pos: conj
+-
+  name: Unit 21
+  unit: 21
+  vocab:
+  -
+    gr: ἀληθής, ἀληθές
+    en: true, genuine; truthful
+    pos: adj
+  -
+    gr: ἀσθενής, ἀσθενές
+    en: without strength, weak
+    cog: myasthenia
+    pos: adj
+  -
+    gr: ἀσφαλής, ἀσφαλές
+    en: steadfast; safe, secure; trustworthy
+    pos: adj
+  -
+    gr: δυστυχής, δυστυχές
+    en: unlucky, unfortunate
+    pos: adj
+  -
+    gr: εὐγενής, εὐγενές
+    en: well-born; noble, noble-minded
+    cog: eugenics
+    pos: adj
+  -
+    gr: εὐτυχής, εὐτυχές
+    en: lucky, fortunate
+    pos: adj
+  -
+    gr: πλήρης, πλῆρες
+    en: full, full of (+ gen.)
+    cog: pleromorph, plerome
+    pos: adj
+  -
+    gr: σαφής, σαφές
+    en: sure, reliable; clear, distinct
+    pos: adj
+  -
+    gr: ψευδής, ψευδές
+    en: lying, false, untrue
+    cog: pseudonym
+    pos: adj
+  -
+    gr: ἄφρων, ἄφρον
+    en: senseless, foolish
+    pos: adj
+  -
+    gr: εὐδαίμων, εὔδαιμον
+    en: blessed with a good δαίμων; fortunate, happy; wealthy
+    cog: eudaemonism
+    pos: adj
+  -
+    gr: σώφρων, σῶφρον
+    en: of sound mind; prudent; self-controlled; temperate, chaste
+    pos: adj
+  -
+    gr: βαθύς, βαθεῖα, βαθύ
+    en: deep, high
+    cog: bathyscaph
+    pos: adj
+  -
+    gr: βαρύς, βαρεῖα, βαρύ
+    en: heavy
+    cog: barometer
+    pos: adj
+  -
+    gr: βραχύς, βραχεῖα, βραχύ
+    en: short; small
+    cog: brachylogy, brachistochrone
+    pos: adj
+  -
+    gr: γλυκύς, γλυκεῖα, γλυκύ
+    en: sweet, pleasant, delightful
+    cog: glycerine
+    pos: adj
+  -
+    gr: ἡδύς, ἡδεῖα, ἡδύ
+    en: pleasant, welcome; glad, pleased
+    cog: hedonist
+    pos: adj
+  -
+    gr: ἥμισυς, ἡμίσεια, ἥμισυ
+    en: half
+    cog: hemisphere
+    pos: adj
+  -
+    gr: μέλας, μέλαινα, μέλαν
+    en: black, dark
+    cog: melanin
+    pos: adj
+  -
+    gr: πᾶς, πᾶσα, πᾶν
+    en: all, every, the whole
+    cog: pantomime, panhellenic
+    pos: adj
+  -
+    gr: ἅπας, ἅπασα, ἅπαν
+    en: all, the whole (strengthed form of πᾶς)
+    pos: adj
+  -
+    gr: χαρίεις, χαρίεσσα, χαρίεν
+    en: graceful, beautiful, elegant; clever
+    pos: adj
+  -
+    gr: ἐμός, ἐμή, ἐμόν
+    en: my, mine
+    pos: adj
+  -
+    gr: σός, σή, σόν
+    en: your, yours (sing.)
+    pos: adj
+  -
+    gr: ἡμέτερος, ἡμετέρα, ἡμέτερον
+    en: our, ours
+    pos: adj
+  -
+    gr: ὑμέτερος, ὑμετέρα, ὑμέτερον
+    en: your, yours (plural)
+    pos: adj
