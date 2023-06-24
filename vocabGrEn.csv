@@ -409,29 +409,29 @@
 μόνος,"μόνος, μόνη, μόνον","alone; only, single (normally in predictate position)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 μόνον,μόνον,"(adv. acc.) only, solely",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 ού μόνον...ἀλλὰ καὶ,ού μόνον...ἀλλὰ καὶ,not only...but also,pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-ἀληθής,"ἀληθής, ἀληθές","true, genuine; truthful",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-ἀσθενής,"ἀσθενής, ἀσθενές","without strength, weak<br>[myasthenia]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-ἀσφαλής,"ἀσφαλής, ἀσφαλές","steadfast; safe, secure; trustworthy",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-δυστυχής,"δυστυχής, δυστυχές","unlucky, unfortunate",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-εὐγενής,"εὐγενής, εὐγενές","well-born; noble, noble-minded<br>[eugenics]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-εὐτυχής,"εὐτυχής, εὐτυχές","lucky, fortunate",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-πλήρης,"πλήρης, πλῆρες","full, full of (+ gen.)<br>[pleromorph, plerome]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-σαφής,"σαφής, σαφές","sure, reliable; clear, distinct",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-ψευδής,"ψευδής, ψευδές","lying, false, untrue<br>[pseudonym]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-ἄφρων,"ἄφρων, ἄφρον","senseless, foolish",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-εὐδαίμων,"εὐδαίμων, εὔδαιμον","blessed with a good δαίμων; fortunate, happy; wealthy<br>[eudaemonism]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-σώφρων,"σώφρων, σῶφρον","of sound mind; prudent; self-controlled; temperate, chaste",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-βαθύς,"βαθύς, βαθεῖα, βαθύ","deep, high<br>[bathyscaph]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-βαρύς,"βαρύς, βαρεῖα, βαρύ",heavy<br>[barometer],pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-βραχύς,"βραχύς, βραχεῖα, βραχύ","short; small<br>[brachylogy, brachistochrone]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-γλυκύς,"γλυκύς, γλυκεῖα, γλυκύ","sweet, pleasant, delightful<br>[glycerine]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-ἡδύς,"ἡδύς, ἡδεῖα, ἡδύ","pleasant, welcome; glad, pleased<br>[hedonist]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-ἥμισυς,"ἥμισυς, ἡμίσεια, ἥμισυ",half<br>[hemisphere],pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-μέλας,"μέλας, μέλαινα, μέλαν","black, dark<br>[melanin]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-πᾶς,"πᾶς, πᾶσα, πᾶν","all, every, the whole<br>[pantomime, panhellenic]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-ἅπας,"ἅπας, ἅπασα, ἅπαν","all, the whole (strengthed form of πᾶς)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-χαρίεις,"χαρίεις, χαρίεσσα, χαρίεν","graceful, beautiful, elegant; clever",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-ἐμός,"ἐμός, ἐμή, ἐμόν","my, mine",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-σός,"σός, σή, σόν","your, yours (sing.)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-ἡμέτερος,"ἡμέτερος, ἡμετέρα, ἡμέτερον","our, ours",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-ὑμέτερος,"ὑμέτερος, ὑμετέρα, ὑμέτερον","your, yours (plural)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἀληθής,"ἀληθής, ἀληθές","true, genuine; truthful",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+ἀσθενής,"ἀσθενής, ἀσθενές","without strength, weak<br>[myasthenia]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+ἀσφαλής,"ἀσφαλής, ἀσφαλές","steadfast; safe, secure; trustworthy",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+δυστυχής,"δυστυχής, δυστυχές","unlucky, unfortunate",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+εὐγενής,"εὐγενής, εὐγενές","well-born; noble, noble-minded<br>[eugenics]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+εὐτυχής,"εὐτυχής, εὐτυχές","lucky, fortunate",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+πλήρης,"πλήρης, πλῆρες","full, full of (+ gen.)<br>[pleromorph, plerome]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+σαφής,"σαφής, σαφές","sure, reliable; clear, distinct",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+ψευδής,"ψευδής, ψευδές","lying, false, untrue<br>[pseudonym]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+ἄφρων,"ἄφρων, ἄφρον","senseless, foolish",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+εὐδαίμων,"εὐδαίμων, εὔδαιμον","blessed with a good δαίμων; fortunate, happy; wealthy<br>[eudaemonism]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+σώφρων,"σώφρων, σῶφρον","of sound mind; prudent; self-controlled; temperate, chaste",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+βαθύς,"βαθύς, βαθεῖα, βαθύ","deep, high<br>[bathyscaph]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+βαρύς,"βαρύς, βαρεῖα, βαρύ",heavy<br>[barometer],pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+βραχύς,"βραχύς, βραχεῖα, βραχύ","short; small<br>[brachylogy, brachistochrone]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+γλυκύς,"γλυκύς, γλυκεῖα, γλυκύ","sweet, pleasant, delightful<br>[glycerine]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+ἡδύς,"ἡδύς, ἡδεῖα, ἡδύ","pleasant, welcome; glad, pleased<br>[hedonist]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+ἥμισυς,"ἥμισυς, ἡμίσεια, ἥμισυ",half<br>[hemisphere],pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+μέλας,"μέλας, μέλαινα, μέλαν","black, dark<br>[melanin]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+πᾶς,"πᾶς, πᾶσα, πᾶν","all, every, the whole<br>[pantomime, panhellenic]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+ἅπας,"ἅπας, ἅπασα, ἅπαν","all, the whole (strengthed form of πᾶς)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+χαρίεις,"χαρίεις, χαρίεσσα, χαρίεν","graceful, beautiful, elegant; clever",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+ἐμός,"ἐμός, ἐμή, ἐμόν","my, mine",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+σός,"σός, σή, σόν","your, yours (sing.)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+ἡμέτερος,"ἡμέτερος, ἡμετέρα, ἡμέτερον","our, ours",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+ὑμέτερος,"ὑμέτερος, ὑμετέρα, ὑμέτερον","your, yours (plural)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
