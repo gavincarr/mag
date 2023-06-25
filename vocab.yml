@@ -2011,3 +2011,226 @@
     gr: ὑμέτερος, ὑμετέρα, ὑμέτερον
     en: your, yours (plural)
     pos: adj
+-
+  name: Unit 23
+  unit: 23
+  vocab:
+  -
+    gr: δίδωμι
+    en: give; (pres. + impf.) offer; grant, allow
+    cog: antidote, apodosis
+    pos: v
+  -
+    gr: δίκην δίδωμι
+    en: pay a (the) penalty, be punished
+    pos: v
+  -
+    gr: ἀποδίδωμι
+    gr_mp: ἀποδίδωμαι
+    en: give back return; pay; (mid.) sell
+    cog: 
+    pos: v
+  -
+    gr: μεταδίδωμι
+    en: give a part of, give a share of (+ gen. of thing shared)
+    pos: v
+  -
+    gr: παραδίδωμι
+    en: give over, hand over; surrender, deliver over
+    pos: v
+  -
+    gr: προδίδωμι
+    en: give in advance; (more commonly) give up, betray, abandon
+    pos: v
+  -
+    gr: ἵημι
+    gr_mp: ἵεμαι
+    en: let go; throw, hurl; utter (words); (mid.) hasten, rush
+    pos: v
+  -
+    gr: ἀφίημι
+    en: send forth, send away; release, set free; leave along, neglect
+    pos: v
+  -
+    gr: ἐφίημι
+    gr_mp: ἐφίεμαι
+    en: send on (or against); let go, yield; (mid.) command, give orders; (mid.) aim at, long for (+ gen.)
+    pos: v
+  -
+    gr: προσίημι
+    gr_mp: προσίεμαι
+    en: let come to; (more commonly mid.) give up, betray, abandon
+    pos: v
+  -
+    gr: ἵστημι
+    gr_mp: ἵσταμαι
+    en: (act. and 1st aor. transitive) make stand, set up; cause to stand, stop, check; (pass. and 2nd aor. intrans.) be placed, be set up, stand; stand still, halt
+    cog: hypostasis, rheostat
+    pos: v
+  -
+    gr: ἁφίστημι
+    gr_mp: ἁφίσταμαι
+    en: (trans.) put out of the way; cause to revolt; (intrans.) keep (onself) way from (or apart from); revolt from (+ ἀπό + gen.)
+    pos: v
+  -
+    gr: ἐφίστημι
+    gr_mp: ἐφίσταμαι
+    en: (trans.) set upon, set in charge of; cause to stop; (intrans.) stand upon (or by or against); be in charge of (+ dat.)
+    pos: v
+  -
+    gr: καθίστημι
+    gr_mp: καθίσταμαι
+    en: (trans.) set down; set in order; appoint; establish; (intrans.) set onself down (or in order); settle; become; be established
+    pos: v
+  -
+    gr: τίθημι
+    en: set, place, put; set up, establish; bring to pass; make cause
+    cog: thesis, hypothesis
+    pos: v
+  -
+    gr: ἀνατίθημι
+    en: set up as an offering, dedicate
+    cog: anathema
+    pos: v
+  -
+    gr: ἐπιτίθημι
+    gr_mp: ἐπιτίθεμαι
+    en: place upon; add to; (mid.) make an attempt upon, attack (+ dat.)
+    cog: epithet
+    pos: v
+  -
+    gr: κατατίθημι
+    gr_mp: κατατίθεμαι
+    en: put  down; pay down; (mid.) lay aside, store up; put an end to; put away in a safe place
+    pos: v
+  -
+    gr: συντίθημι
+    gr_mp: συντίθεμαι
+    en: put together; (mid.) make an agreement with (+ dat. of person), agree on, conclude (a pact, etc.)
+    cog: synthetic
+    pos: v
+  -
+    gr: δείκνυμι
+    en: show, point out
+    cog: deictic
+    pos: v
+  -
+    gr: ἀποδείκνυμι
+    en: display, make known; appoint, proclaim, create
+    cog: apodeictic (apodictic)
+    pos: v
+  -
+    gr: ἐπιδείκνυμι
+    en: exhibit, display; show, point out, prove
+    cog: epideictic
+    pos: v
+  -
+    gr: ζεύγνυμι
+    en: yoke, join together
+    cog: zeugma
+    pos: v
+  -
+    gr: ῥήγνυμι
+    en: break, shatter
+    cog: hemorrhage
+    pos: v
+  -
+    gr: εἲμι
+    en: go, will go
+    cog: ion
+    pos: v
+  -
+    gr: ἄπειμι, ἀπέρχομαι
+    en: go away
+    pos: v
+  -
+    gr: ἔξειμι, ἐξέρχομαι
+    en: go out
+    pos: v
+-
+  name: Unit 24
+  unit: 24
+  vocab:
+  -
+    gr: βασιλεία, βασιλείας, ἡ
+    en: kingdom, dominion; kingship, monarchy
+    pos: n
+  -
+    gr: ἐλευθερία, ἐλευθερίας, ἡ
+    en: freedom, liberty
+    pos: n
+  -
+    gr: ἡσυχία, ἡσυχιας, ἡ
+    en: quiet, rest, calm
+    pos: n
+  -
+    gr: ἐλεύθερος, ἐλευθέρα, ἐλεύθερον
+    en: free; characteristic of a free man
+    pos: adj
+  -
+    gr: ἥσυχος, ἥσυχον
+    en: quiet, calm, inactive
+    cog: Hesychast
+    pos: adj
+  -
+    gr: πικρός, πικρά, πικρόν
+    en: sharp, pungent; bitter, painful; spiteful, mean
+    cog: picrate
+    pos: adj
+  -
+    gr: ἁλίσκομαι
+    en: be captured, be seized
+    en_ext: (may be used as passive of αἱρέω)
+    pos: v
+  -
+    gr: βαίνω
+    en: walk step, go
+    cog: basis
+    pos: v
+  -
+    gr: ἀναβαίνω
+    en: go up; board (a ship); mount (a horse); go inland
+    cog: anabasis
+    pos: v
+  -
+    gr: διαβαίνω
+    en: step across; go over, cross
+    cog: diabetes
+    pos: v
+  -
+    gr: καταβαίνω
+    en: step down; dismount; go down to the sea from an island
+    cog: katabasis
+    pos: v
+  -
+    gr: παραβαίνω
+    en: go beside; overstep, transgress, violate
+    cog: parabasis
+    pos: v
+  -
+    gr: συμβαίνω
+    en: come together; come to an agreement, come to terms; (impersonal) come to pass, happen
+    pos: v
+  -
+    gr: ἀναγιγνώσκω
+    en: read (aloud), recite (from a written document)
+    pos: v
+  -
+    gr: διαγιγνώσκω
+    en: know apart, distinguish; determine, decide (a suit)
+    cog: diagnosis
+    pos: v
+  -
+    gr: δύω
+    gr_ext: (poetic δύνω)
+    en: (intrans. and noncausal, including 2nd aor.) enter; get into (clothes, armor); sink into the sea, set (of sun, stars); (trans. and causal, incl. 1st aor.) cause to enter, cause to sink (more commonly in compounds)
+    cog: ecdysiast
+    pos: v
+  -
+    gr: ἀποδύω
+    en: (act. and 1st aor.) strip off (someone else's armor or clothes); (mid. and 2nd aor.) take off (one's own clothes), undress
+    pos: v
+  -
+    gr: καταδύω
+    en: (intrans. and 2nd aor.) set (of sun); plunge, sink; (causal 1st aor.) cause to sink (ships)
+    pos: v
