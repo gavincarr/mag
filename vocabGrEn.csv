@@ -249,7 +249,8 @@
 οἰκέω,οἰκέω,"inhabit, settle; manage (a house or a government); dwell, live<br>[economy, ecology]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 ποιέω,ποιέω,"make, produce; do<br>[poet]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 φιλέω,φιλέω,"love, like",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
-φοβέω,φοβέω,"put to flight; terrify, frighten; (more commonly, mid./pass.) be afraid, be afraid of (+ acc; + inf)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
+φοβέω,φοβέω,"put to flight; terrify, frighten",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
+φοβοῦμαι,φοβοῦμαι,"(more commonly, mid./pass.) be afraid, be afraid of (+ acc; + inf)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 ὠφελέω,ὠφελέω,"help, aid",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 ὅδε,"ὅδε, ἥδε, τόδε",this; the following,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
 οὗτος,"οὗτος, ἅυτη, τοῦτο",this; the foregoing; the latter,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 13
@@ -447,8 +448,10 @@
 ἀφίημι,ἀφίημι,"send forth, send away; release, set free; leave along, neglect",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἐφίημι,ἐφίημι,"send on (or against); let go, yield",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἐφίεμαι,ἐφίεμαι,"(mid.) command, give orders; (mid.) aim at, long for (+ gen.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
-προσίημι,προσίημι,"let come to; (more commonly mid.) give up, betray, abandon",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
-ἵστημι,ἵστημι,"(act. and 1st aor. transitive) make stand, set up; cause to stand, stop, check; (pass. and 2nd aor. intrans.) be placed, be set up, stand; stand still, halt<br>[hypostasis, rheostat]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
+προσίημι,προσίημι,let come to,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
+προσίεμαι,προσίεμαι,"(more commonly mid.) give up, betray, abandon",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
+ἵστημι,ἵστημι,"(act. and 1st aor. transitive) make stand, set up; cause to stand, stop, check",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
+ἵσταμαι,ἵσταμαι,"(pass. and 2nd aor. intrans.) be placed, be set up, stand; stand still, halt",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἁφίστημι,ἁφίστημι,(trans.) put out of the way; cause to revolt; (intrans.) keep (onself) way from (or apart from); revolt from (+ ἀπό + gen.),pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἐφίστημι,ἐφίστημι,"(trans.) set upon, set in charge of; cause to stop; (intrans.) stand upon (or by or against); be in charge of (+ dat.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 καθίστημι,καθίστημι,(trans.) set down; set in order; appoint; establish; (intrans.) set onself down (or in order); settle; become; be established,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
