@@ -183,23 +183,30 @@
 εἰρήνη,"εἰρήνη, εἰρήνης, ἡ",peace; peace treaty<br>[Irene],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 ἐπιθυμία,"ἐπιθυμία, ἐπιθυμίας, ἡ","desire, yearning",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 ἐπιορκία,"ἐπιορκία, ἐπιορκίας, ἡ","false swearing, perjury",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
-λίθος,"λίθος, λίθου, ὁ/ἡ","stone<br>(if fem.) a particular variety of stone (e.g. magnet, crystall)<br>[monolith]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
+λίθος,"λίθος, λίθου, ὁ or ἡ","stone<br>(if fem.) a particular variety of stone (e.g. magnet, crystal)<br>[monolith]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 μάχη,"μάχη, μάχης, ἡ","battle, combat<br>[Titanomachy]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 Ἀθηναῖος,"Ἀθηναῖος, Ἀθηναία, Ἀθηναῖον",Athenian,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 οἱ Ἀθηναῖοι,οἱ Ἀθηναῖοι,the Athenians,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 αἴτιος,"αἴτιος, αἰτία, αἴτιον","responsible; responsible for, cause of (+ objective gen.)<br>[aetiology]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 πλεῖστος,"πλεῖστος, πλείστη, πλεῖστον","most, greatest, largest<br>(often with art.) the greatest number, the most<br>[pleistocene]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 οἱ πλεῖστοι,οἱ πλεῖστοι,"the majority, the greatest part (of a group)",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
-πρότερος,"πρότερος, προτέρα, πρότερον","former, earlier, previous<br>[hysteron proteron]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
+πρότερος,"πρότερος, προτέρα, πρότερον","former, earlier, previous<br>[hysteron, proteron]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 ὕστερος,"ὕστερος, ὑστέρα, ὕστερον","latter, later, next",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 10
 ἀποκτείνω,ἀποκτείνω,"kill, put to death",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
-βουλεύω,βουλεύω,"plan, devise<br>(mid.) take counsel, deliberate<br>[probouleutic]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
-γυμνάζω,γυμνάζω,"train (naked), exercise<br>(mid.) exercise oneself, be in training<br>[gymnastics, gymnasium]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
-δικάζω,δικάζω,"judge; serve as judge or juror<br>(mid.) plead a case, participate in a suit",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
-κόπτω,κόπτω,"strike, chop, beat; plunder (land)<br>(mid.) beat one's breast in mourning<br>[syncope]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
-παρασκευάζω,παρασκευάζω,"prepare, provide, procure<br>(mid.) prepare for oneself, make preparations",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
-πολιτεύω,πολιτεύω,be a citizen; hae a certain form of government<br>(mid.) live or behave as a free citizen; participate in politics,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
-σπένδω,σπένδω,"pour a libation<br>(mid.) exchange libations, make a truce, make peace<br>[spondaic]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+βουλεύω,βουλεύω,"plan, devise",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+βουλεύομαι,βουλεύομαι,"(mid.) take counsel, deliberate",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+γυμνάζω,γυμνάζω,"train (naked), exercise",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+γυμνάζομαι,γυμνάζομαι,"(mid.) exercise oneself, be in training",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+δικάζω,δικάζω,judge; serve as judge or juror,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+δικάζομαι,δικάζομαι,"(mid.) plead a case, participate in a suit",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+κόπτω,κόπτω,"strike, chop, beat; plunder (land)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+κόπτομαι,κόπτομαι,(mid.) beat one's breast in mourning,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+παρασκευάζω,παρασκευάζω,"prepare, provide, procure",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+παρασκευάζομαι,παρασκευάζομαι,"(mid.) prepare for oneself, make preparations",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+πολιτεύω,πολιτεύω,be a citizen; have a certain form of government,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+πολιτεύομαι,πολιτεύομαι,(mid.) live or behave as a free citizen; participate in politics,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+σπένδω,σπένδω,pour a libation,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
+σπένδομαι,σπένδομαι,"(mid.) exchange libations, make a truce, make peace",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
 αἰσθάνομαι,αἰσθάνομαι,"perceive (+ acc. or + gen.); sense, understand<br>[aesthetics]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
 βούλομαι,βούλομαι,"want, desire wish (+ complementary inf.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
 γίγνομαι,γίγνομαι,"come into being, be born, become; occur<br>[genus]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 11
