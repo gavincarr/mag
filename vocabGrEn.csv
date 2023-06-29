@@ -338,7 +338,8 @@
 παράγω,παράγω,"lead by; lead astray, mislead; bring forward, introduce",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 παρέχω,παρέχω,"furnish, supply, afford",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 τρέπω,τρέπω,"turn, direct; change; put to flight (in battle)<br>[trophy]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
-φυλάττω,φυλάττω,"guard, defend; wathc for<br>(mid.) be on one's guard, be on guard against (+ acc.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+φυλάττω,φυλάττω,"guard, defend; wathc for",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+φυλάττομαι,φυλάττομαι,"(mid.) be on one's guard, be on guard against (+ acc.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 εὐχή,"εὐχή, εὐχῆς, ἡ","prayer, vow",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
 ὄνομα,"ὄνομα, ὀνόματος, το","name<br>[synonym, onomatopoeia]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
 πληγή,"πληγή, πληγῆς, ἡ","blow, stroke<br>[paraplegic]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
@@ -494,5 +495,6 @@
 ἀναγιγνώσκω,ἀναγιγνώσκω,"read (aloud), recite (from a written document)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 διαγιγνώσκω,διαγιγνώσκω,"know apart, distinguish; determine, decide (a suit)<br>[diagnosis]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 δύω,δύω (poetic δύνω),"(intrans. and noncausal, including 2nd aor.) enter; get into (clothes, armor); sink into the sea, set (of sun, stars)<br>(trans. and causal, incl. 1st aor.) cause to enter, cause to sink (more commonly in compounds)<br>[ecdysiast]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
-ἀποδύω,ἀποδύω,"(act. and 1st aor.) strip off (someone else's armor or clothes)<br>(mid. and 2nd aor.) take off (one's own clothes), undress",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
+ἀποδύω,ἀποδύω,(act. and 1st aor.) strip off (someone else's armor or clothes),pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
+ἀποδύομαι,ἀποδύομαι,"(mid. and 2nd aor.) take off (one's own clothes), undress",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 καταδύω,καταδύω,"(intrans. and 2nd aor.) set (of sun); plunge, sink<br>(causal 1st aor.) cause to sink (ships)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
