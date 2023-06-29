@@ -842,8 +842,8 @@
     en: false swearing, perjury
     pos: n
   -
-    gr: λίθος, λίθου, ὁ/ἡ
-    en: stone; (if fem.) a particular variety of stone (e.g. magnet, crystall)
+    gr: λίθος, λίθου, ὁ or ἡ
+    en: stone; (if fem.) a particular variety of stone (e.g. magnet, crystal)
     cog: monolith
     pos: n
   -
@@ -876,7 +876,7 @@
   -
     gr: πρότερος, προτέρα, πρότερον
     en: former, earlier, previous
-    cog: hysteron proteron
+    cog: hysteron, proteron
     pos: adj
   -
     gr: ὕστερος, ὑστέρα, ὕστερον
@@ -892,33 +892,40 @@
     pos: v
   -
     gr: βουλεύω
+    gr_mp: βουλεύομαι
     en: plan, devise; (mid.) take counsel, deliberate
     cog: probouleutic
     pos: v
   -
     gr: γυμνάζω
+    gr_mp: γυμνάζομαι
     en: train (naked), exercise; (mid.) exercise oneself, be in training
     cog: gymnastics, gymnasium
     pos: v
   -
     gr: δικάζω
+    gr_mp: δικάζομαι
     en: judge; serve as judge or juror; (mid.) plead a case, participate in a suit
     pos: v
   -
     gr: κόπτω
+    gr_mp: κόπτομαι
     en: strike, chop, beat; plunder (land); (mid.) beat one's breast in mourning
     cog: syncope
     pos: v
   -
     gr: παρασκευάζω
+    gr_mp: παρασκευάζομαι
     en: prepare, provide, procure; (mid.) prepare for oneself, make preparations
     pos: v
   -
     gr: πολιτεύω
-    en: be a citizen; hae a certain form of government; (mid.) live or behave as a free citizen; participate in politics
+    gr_mp: πολιτεύομαι
+    en: be a citizen; have a certain form of government; (mid.) live or behave as a free citizen; participate in politics
     pos: v
   -
     gr: σπένδω
+    gr_mp: σπένδομαι
     en: pour a libation; (mid.) exchange libations, make a truce, make peace
     cog: spondaic
     pos: v
