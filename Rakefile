@@ -4,6 +4,7 @@ task :default => [ :lint, :export ]
 desc "Lint vocab.yml"
 task :lint do
   sh "../mag-utils/bin/lint_vocab vocab.yml", :verbose => false
+  sh "../mag-utils/bin/lint_pp pp.yml", :verbose => false
 end
 
 desc "Export to Anki"
