@@ -9,6 +9,6 @@ end
 
 desc "Export to Anki"
 task :export do
-  sh "../mag-utils/bin/export_to_anki -o vocabGrEn.csv vocab.yml", :verbose => true
+  sh "../mag-utils/bin/export_anki_vocab -o vocabGrEn.csv vocab.yml", :verbose => true
 end
 
