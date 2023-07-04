@@ -678,7 +678,7 @@
     pos: n
   -
     gr: ἐπί
-    gr_ext: (elided ἑπ᾽ or ἑφ᾽)
+    gr_ext: (elided ἐπ᾽ or ἐφ᾽)
     en: (+ gen.) upon; in the time of; (+ dat.) upon, over; next to; in addition to; (+ acc.) onto, up to, toward; against
     cog: epideictic, epiglottis
     pos: prep
@@ -1268,6 +1268,7 @@
     pos: n
   -
     gr: πρᾶγμα, πράγματος, το
+    gr_pl: πράγματα, τα
     en: deed, action; event, circumstance, thing; (pl.) toil, trouble
     cog: pragmatic
     pos: n
@@ -1398,6 +1399,7 @@
     pos: n
   -
     gr: τέλος, τέλους, το
+    gr_pl: τέλη, τα
     en: fulfillment, completion; end, finish; authority; (pl.) service, duty; offerings, rites; taxes
     cog: teleological
     pos: n
@@ -1572,6 +1574,7 @@
     pos: n
   -
     gr: χρῆμα, χρήματος, το
+    gr_pl: χρήματα, τα
     en: thing, matter, affair; (pl.) goods, property, money
     cog: chrematistic
     pos: n
