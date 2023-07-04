@@ -143,9 +143,9 @@
 ὕπνος,"ὕπνος, ὕπνου, ὁ",sleep<br>[hypnotism],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 φθόνος,"φθόνος, φθόνου, ὁ","envy, jealousy",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 χρόνος,"χρόνος, χρόνου, ὁ",time; period of time<br>[chronology],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-ἐπί-gen,ἐπί (+ gen.) (elided ἑπ᾽ or ἑφ᾽),(+ gen.) upon; in the time of,pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-ἐπί-dat,ἐπί (+ dat.) (elided ἑπ᾽ or ἑφ᾽),"(+ dat.) upon, over; next to; in addition to",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-ἐπί-acc,ἐπί (+ acc.) (elided ἑπ᾽ or ἑφ᾽),"(+ acc.) onto, up to, toward; against",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+ἐπί-gen,ἐπί (+ gen.) (elided ἐπ᾽ or ἐφ᾽),(+ gen.) upon; in the time of,pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+ἐπί-dat,ἐπί (+ dat.) (elided ἐπ᾽ or ἐφ᾽),"(+ dat.) upon, over; next to; in addition to",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+ἐπί-acc,ἐπί (+ acc.) (elided ἐπ᾽ or ἐφ᾽),"(+ acc.) onto, up to, toward; against",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 παρά-gen,παρά (+ gen.) (elided παρ᾽),"(+ gen.) from the side of, from (usually with a person as object)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 παρά-dat,παρά (+ dat.) (elided παρ᾽),"(+ dat.) by the side of, at the house of (almost always with a person as object)",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 παρά-acc,παρά (+ acc.) (elided παρ᾽),"(+ acc.) to the side of; beside, along",pos::preposition,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
@@ -285,7 +285,8 @@
 βούλευμα,"βούλευμα, βουλεύματος, το","plan; proposal, resolution",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
 γράμμα,"γράμμα, γράμματος, το","line, picture; letter (of alphabet); piece of writing<br>[grammatical, grammatology]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
 ποίημα,"ποίημα, ποιήματος, το","work, product; poem",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
-πρᾶγμα,"πρᾶγμα, πράγματος, το","deed, action; event, circumstance, thing<br>(pl.) toil, trouble<br>[pragmatic]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
+πρᾶγμα,"πρᾶγμα, πράγματος, το","deed, action; event, circumstance, thing",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
+πράγματα,"πράγματα, τα","(pl.) toil, trouble",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
 τέρας,"τέρας, τέρατος, το","portent, sign, marvel; monster<br>[teratogenesis]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
 ὕδωρ,"ὕδωρ, ὕδατος, το",water<br>[hydrofoil],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
 φῶς,"φῶς, φωτός, το","light<br>[photon, photograph]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 14
@@ -310,7 +311,8 @@
 μέρος,"μέρος, μέρους, το","share, portion; part; one's turn<br>[meroblastic, penthemimeral]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 πλῆθος,"πλῆθος, πλήθους, το","multitude; the masses, the majority; quantity; size<br>[plethora]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 τεῖχος,"τεῖχος, τείχους, το",wall<br>[teichoscopy],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
-τέλος,"τέλος, τέλους, το","fulfillment, completion; end, finish; authority<br>(pl.) service, duty; offerings, rites; taxes<br>[teleological]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+τέλος,"τέλος, τέλους, το","fulfillment, completion; end, finish; authority",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
+τέλη,"τέλη, τα","(pl.) service, duty; offerings, rites; taxes",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 τίς,"τίς, τί",(pronoun) who? which? what?<br>(adj.) which? what?,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 15
 δῆμος,"δῆμος, δήμου, ὁ","the common people; the democratic assembly; township, deme<br>[demagogue, democracy]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 ἡγεμών,"ἡγεμών, ἡγεμόνος, ὁ","leader, guide<br>[hegemony]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
@@ -348,7 +350,8 @@
 στάδιον,"στάδιον, σταδίου, το (alternative plural στάδιοι, σταδίων, ὁ)","stade (unit of length, about 600 ft. or 1/8 mile); race course, single course (without a turn)<br>[stadium]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
 στρατόπεδον,"στρατόπεδον, στρατοπέδου, το",camp (of an army),pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
 φόρος,"φόρος, φόρου, ὁ","payment, tribute",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
-χρῆμα,"χρῆμα, χρήματος, το","thing, matter, affair<br>(pl.) goods, property, money<br>[chrematistic]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+χρῆμα,"χρῆμα, χρήματος, το","thing, matter, affair",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
+χρήματα,"χρήματα, τα","(pl.) goods, property, money",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
 διαφέρω,διαφέρω,"carry across; endure; differ, excel (+ gen. of person or thing compared; sometimes + acc. of respect)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
 εὔχομαι,εὔχομαι,"pray, pray for; profess openly, boast",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
 κατηγορέω,κατηγορέω,"speak against, accuse (+ gen. of person accused)<br>[category]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
