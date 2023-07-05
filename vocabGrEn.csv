@@ -340,7 +340,7 @@
 παράγω,παράγω,"lead by; lead astray, mislead; bring forward, introduce",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 παρέχω,παρέχω,"furnish, supply, afford",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 τρέπω,τρέπω,"turn, direct; change; put to flight (in battle)<br>[trophy]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
-φυλάττω,φυλάττω,"guard, defend; wathc for",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+φυλάττω,φυλάττω,"guard, defend; watch for",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 φυλάττομαι,φυλάττομαι,"(mid.) be on one's guard, be on guard against (+ acc.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 εὐχή,"εὐχή, εὐχῆς, ἡ","prayer, vow",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
 ὄνομα,"ὄνομα, ὀνόματος, το","name<br>[synonym, onomatopoeia]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 17
@@ -501,3 +501,30 @@
 ἀποδύω,ἀποδύω,(act. and 1st aor.) strip off (someone else's armor or clothes),pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 ἀποδύομαι,ἀποδύομαι,"(mid. and 2nd aor.) take off (one's own clothes), undress",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 καταδύω,καταδύω,"(intrans. and 2nd aor.) set (of sun); plunge, sink<br>(causal 1st aor.) cause to sink (ships)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
+κεφαλή,"κεφαλή, κεφαλῆς, ἡ",head<br>[encephalitis],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+εἷς,"εἷς, μία, ἑν",one,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+δυο,δυο,two,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+τρεῖς,"τρεῖς, τρία",three,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+τέτταρες,"τέτταρες, τέτταρα",four,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+πέντε,πέντε,five,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἕξ,ἕξ,six,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἐννέα,ἐννέα,nine,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἕνδεκα,ἕνδεκα,eleven,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+δώδεκα,δώδεκα,twelve,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+οὐδείς,"οὐδείς, οὐδεμία, οὐδέν or μηδείς, μηδεμία, μηδέν","no one, none; nobody, nothing<br>(adj.) not one",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἐμαυτοῦ,"ἐμαυτοῦ, ἐμαυτῆς, ἡμῶν αὐτῶν","(reflexive) myself, ourselves",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+σεαυτοῦ (σαυτοῦ),"σεαυτοῦ (σαυτοῦ), σεαυτῆς (σαυτῆς), ὑμῶν αὐτῶν","(reflexive) yourself, yourselves",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἑαυτοῦ (αὑτου),"ἑαυτοῦ (αὑτου), ἑαυτῆς (αὑτῆς), ἑαυτοῦ (αὑτοῦ)","(reflexive) himself, herself, itself<br>(pl.) themselves",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+οὗ (οὑ),οὗ (οὑ),"(indirect reflexive) himself, herself, itself",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+σφῶν,σφῶν,(pl.) themselves,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἀλλήλων,ἀλλήλων,"each other, one another<br>[parallel]",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἄκριτος,"ἄκριτος, ἄκριτον","undecided; unjudged, without trial",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+μέγας,"μέγας, μεγάλη, μέγα","large, tall; great, mighty<br>[megalomania, megabyte]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ὀλίγος,"ὀλίγος, ὀλίγη, ὀλίγον","little, small; few<br>[oligarchy]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+οἱ ὀλίγοι,οἱ ὀλίγοι,"oligarchs, oligarchical party",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+πολύς,"πολύς, πολλή, πολύ","much, many<br>[polychromatic]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+οἱ πολλοί,οἱ πολλοί,"the multitude, the greater number<br>[hoi polloi]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+διαδίδωμι,διαδίδωμι,"hand over, distribute",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+δύναμαι,δύναμαι,"be able, be strong enough (+ inf.); have power",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ὥστε,ὥστε,"so as, so that, that (of result)",pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ὡς,ὡς,so that,pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
