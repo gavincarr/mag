@@ -1528,7 +1528,7 @@
   -
     gr: φυλάττω
     gr_mp: φυλάττομαι
-    en: guard, defend; wathc for; (mid.) be on one's guard, be on guard against (+ acc.)
+    en: guard, defend; watch for; (mid.) be on one's guard, be on guard against (+ acc.)
     pos: v
 -
   name: Unit 17
@@ -2247,3 +2247,118 @@
     gr: καταδύω
     en: (intrans. and 2nd aor.) set (of sun); plunge, sink; (causal 1st aor.) cause to sink (ships)
     pos: v
+-
+  name: Unit 25
+  unit: 25
+  vocab:
+  -
+    gr: κεφαλή, κεφαλῆς, ἡ
+    en: head
+    cog: encephalitis
+    pos: n
+  -
+    gr: εἷς, μία, ἑν
+    en: one
+    pos: adj
+  -
+    gr: δυο
+    en: two
+    pos: adj
+  -
+    gr: τρεῖς, τρία
+    en: three
+    pos: adj
+  -
+    gr: τέτταρες, τέτταρα
+    en: four
+    pos: adj
+  -
+    gr: πέντε
+    en: five
+    pos: adj
+  -
+    gr: ἕξ
+    en: six
+    pos: adj
+  -
+    gr: ἐννέα
+    en: nine
+    pos: adj
+  -
+    gr: ἕνδεκα
+    en: eleven
+    pos: adj
+  -
+    gr: δώδεκα
+    en: twelve
+    pos: adj
+  -
+    gr: οὐδείς, οὐδεμία, οὐδέν or μηδείς, μηδεμία, μηδέν
+    en: no one, none; nobody, nothing; (adj.) not one
+    pos: pron
+  -
+    gr: ἐμαυτοῦ, ἐμαυτῆς, ἡμῶν αὐτῶν
+    en: (reflexive) myself, ourselves
+    pos: pron
+  -
+    gr: σεαυτοῦ (σαυτοῦ), σεαυτῆς (σαυτῆς), ὑμῶν αὐτῶν
+    en: (reflexive) yourself, yourselves
+    pos: pron
+  -
+    gr: ἑαυτοῦ (αὑτου), ἑαυτῆς (αὑτῆς), ἑαυτοῦ (αὑτοῦ)
+    en: (reflexive) himself, herself, itself; (pl.) themselves
+    pos: pron
+  -
+    gr: οὗ (οὑ)
+    gr_pl: σφῶν
+    en: (indirect reflexive) himself, herself, itself; (pl.) themselves
+    pos: pron
+  -
+    gr: ἀλλήλων
+    en: each other, one another
+    cog: parallel
+    pos: pron
+  -
+    gr: ἄκριτος, ἄκριτον
+    en: undecided; unjudged, without trial
+    pos: adj
+  -
+    gr: μέγας, μεγάλη, μέγα
+    en: large, tall; great, mighty
+    cog: megalomania, megabyte
+    pos: adj
+  -
+    gr: ὀλίγος, ὀλίγη, ὀλίγον
+    en: little, small; few
+    cog: oligarchy
+    pos: adj
+  -
+    gr: οἱ ὀλίγοι
+    en: oligarchs, oligarchical party
+    pos: n
+  -
+    gr: πολύς, πολλή, πολύ
+    en: much, many
+    cog: polychromatic
+    pos: adj
+  -
+    gr: οἱ πολλοί
+    en: the multitude, the greater number
+    cog: hoi polloi
+    pos: n
+  -
+    gr: διαδίδωμι
+    en: hand over, distribute
+    pos: v
+  -
+    gr: δύναμαι
+    en: be able, be strong enough (+ inf.); have power
+    pos: v
+  -
+    gr: ὥστε
+    en: so as, so that, that (of result)
+    pos: conj
+  -
+    gr: ὡς
+    en: so that
+    pos: conj
