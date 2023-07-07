@@ -512,11 +512,14 @@
 ἕνδεκα,ἕνδεκα,eleven,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 δώδεκα,δώδεκα,twelve,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 οὐδείς,"οὐδείς, οὐδεμία, οὐδέν or μηδείς, μηδεμία, μηδέν","no one, none; nobody, nothing<br>(adj.) not one",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
-ἐμαυτοῦ,"ἐμαυτοῦ, ἐμαυτῆς, ἡμῶν αὐτῶν","(reflexive) myself, ourselves",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
-σεαυτοῦ (σαυτοῦ),"σεαυτοῦ (σαυτοῦ), σεαυτῆς (σαυτῆς), ὑμῶν αὐτῶν","(reflexive) yourself, yourselves",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
-ἑαυτοῦ (αὑτου),"ἑαυτοῦ (αὑτου), ἑαυτῆς (αὑτῆς), ἑαυτοῦ (αὑτοῦ)","(reflexive) himself, herself, itself<br>(pl.) themselves",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἐμαυτοῦ,"ἐμαυτοῦ, ἐμαυτῆς",(reflexive) myself,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἡμῶν αὐτῶν,ἡμῶν αὐτῶν,(reflexive) ourselves,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+σεαυτοῦ (σαυτοῦ),"σεαυτοῦ (σαυτοῦ), σεαυτῆς (σαυτῆς)",(reflexive) yourself,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ὑμῶν αὐτῶν,ὑμῶν αὐτῶν,(reflexive) yourselves,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἑαυτοῦ (αὑτου),"ἑαυτοῦ (αὑτου), ἑαυτῆς (αὑτῆς), ἑαυτοῦ (αὑτοῦ)","(reflexive) himself, herself, itself",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἑαυτῶν (αὑτῶν),ἑαυτῶν (αὑτῶν),(reflexive) themselves,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 οὗ (οὑ),οὗ (οὑ),"(indirect reflexive) himself, herself, itself",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
-σφῶν,σφῶν,(pl.) themselves,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+σφῶν,σφῶν,(indirect reflexive) themselves,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 ἀλλήλων,ἀλλήλων,"each other, one another<br>[parallel]",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 ἄκριτος,"ἄκριτος, ἄκριτον","undecided; unjudged, without trial",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 μέγας,"μέγας, μεγάλη, μέγα","large, tall; great, mighty<br>[megalomania, megabyte]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
