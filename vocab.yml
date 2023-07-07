@@ -2297,21 +2297,36 @@
     en: no one, none; nobody, nothing; (adj.) not one
     pos: pron
   -
-    gr: ἐμαυτοῦ, ἐμαυτῆς, ἡμῶν αὐτῶν
-    en: (reflexive) myself, ourselves
+    gr: ἐμαυτοῦ, ἐμαυτῆς
+    en: (reflexive) myself
     pos: pron
   -
-    gr: σεαυτοῦ (σαυτοῦ), σεαυτῆς (σαυτῆς), ὑμῶν αὐτῶν
-    en: (reflexive) yourself, yourselves
+    gr: ἡμῶν αὐτῶν
+    en: (reflexive) ourselves
+    pos: pron
+  -
+    gr: σεαυτοῦ (σαυτοῦ), σεαυτῆς (σαυτῆς)
+    en: (reflexive) yourself
+    pos: pron
+  -
+    gr: ὑμῶν αὐτῶν
+    en: (reflexive) yourselves
     pos: pron
   -
     gr: ἑαυτοῦ (αὑτου), ἑαυτῆς (αὑτῆς), ἑαυτοῦ (αὑτοῦ)
-    en: (reflexive) himself, herself, itself; (pl.) themselves
+    en: (reflexive) himself, herself, itself
+    pos: pron
+  -
+    gr: ἑαυτῶν (αὑτῶν)
+    en: (reflexive) themselves
     pos: pron
   -
     gr: οὗ (οὑ)
-    gr_pl: σφῶν
-    en: (indirect reflexive) himself, herself, itself; (pl.) themselves
+    en: (indirect reflexive) himself, herself, itself
+    pos: pron
+  -
+    gr: σφῶν
+    en: (indirect reflexive) themselves
     pos: pron
   -
     gr: ἀλλήλων
