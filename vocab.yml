@@ -1881,17 +1881,25 @@
     cog: surgeon, chiropractor
     pos: n
   -
-    gr: εγώ, ἡμεῖς
-    en: I, we
+    gr: εγώ
+    en: I
     cog: egomaniac
     pos: pron
   -
-    gr: σύ, ὑμεῖς
-    en: you(s.), you (pl.)
+    gr: ἡμεῖς
+    en: we
+    pos: pron
+  -
+    gr: σύ
+    en: you (s.)
+    pos: pron
+  -
+    gr: ὑμεῖς
+    en: you (pl.)
     pos: pron
   -
     gr: μόνος, μόνη, μόνον
-    en: alone; only, single (normally in predictate position)
+    en: alone; only, single (normally in predicate position)
     pos: adj
   -
     gr: μόνον
