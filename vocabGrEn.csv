@@ -416,9 +416,11 @@
 γυνή,"γυνή, γυναικός, ἡ",woman; lady; wife<br>[gynecology],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 υἱός (ὑός),"υἱός (ὑός), υἱοῦ or υἱέος, ὁ",son,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 χείρ,"χείρ, χειρός, ὁ","hand<br>[surgeon, chiropractor]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-εγώ,"εγώ, ἡμεῖς","I, we<br>[egomaniac]",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-σύ,"σύ, ὑμεῖς","you(s.), you (pl.)",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-μόνος,"μόνος, μόνη, μόνον","alone; only, single (normally in predictate position)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+εγώ,εγώ,I<br>[egomaniac],pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ἡμεῖς,ἡμεῖς,we,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+σύ,σύ,you (s.),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+ὑμεῖς,ὑμεῖς,you (pl.),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+μόνος,"μόνος, μόνη, μόνον","alone; only, single (normally in predicate position)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 μόνον,μόνον,"(adv. acc.) only, solely",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 ού μόνον...ἀλλὰ καὶ,ού μόνον...ἀλλὰ καὶ,not only...but also,pos::conjunction,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 ἀληθής,"ἀληθής, ἀληθές","true, genuine; truthful",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
