@@ -418,7 +418,7 @@
 χείρ,"χείρ, χειρός, ὁ","hand<br>[surgeon, chiropractor]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 εγώ,εγώ,I<br>[egomaniac],pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 ἡμεῖς,ἡμεῖς,we,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
-σύ,σύ,you (s.),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
+σύ,σύ,you (sg.),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 ὑμεῖς,ὑμεῖς,you (pl.),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 μόνος,"μόνος, μόνη, μόνον","alone; only, single (normally in predicate position)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
 μόνον,μόνον,"(adv. acc.) only, solely",pos::adverb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 21
@@ -446,29 +446,29 @@
 ἅπας,"ἅπας, ἅπασα, ἅπαν","all, the whole (strengthed form of πᾶς)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
 χαρίεις,"χαρίεις, χαρίεσσα, χαρίεν","graceful, beautiful, elegant; clever",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
 ἐμός,"ἐμός, ἐμή, ἐμόν","my, mine",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
-σός,"σός, σή, σόν","your, yours (sing.)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+σός,"σός, σή, σόν","your, yours (sg.)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
 ἡμέτερος,"ἡμέτερος, ἡμετέρα, ἡμέτερον","our, ours",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
-ὑμέτερος,"ὑμέτερος, ὑμετέρα, ὑμέτερον","your, yours (plural)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
+ὑμέτερος,"ὑμέτερος, ὑμετέρα, ὑμέτερον","your, yours (pl.)",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 22
 δίδωμι,δίδωμι,"give<br>(pres. + impf.) offer; grant, allow<br>[antidote, apodosis]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 δίκην δίδωμι,δίκην δίδωμι,"pay a (the) penalty, be punished",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
-ἀποδίδωμι,ἀποδίδωμι,give back return; pay,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
+ἀποδίδωμι,ἀποδίδωμι,"give back, return; pay",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἀποδίδωμαι,ἀποδίδωμαι,(mid.) sell,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 μεταδίδωμι,μεταδίδωμι,"give a part of, give a share of (+ gen. of thing shared)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 παραδίδωμι,παραδίδωμι,"give over, hand over; surrender, deliver over",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 προδίδωμι,προδίδωμι,"give in advance<br>(more commonly) give up, betray, abandon",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἵημι,ἵημι,"let go; throw, hurl; utter (words)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἵεμαι,ἵεμαι,"(mid.) hasten, rush",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
-ἀφίημι,ἀφίημι,"send forth, send away; release, set free; leave along, neglect",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
+ἀφίημι,ἀφίημι,"send forth, send away; release, set free; leave alone, neglect",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἐφίημι,ἐφίημι,"send on (or against); let go, yield",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
-ἐφίεμαι,ἐφίεμαι,"(mid.) command, give orders<br>(mid.) aim at, long for (+ gen.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
+ἐφίεμαι,ἐφίεμαι,"(mid.) command, give orders; aim at, long for (+ gen.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 προσίημι,προσίημι,let come to,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 προσίεμαι,προσίεμαι,"(more commonly mid.) give up, betray, abandon",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἵστημι,ἵστημι,"(act. and 1st aor. transitive) make stand, set up; cause to stand, stop, check",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἵσταμαι,ἵσταμαι,"(pass. and 2nd aor. intrans.) be placed, be set up, stand; stand still, halt",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
-ἁφίστημι,ἁφίστημι,(trans.) put out of the way; cause to revolt<br>(intrans.) keep (onself) way from (or apart from); revolt from (+ ἀπό + gen.),pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
+ἁφίστημι,ἁφίστημι,(trans.) put out of the way; cause to revolt<br>(intrans.) keep (oneself) away from (or apart from); revolt from (+ ἀπό + gen.),pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἐφίστημι,ἐφίστημι,"(trans.) set upon, set in charge of; cause to stop<br>(intrans.) stand upon (or by or against); be in charge of (+ dat.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
-καθίστημι,καθίστημι,(trans.) set down; set in order; appoint; establish<br>(intrans.) set onself down (or in order); settle; become; be established,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
-τίθημι,τίθημι,"set, place, put; set up, establish; bring to pass; make cause<br>[thesis, hypothesis]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
+καθίστημι,καθίστημι,(trans.) set down; set in order; appoint; establish<br>(intrans.) set oneself down (or in order); settle; become; be established,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
+τίθημι,τίθημι,"set, place, put; set up, establish; make, cause, bring to pass<br>[thesis, hypothesis]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἀνατίθημι,ἀνατίθημι,"set up as an offering, dedicate<br>[anathema]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἐπιτίθημι,ἐπιτίθημι,place upon; add to,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἐπιτίθεμαι,ἐπιτίθεμαι,"(mid.) make an attempt upon, attack (+ dat.)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
