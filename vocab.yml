@@ -1891,7 +1891,7 @@
     pos: pron
   -
     gr: σύ
-    en: you (s.)
+    en: you (sg.)
     pos: pron
   -
     gr: ὑμεῖς
@@ -2020,7 +2020,7 @@
     pos: adj
   -
     gr: σός, σή, σόν
-    en: your, yours (sing.)
+    en: your, yours (sg.)
     pos: adj
   -
     gr: ἡμέτερος, ἡμετέρα, ἡμέτερον
@@ -2028,7 +2028,7 @@
     pos: adj
   -
     gr: ὑμέτερος, ὑμετέρα, ὑμέτερον
-    en: your, yours (plural)
+    en: your, yours (pl.)
     pos: adj
 -
   name: Unit 23
@@ -2046,7 +2046,7 @@
   -
     gr: ἀποδίδωμι
     gr_mp: ἀποδίδωμαι
-    en: give back return; pay; (mid.) sell
+    en: give back, return; pay; (mid.) sell
     cog: 
     pos: v
   -
@@ -2068,12 +2068,12 @@
     pos: v
   -
     gr: ἀφίημι
-    en: send forth, send away; release, set free; leave along, neglect
+    en: send forth, send away; release, set free; leave alone, neglect
     pos: v
   -
     gr: ἐφίημι
     gr_mp: ἐφίεμαι
-    en: send on (or against); let go, yield; (mid.) command, give orders; (mid.) aim at, long for (+ gen.)
+    en: send on (or against); let go, yield; (mid.) command, give orders; aim at, long for (+ gen.)
     pos: v
   -
     gr: προσίημι
@@ -2089,7 +2089,7 @@
   -
     gr: ἁφίστημι
     gr_mp: ἁφίσταμαι
-    en: (trans.) put out of the way; cause to revolt; (intrans.) keep (onself) way from (or apart from); revolt from (+ ἀπό + gen.)
+    en: (trans.) put out of the way; cause to revolt; (intrans.) keep (oneself) away from (or apart from); revolt from (+ ἀπό + gen.)
     pos: v
   -
     gr: ἐφίστημι
@@ -2099,11 +2099,11 @@
   -
     gr: καθίστημι
     gr_mp: καθίσταμαι
-    en: (trans.) set down; set in order; appoint; establish; (intrans.) set onself down (or in order); settle; become; be established
+    en: (trans.) set down; set in order; appoint; establish; (intrans.) set oneself down (or in order); settle; become; be established
     pos: v
   -
     gr: τίθημι
-    en: set, place, put; set up, establish; bring to pass; make cause
+    en: set, place, put; set up, establish; make, cause, bring to pass
     cog: thesis, hypothesis
     pos: v
   -
