@@ -137,7 +137,7 @@
 δούλη,"δούλη, δούλης, ἡ",(female) slave,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 Κῦρος,"Κῦρος, Κύρου, ὁ","Cyrus<br><i>(son of Achaemenid king Darius II of Persia, who challenged his brother for the throne in 401 B.C.E.)</i>",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 πλοῦτος,"πλοῦτος, πλούτου, ὁ","wealth, riches<br>[plutocrat]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
-πονος,"πονος, πονου, ὁ","hard work, toil; suffering<br>[geoponics]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
+πόνος,"πόνος, πόνου, ὁ","hard work, toil; suffering<br>[geoponics]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 ποταμός,"ποταμός, ποταμοῦ, ὁ","river<br>[Mesopotamia, hippopotamus]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 τρόπος,"τρόπος, τρόπου, ὁ","turn; way, manner, fashion; habits, character<br>[tropics, heliotrope]",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
 ὕπνος,"ὕπνος, ὕπνου, ὁ",sleep<br>[hypnotism],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 08
@@ -330,8 +330,8 @@
 τὰ κοινά,τὰ κοινά,public affairs; public funds,pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 φανερός,"φανερός, φανερά, φανερόν","visible, manifest",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 αἰτέω,αἰτέω,ask for (+ acc. of person + acc. of thing or inf.),pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
-ἀπαγω,ἀπαγω,"lead away; arrest, carry off to prison",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
-ἀπεχω,ἀπεχω,"hold off<br>(intrans.) be away from, be distant from",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+ἀπάγω,ἀπάγω,"lead away; arrest, carry off to prison",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
+ἀπέχω,ἀπέχω,"hold off<br>(intrans.) be away from, be distant from",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 ἐπαινέω,ἐπαινέω,"approve, praise",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 ἐπιθυμέω,ἐπιθυμέω,"long for, desire (+ gen. of object desired)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
 ζητέω,ζητέω,"seek, seek for; examine, investigate",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 16
@@ -481,7 +481,7 @@
 ἐπιδείκνυμι,ἐπιδείκνυμι,"exhibit, display; show, point out, prove<br>[epideictic]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ζεύγνυμι,ζεύγνυμι,"yoke, join together<br>[zeugma]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ῥήγνυμι,ῥήγνυμι,"break, shatter<br>[hemorrhage]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
-εἲμι,εἲμι,"go, will go<br>[ion]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
+εἶμι,εἶμι,"go, will go<br>[ion]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἄπειμι,"ἄπειμι, ἀπέρχομαι",go away,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 ἔξειμι,"ἔξειμι, ἐξέρχομαι",go out,pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 23
 βασιλεία,"βασιλεία, βασιλείας, ἡ","kingdom, dominion; kingship, monarchy",pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
@@ -491,7 +491,7 @@
 ἥσυχος,"ἥσυχος, ἥσυχον","quiet, calm, inactive<br>[Hesychast]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 πικρός,"πικρός, πικρά, πικρόν","sharp, pungent; bitter, painful; spiteful, mean<br>[picrate]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 ἁλίσκομαι,ἁλίσκομαι,"be captured, be seized<br><i>(may be used as passive of αἱρέω)</i>",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
-βαίνω,βαίνω,"walk step, go<br>[basis]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
+βαίνω,βαίνω,"walk, step, go<br>[basis]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 ἀναβαίνω,ἀναβαίνω,go up; board (a ship); mount (a horse); go inland<br>[anabasis],pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 διαβαίνω,διαβαίνω,"step across; go over, cross<br>[diabetes]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 καταβαίνω,καταβαίνω,step down; dismount; go down to the sea from an island<br>[katabasis],pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
@@ -499,10 +499,10 @@
 συμβαίνω,συμβαίνω,"come together; come to an agreement, come to terms<br>(impersonal) come to pass, happen",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 ἀναγιγνώσκω,ἀναγιγνώσκω,"read (aloud), recite (from a written document)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 διαγιγνώσκω,διαγιγνώσκω,"know apart, distinguish; determine, decide (a suit)<br>[diagnosis]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
-δύω,δύω (poetic δύνω),"(intrans. and noncausal, including 2nd aor.) enter; get into (clothes, armor); sink into the sea, set (of sun, stars)<br>(trans. and causal, incl. 1st aor.) cause to enter, cause to sink (more commonly in compounds)<br>[ecdysiast]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
+δύω,δύω (poetic δύνω),"(trans. and causal, incl. 1st aor.) cause to enter, cause to sink (more commonly in compounds)<br>(intrans. and noncausal, including 2nd aor.) enter; get into (clothes, armor); sink into the sea, set (of sun, stars)<br>[ecdysiast]",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 ἀποδύω,ἀποδύω,(act. and 1st aor.) strip off (someone else's armor or clothes),pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 ἀποδύομαι,ἀποδύομαι,"(mid. and 2nd aor.) take off (one's own clothes), undress",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
-καταδύω,καταδύω,"(intrans. and 2nd aor.) set (of sun); plunge, sink<br>(causal 1st aor.) cause to sink (ships)",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
+καταδύω,καταδύω,"(causal 1st aor.) cause to sink (ships)<br>(intrans. and 2nd aor.) set (of sun); plunge, sink",pos::verb,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 24
 κεφαλή,"κεφαλή, κεφαλῆς, ἡ",head<br>[encephalitis],pos::noun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 εἷς,"εἷς, μία, ἑν",one,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 δυο,δυο,two,pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
@@ -516,12 +516,12 @@
 οὐδείς,"οὐδείς, οὐδεμία, οὐδέν or μηδείς, μηδεμία, μηδέν","no one, none; nobody, nothing<br>(adj.) not one",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 ἐμαυτοῦ,"ἐμαυτοῦ, ἐμαυτῆς",(reflexive) myself,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 ἡμῶν αὐτῶν,ἡμῶν αὐτῶν,(reflexive) ourselves,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
-σεαυτοῦ (σαυτοῦ),"σεαυτοῦ (σαυτοῦ), σεαυτῆς (σαυτῆς)",(reflexive) yourself,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
-ὑμῶν αὐτῶν,ὑμῶν αὐτῶν,(reflexive) yourselves,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
-ἑαυτοῦ (αὑτου),"ἑαυτοῦ (αὑτου), ἑαυτῆς (αὑτῆς), ἑαυτοῦ (αὑτοῦ)","(reflexive) himself, herself, itself",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
-ἑαυτῶν (αὑτῶν),ἑαυτῶν (αὑτῶν),(reflexive) themselves,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
-οὗ (οὑ),οὗ (οὑ),"(indirect reflexive) himself, herself, itself",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
-σφῶν,σφῶν,(indirect reflexive) themselves,pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+σεαυτοῦ (σαυτοῦ),"σεαυτοῦ (σαυτοῦ), σεαυτῆς (σαυτῆς)",(reflexive) yourself (sg.),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ὑμῶν αὐτῶν,ὑμῶν αὐτῶν,(reflexive) yourselves (pl.),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἑαυτοῦ (αὑτου),"ἑαυτοῦ (αὑτου), ἑαυτῆς (αὑτῆς), ἑαυτοῦ (αὑτοῦ)","(reflexive) himself, herself, itself (sg.)",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+ἑαυτῶν (αὑτῶν),ἑαυτῶν (αὑτῶν),(reflexive) themselves (pl.),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+οὗ (οὑ),οὗ (οὑ),"(indirect reflexive) himself, herself, itself (sg.)",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
+σφῶν,σφῶν,(indirect reflexive) themselves (pl.),pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 ἀλλήλων,ἀλλήλων,"each other, one another<br>[parallel]",pos::pronoun,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 ἄκριτος,"ἄκριτος, ἄκριτον","undecided; unjudged, without trial",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
 μέγας,"μέγας, μεγάλη, μέγα","large, tall; great, mighty<br>[megalomania, megabyte]",pos::adjective,Mastronarde Attic Greek Vocab (Greek-to-English)::Unit 25
