@@ -2300,6 +2300,38 @@
     en: twelve
     pos: adj
   -
+    gr: πρῶτος
+    en: first
+    pos: adj
+  -
+    gr: δεύτερος
+    en: second
+    pos: adj
+  -
+    gr: τρίτος
+    en: third
+    pos: adj
+  -
+    gr: τέτρατος
+    en: fourth
+    pos: adj
+  -
+    gr: ἅπαξ
+    en: once
+    pos: adv
+  -
+    gr: δίς
+    en: twice
+    pos: adv
+  -
+    gr: τρίς
+    en: thrice
+    pos: adj
+  -
+    gr: τετράκις
+    en: four times
+    pos: adj
+  -
     gr: οὐδείς, οὐδεμία, οὐδέν or μηδείς, μηδεμία, μηδέν
     en: no one, none; nobody, nothing; (adj.) not one
     pos: pron
