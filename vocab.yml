@@ -648,7 +648,7 @@
     cog: plutocrat
     pos: n
   -
-    gr: πονος, πονου, ὁ
+    gr: πόνος, πόνου, ὁ
     en: hard work, toil; suffering
     cog: geoponics
     pos: n
@@ -1485,11 +1485,11 @@
     en: ask for (+ acc. of person + acc. of thing or inf.)
     pos: v
   -
-    gr: ἀπαγω
+    gr: ἀπάγω
     en: lead away; arrest, carry off to prison
     pos: v
   -
-    gr: ἀπεχω
+    gr: ἀπέχω
     en: hold off; (intrans.) be away from, be distant from
     pos: v
   -
@@ -2154,7 +2154,7 @@
     cog: hemorrhage
     pos: v
   -
-    gr: εἲμι
+    gr: εἶμι
     en: go, will go
     cog: ion
     pos: v
@@ -2203,7 +2203,7 @@
     pos: v
   -
     gr: βαίνω
-    en: walk step, go
+    en: walk, step, go
     cog: basis
     pos: v
   -
@@ -2242,7 +2242,7 @@
   -
     gr: δύω
     gr_ext: (poetic δύνω)
-    en: (intrans. and noncausal, including 2nd aor.) enter; get into (clothes, armor); sink into the sea, set (of sun, stars); (trans. and causal, incl. 1st aor.) cause to enter, cause to sink (more commonly in compounds)
+    en: (trans. and causal, incl. 1st aor.) cause to enter, cause to sink (more commonly in compounds); (intrans. and noncausal, including 2nd aor.) enter; get into (clothes, armor); sink into the sea, set (of sun, stars)
     cog: ecdysiast
     pos: v
   -
@@ -2252,7 +2252,7 @@
     pos: v
   -
     gr: καταδύω
-    en: (intrans. and 2nd aor.) set (of sun); plunge, sink; (causal 1st aor.) cause to sink (ships)
+    en: (causal 1st aor.) cause to sink (ships); (intrans. and 2nd aor.) set (of sun); plunge, sink
     pos: v
 -
   name: Unit 25
@@ -2313,27 +2313,27 @@
     pos: pron
   -
     gr: σεαυτοῦ (σαυτοῦ), σεαυτῆς (σαυτῆς)
-    en: (reflexive) yourself
+    en: (reflexive) yourself (sg.)
     pos: pron
   -
     gr: ὑμῶν αὐτῶν
-    en: (reflexive) yourselves
+    en: (reflexive) yourselves (pl.)
     pos: pron
   -
     gr: ἑαυτοῦ (αὑτου), ἑαυτῆς (αὑτῆς), ἑαυτοῦ (αὑτοῦ)
-    en: (reflexive) himself, herself, itself
+    en: (reflexive) himself, herself, itself (sg.)
     pos: pron
   -
     gr: ἑαυτῶν (αὑτῶν)
-    en: (reflexive) themselves
+    en: (reflexive) themselves (pl.)
     pos: pron
   -
     gr: οὗ (οὑ)
-    en: (indirect reflexive) himself, herself, itself
+    en: (indirect reflexive) himself, herself, itself (sg.)
     pos: pron
   -
     gr: σφῶν
-    en: (indirect reflexive) themselves
+    en: (indirect reflexive) themselves (pl.)
     pos: pron
   -
     gr: ἀλλήλων
