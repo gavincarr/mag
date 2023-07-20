@@ -2416,3 +2416,51 @@
     gr: ὡς
     en: so that
     pos: conj
+-
+  name: Unit 25
+  unit: 25
+  vocab:
+  -
+    gr: ἁρπάζω
+    en: snatch away, carry off; seize
+    cog: Harpy
+    pos: v
+  -
+    gr: ἐσθίω
+    en: eat
+    cog: esophagus, anthropophagy
+    pos: v
+  -
+    gr: καίω or κάω
+    en: kindle; set on fire, burn
+    cog: caustic
+    pos: v
+  -
+    gr: κρίνω
+    en: pick out, choose; decide, judge
+    cog: crisis
+    pos: v
+  -
+    gr: πίνω
+    en: drink
+    cog: symposium
+    pos: v
+  -
+    gr: στρέφω
+    en: turn, twist
+    cog: strophe, catastrophe
+    pos: v
+  -
+    gr: τέμνω
+    en: cut
+    cog: anatomy, atom
+    pos: v
+  -
+    gr: τρέφω
+    en: bring up, rear (children); nourish, maintain; cherish
+    cog: atrophy, dystrophy
+    pos: v
+  -
+    gr: ὑπισχνέομαι
+    en: undertake (to do, + complem. inf.); promise, profess (+ inf. in indirect discourse)
+    pos: v
