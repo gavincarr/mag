@@ -19,11 +19,17 @@ task :exportv do
   sh "../mag-utils/bin/export_anki_vocab -o vocabGrEn.csv vocab.yml", :verbose => true
 end
 
-desc "Export pp to Anki"
+desc "Export pp to Anki (forward/GrEn format)"
 task :exportpp do
   sh "../mag-utils/bin/export_anki_pp -n3 -o ppGrEn.csv pp.yml", :verbose => true
 end
 
+desc "Export pp to Anki (reverse/EnGr format)"
+task :exportppr do
+  sh "../mag-utils/bin/export_anki_pp -n3 -r -o ppEnGr.csv pp.yml",
+    :verbose => true
+end
+
 desc "Export all"
-task :export => [ :exportv, :exportpp ]
+task :export => [ :exportv, :exportpp, :exportppr ]
 
