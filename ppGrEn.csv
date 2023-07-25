@@ -1,8 +1,9 @@
 # This is an export of the MAG principal parts dataset in Anki CSV format (Greek-to-English)
 #separator:Comma
 #columns:ID,Front,Back,Tags,DeckName
+#notetype:MAG PP GrEn
 #deck column:5
-#html:true
+#html:false
 ἄξω,ἄξω,Future of ἄγω,pp::future,Mastronarde Attic Greek Principal Parts (Greek-to-English)::Unit 05
 ἤγαγον,ἤγαγον,Aorist of ἄγω,pp::aorist,Mastronarde Attic Greek Principal Parts (Greek-to-English)::Unit 05
 ἀποθανέομαι,ἀποθανέομαι,Future of ἀποθνῄσκω,pp::future,Mastronarde Attic Greek Principal Parts (Greek-to-English)::Unit 05
