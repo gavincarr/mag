@@ -701,7 +701,7 @@
     gr: ὧ
     en: o!
     en_ext: (accompanies many vocatives; sometimes to be left untranslated in English)
-    pos: part
+    pos: particle
   -
     gr: μή
     en: not
@@ -2417,8 +2417,8 @@
     en: so that
     pos: conj
 -
-  name: Unit 25
-  unit: 25
+  name: Unit 26
+  unit: 26
   vocab:
   -
     gr: ἁρπάζω
@@ -2464,3 +2464,63 @@
     gr: ὑπισχνέομαι
     en: undertake (to do, + complem. inf.); promise, profess (+ inf. in indirect discourse)
     pos: v
+  -
+    gr: διδούς, διδοῦσα, διδόν
+    en: pres. act. part. of δίδωμι
+    pos: part
+  -
+    gr: δούς, δοῦσα, δόν
+    en: aor. act. part. of δίδωμι
+    pos: part
+  -
+    gr: ἱστάς, ἱστᾶσα, ἱστάν
+    en: pres. act. part. of ἵστημι
+    pos: part
+  -
+    gr: στάς, στᾶσα, στάν
+    en: aor. act. part. of ἵστημι
+    pos: part
+  -
+    gr: τιθείς, τιθεῖσα, τιθέν
+    en: pres. act. part. of τίθημι
+    pos: part
+  -
+    gr: θείς, θεῖσα, θέν
+    en: aor. act. part. of τίθημι
+    pos: part
+  -
+    gr: ἱείς, ἱεῖσα, ἱέν
+    en: pres. act. part. of ἱημι
+    pos: part
+  -
+    gr: (ἀφ)είς, (ἀφ)εῖσα, (ἀφ)έν
+    en: aor. act. part. of ἱημι
+    pos: part
+  -
+    gr: δεικνύς, δεικνύσα, δεικνυν
+    en: pres. act. part. of δείκνυμι
+    pos: part
+  -
+    gr: ὤν, οὖσα, ὄν
+    en: pres. act. part. of εἰμί
+    pos: part
+  -
+    gr: ἰών, ἰοὖσα, ἰόν
+    en: pres. act. part. of εἶμι
+    pos: part
+  -
+    gr: βάς, βᾶσα, βάν
+    en: aor. act. part. of βαίνω
+    pos: part
+  -
+    gr: ἁλούς, ἁλοῦσα,  ἁλόν
+    en: aor. act. part. of ἁλίσκομαι
+    pos: part
+  -
+    gr: γνούς, γνοῦσα, γνόν
+    en: aor. act. part. of γιγνώσκω
+    pos: part
+  -
+    gr: δύς, δῦσα, δύν
+    en: aor. act. part. of δύω
+    pos: part
