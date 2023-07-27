@@ -542,12 +542,27 @@
 δύναμαι,δύναμαι,"be able, be strong enough (+ inf.)<br>have power",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
 ὥστε,ὥστε,"so as, so that, that (of result)",pos::conjunction,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
 ὡς,ὡς,so that,pos::conjunction,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
-ἁρπάζω,ἁρπάζω,"snatch away, carry off<br>seize<br>[Harpy]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
-ἐσθίω,ἐσθίω,"eat<br>[esophagus, anthropophagy]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
-καίω or κάω,καίω or κάω,"kindle<br>set on fire, burn<br>[caustic]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
-κρίνω,κρίνω,"pick out, choose<br>decide, judge<br>[crisis]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
-πίνω,πίνω,drink<br>[symposium],pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
-στρέφω,στρέφω,"turn, twist<br>[strophe, catastrophe]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
-τέμνω,τέμνω,"cut<br>[anatomy, atom]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
-τρέφω,τρέφω,"bring up, rear (children)<br>nourish, maintain<br>cherish<br>[atrophy, dystrophy]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
-ὑπισχνέομαι,ὑπισχνέομαι,"undertake (to do, + complem. inf.)<br>promise, profess (+ inf. in indirect discourse)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 25
+ἁρπάζω,ἁρπάζω,"snatch away, carry off<br>seize<br>[Harpy]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+ἐσθίω,ἐσθίω,"eat<br>[esophagus, anthropophagy]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+καίω or κάω,καίω or κάω,"kindle<br>set on fire, burn<br>[caustic]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+κρίνω,κρίνω,"pick out, choose<br>decide, judge<br>[crisis]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+πίνω,πίνω,drink<br>[symposium],pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+στρέφω,στρέφω,"turn, twist<br>[strophe, catastrophe]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+τέμνω,τέμνω,"cut<br>[anatomy, atom]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+τρέφω,τρέφω,"bring up, rear (children)<br>nourish, maintain<br>cherish<br>[atrophy, dystrophy]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+ὑπισχνέομαι,ὑπισχνέομαι,"undertake (to do, + complem. inf.)<br>promise, profess (+ inf. in indirect discourse)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+διδούς,"διδούς, διδοῦσα, διδόν",pres. act. part. of δίδωμι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+δούς,"δούς, δοῦσα, δόν",aor. act. part. of δίδωμι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+ἱστάς,"ἱστάς, ἱστᾶσα, ἱστάν",pres. act. part. of ἵστημι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+στάς,"στάς, στᾶσα, στάν",aor. act. part. of ἵστημι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+τιθείς,"τιθείς, τιθεῖσα, τιθέν",pres. act. part. of τίθημι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+θείς,"θείς, θεῖσα, θέν",aor. act. part. of τίθημι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+ἱείς,"ἱείς, ἱεῖσα, ἱέν",pres. act. part. of ἱημι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+(ἀφ)είς,"(ἀφ)είς, (ἀφ)εῖσα, (ἀφ)έν",aor. act. part. of ἱημι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+δεικνύς,"δεικνύς, δεικνύσα, δεικνυν",pres. act. part. of δείκνυμι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+ὤν,"ὤν, οὖσα, ὄν",pres. act. part. of εἰμί,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+ἰών,"ἰών, ἰοὖσα, ἰόν",pres. act. part. of εἶμι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+βάς,"βάς, βᾶσα, βάν",aor. act. part. of βαίνω,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+ἁλούς,"ἁλούς, ἁλοῦσα,  ἁλόν",aor. act. part. of ἁλίσκομαι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+γνούς,"γνούς, γνοῦσα, γνόν",aor. act. part. of γιγνώσκω,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+δύς,"δύς, δῦσα, δύν",aor. act. part. of δύω,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
