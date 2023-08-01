@@ -2160,6 +2160,7 @@
     pos: v
   -
     gr: ἄπειμι, ἀπέρχομαι
+    id: ἄπειμι-εἶμι
     en: go away
     pos: v
   -
@@ -2524,3 +2525,121 @@
     gr: δύς, δῦσα, δύν
     en: aor. act. part. of δύω
     pos: part
+-
+  name: Unit 27
+  unit: 27
+  vocab:
+  -
+    gr: στράτευμα, στρατεύματος, το
+    en: army
+    pos: n
+  -
+    gr: εἴκοσι(ν)
+    en: twenty
+    cog: icosahedron
+    pos: adj
+  -
+    gr: τριάκοντα
+    en: thirty
+    pos: adj
+  -
+    gr: οἱ τριάκοντα
+    en: the Thirty (Tyrants), an oligarchic regime that ruled Athens for a few months in 404/3 B.C.E.
+    pos: n
+  -
+    gr: τεττρακοντα
+    en: forty
+    pos: adj
+  -
+    gr: πεντακοντα
+    en: fifty
+    cog: Pentecost
+    pos: adj
+  -
+    gr: ἑξήκοντα
+    en: sixty
+    pos: adj
+  -
+    gr: ἑβδομήκοντα
+    en: seventy
+    pos: adj
+  -
+    gr: ὀγδοήκοντα
+    en: eighty
+    pos: adj
+  -
+    gr: ἑνενήκοντα
+    en: ninety
+    pos: adj
+  -
+    gr: ἑκατόν
+    en: hundred
+    cog: hecatomb, Hecatompedon, hectoliter
+    pos: adj
+  -
+    gr: καίπερ
+    en: (usually with participle) although
+    pos: adv
+  -
+    gr: ὅμως
+    en: nevertheless, all the same
+    pos: adv
+  -
+    gr: ὡς
+    id: ὡς+part
+    en: (with participle, marking causal or purposive meaning) as, as if, in the belief that, on the ground that
+    pos: adv
+  -
+    gr: ὡςπερ
+    en: as, as if, just as if
+    pos: adv
+  -
+    gr: ἅτε
+    en: (with particple, marking causal meaning) as, as if
+    pos: adv
+  -
+    gr: πρόσθεν
+    en: (of place) before, in front of (occasionally governs gen. like a preposition); (of time) before, formerly
+    pos: adv
+  -
+    gr: ἀναιρέω
+    en: take up, pick up; (esp. in mid.) pick up (bodies for burial); destroy, kill
+    pos: v
+  -
+    gr: μετέχω
+    en: partake of, have a share of or in (+ gen.)
+    pos: v
+  -
+    gr: ἄπειμι
+    id: ἄπειμι-εἰμί
+    en: be away, be distant, be absent
+    pos: v
+  -
+    gr: διώκω
+    en: pursue, chase, drive; (at law) sue, prosecute
+    pos: v
+  -
+    gr: ἐξαιτέω
+    en: ask for ... from (+ double acc.); (mid.) demand for oneself; (mid.) beg off, appeal for pardon
+    pos: v
+  -
+    gr: ὀρχέομαι
+    en: dance
+    cog: orchestra
+    pos: v
+  -
+    gr: πάρειμι
+    en: be by, be present
+    pos: v
+  -
+    gr: τὸ παρόν
+    en: what is at hand, the present time
+    pos: n
+  -
+    gr: τὰ παρόντα
+    en: present circumstances, the present state of affairs
+    pos: n
+  -
+    gr: πολεμέω
+    en: make war; make war against (+ dat.)
+    pos: v
