@@ -483,7 +483,7 @@
 ζεύγνυμι,ζεύγνυμι,"yoke, join together<br>[zeugma]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 23
 ῥήγνυμι,ῥήγνυμι,"break, shatter<br>[hemorrhage]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 23
 εἶμι,εἶμι,"go, will go<br>[ion]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 23
-ἄπειμι,"ἄπειμι, ἀπέρχομαι",go away,pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 23
+ἄπειμι-εἶμι,"ἄπειμι, ἀπέρχομαι",go away,pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 23
 ἔξειμι,"ἔξειμι, ἐξέρχομαι",go out,pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 23
 βασιλεία,"βασιλεία, βασιλείας, ἡ","kingdom, dominion<br>kingship, monarchy",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 24
 ἐλευθερία,"ἐλευθερία, ἐλευθερίας, ἡ","freedom, liberty",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 24
@@ -566,3 +566,30 @@
 ἁλούς,"ἁλούς, ἁλοῦσα,  ἁλόν",aor. act. part. of ἁλίσκομαι,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
 γνούς,"γνούς, γνοῦσα, γνόν",aor. act. part. of γιγνώσκω,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
 δύς,"δύς, δῦσα, δύν",aor. act. part. of δύω,pos::participle,Mastronarde AtticGreek Vocab (GrEn)::Unit 26
+στράτευμα,"στράτευμα, στρατεύματος, το",army,pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+εἴκοσι(ν),εἴκοσι(ν),twenty<br>[icosahedron],pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+τριάκοντα,τριάκοντα,thirty,pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+οἱ τριάκοντα,οἱ τριάκοντα,"the Thirty (Tyrants), an oligarchic regime that ruled Athens for a few months in 404/3 B.C.E.",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+τεττρακοντα,τεττρακοντα,forty,pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+πεντακοντα,πεντακοντα,fifty<br>[Pentecost],pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἑξήκοντα,ἑξήκοντα,sixty,pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἑβδομήκοντα,ἑβδομήκοντα,seventy,pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ὀγδοήκοντα,ὀγδοήκοντα,eighty,pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἑνενήκοντα,ἑνενήκοντα,ninety,pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἑκατόν,ἑκατόν,"hundred<br>[hecatomb, Hecatompedon, hectoliter]",pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+καίπερ,καίπερ,(usually with participle) although,pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ὅμως,ὅμως,"nevertheless, all the same",pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ὡς+part,ὡς,"(with participle, marking causal or purposive meaning) as, as if, in the belief that, on the ground that",pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ὡςπερ,ὡςπερ,"as, as if, just as if",pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἅτε,ἅτε,"(with particple, marking causal meaning) as, as if",pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+πρόσθεν,πρόσθεν,"(of place) before, in front of (occasionally governs gen. like a preposition)<br>(of time) before, formerly",pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἀναιρέω,ἀναιρέω,"take up, pick up<br>(esp. in mid.) pick up (bodies for burial)<br>destroy, kill",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+μετέχω,μετέχω,"partake of, have a share of or in (+ gen.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἄπειμι-εἰμί,ἄπειμι,"be away, be distant, be absent",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+διώκω,διώκω,"pursue, chase, drive<br>(at law) sue, prosecute",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἐξαιτέω,ἐξαιτέω,"ask for ... from (+ double acc.)<br>(mid.) demand for oneself<br>(mid.) beg off, appeal for pardon",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ὀρχέομαι,ὀρχέομαι,dance<br>[orchestra],pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+πάρειμι,πάρειμι,"be by, be present",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+τὸ παρόν,τὸ παρόν,"what is at hand, the present time",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+τὰ παρόντα,τὰ παρόντα,"present circumstances, the present state of affairs",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+πολεμέω,πολεμέω,make war<br>make war against (+ dat.),pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
