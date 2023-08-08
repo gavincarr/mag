@@ -2568,7 +2568,7 @@
     en: eighty
     pos: adj
   -
-    gr: ἑνενήκοντα
+    gr: ἐνενήκοντα
     en: ninety
     pos: adj
   -
@@ -2604,6 +2604,7 @@
     pos: adv
   -
     gr: ἀναιρέω
+    gr_mp: ἀναιρούμαι
     en: take up, pick up; (esp. in mid.) pick up (bodies for burial); destroy, kill
     pos: v
   -
@@ -2622,6 +2623,7 @@
     pos: v
   -
     gr: ἐξαιτέω
+    gr_mp: ἐξαιτούμαι
     en: ask for ... from (+ double acc.); (mid.) demand for oneself; (mid.) beg off, appeal for pardon
     pos: v
   -
@@ -2714,6 +2716,7 @@
     pos: v
   -
     gr: παύω
+    gr_mp: παύομαι
     en: stop (someone else or something); (mid.) stop (oneself), cease
     cog: pause
     pos: v
