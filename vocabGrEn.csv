@@ -575,7 +575,7 @@
 ἑξήκοντα,ἑξήκοντα,sixty,pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 ἑβδομήκοντα,ἑβδομήκοντα,seventy,pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 ὀγδοήκοντα,ὀγδοήκοντα,eighty,pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
-ἑνενήκοντα,ἑνενήκοντα,ninety,pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἐνενήκοντα,ἐνενήκοντα,ninety,pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 ἑκατόν,ἑκατόν,"hundred<br>[hecatomb, Hecatompedon, hectoliter]",pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 καίπερ,καίπερ,(usually with participle) although,pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 ὅμως,ὅμως,"nevertheless, all the same",pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
@@ -583,11 +583,13 @@
 ὡςπερ,ὡςπερ,"as, as if, just as if",pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 ἅτε,ἅτε,"(with particple, marking causal meaning) as, as if",pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 πρόσθεν,πρόσθεν,"(of place) before, in front of (occasionally governs gen. like a preposition)<br>(of time) before, formerly",pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
-ἀναιρέω,ἀναιρέω,"take up, pick up<br>(esp. in mid.) pick up (bodies for burial)<br>destroy, kill",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἀναιρέω,ἀναιρέω,"take up, pick up",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἀναιρούμαι,ἀναιρούμαι,"(esp. in mid.) pick up (bodies for burial)<br>destroy, kill",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 μετέχω,μετέχω,"partake of, have a share of or in (+ gen.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 ἄπειμι-εἰμί,ἄπειμι (ἀπο + εἰμί),"be away, be distant, be absent",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 διώκω,διώκω,"pursue, chase, drive<br>(at law) sue, prosecute",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
-ἐξαιτέω,ἐξαιτέω,"ask for ... from (+ double acc.)<br>(mid.) demand for oneself<br>(mid.) beg off, appeal for pardon",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἐξαιτέω,ἐξαιτέω,ask for ... from (+ double acc.),pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἐξαιτούμαι,ἐξαιτούμαι,"(mid.) demand for oneself<br>(mid.) beg off, appeal for pardon",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 ὀρχέομαι,ὀρχέομαι,dance<br>[orchestra],pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 πάρειμι,πάρειμι,"be by, be present",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 τὸ παρόν,τὸ παρόν,"what is at hand, the present time",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
@@ -608,7 +610,8 @@
 οἶδα,οἶδα,know,pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
 ὀργίζομαι,ὀργίζομαι,"grow angry, be (made) angry (sometimes + dat. of person or thing)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
 ὀργίζω,ὀργίζω (rare),make angry,pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
-παύω,παύω,"stop (someone else or something)<br>(mid.) stop (oneself), cease<br>[pause]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+παύω,παύω,stop (someone else or something),pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+παύομαι,παύομαι,"(mid.) stop (oneself), cease",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
 περιοράω,περιοράω,"look over<br>overlook<br>permit, look upon while doing nothing",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
 τυγχάνω,τυγχάνω,"happen to be (+ part.)<br>happen (of events)<br>succeed<br>meet with, hit upon (+ gen.)<br>obtain (+ gen.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
 φθάνω,φθάνω,"anticipate, be ahead of (+ part.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
