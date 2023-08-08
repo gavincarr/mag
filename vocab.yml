@@ -2645,3 +2645,100 @@
     gr: πολεμέω
     en: make war; make war against (+ dat.)
     pos: v
+-
+  name: Unit 28
+  unit: 28
+  vocab:
+  -
+    gr: ἐπιβουλεύω
+    en: plot against (+ dat.)
+    pos: v
+  -
+    gr: ἀγνοέω
+    en: not perceive, be ignorant of, be unaware of
+    cog: agnostic
+    pos: v
+  -
+    gr: ἁμαρτάνω
+    en: miss the mark, fail of hitting or having (+ gen.); err, make a mistake (+ part.)
+    cog: hamartia
+    pos: v
+  -
+    gr: ἀνέχω
+    gr_mp: ἀνεχομαι
+    en: hold up; (intrans.) rise up; (mid.) bear up, endure, put up with (+ part.)
+    pos: v
+  -
+    gr: διαμένω
+    en: continue, persist, last
+    pos: v
+  -
+    gr: διατελέω
+    en: continue; persevere, live
+    pos: v
+  -
+    gr: ἐλέγχω
+    en: cross-examine; put to the test; prove; refute
+    cog: elenchus
+    pos: v
+  -
+    gr: ἐξελέγχω
+    en: prove; convict, refute
+    pos: v
+  -
+    gr: ἐπίσταμαι
+    en: know how to (+ inf.); know, understand
+    cog: epistemology
+    pos: v
+  -
+    gr: ἥδομαι
+    en: enjoy, take pleasure in (+ dat. or + part.)
+    pos: v
+  -
+    gr: λανθάνω
+    en: escape notice, be unobserved
+    cog: Lethe
+    pos: v
+  -
+    gr: οἶδα
+    en: know
+    pos: v
+  -
+    gr: ὀργίζομαι
+    en: grow angry, be (made) angry (sometimes + dat. of person or thing)
+    pos: v
+  -
+    gr: ὀργίζω
+    gr_ext: (rare)
+    en: make angry
+    pos: v
+  -
+    gr: παύω
+    en: stop (someone else or something); (mid.) stop (oneself), cease
+    cog: pause
+    pos: v
+  -
+    gr: περιοράω
+    en: look over; overlook; permit, look upon while doing nothing
+    pos: v
+  -
+    gr: τυγχάνω
+    en: happen to be (+ part.); happen (of events); succeed; meet with, hit upon (+ gen.); obtain (+ gen.)
+    pos: v
+  -
+    gr: φθάνω
+    en: anticipate, be ahead of (+ part.)
+    pos: v
+  -
+    gr: ἄκρος, ἄκρα, ἄκρον
+    en: topmost, outermost, innermost; highest
+    cog: acrostics, acrophobia
+    pos: adj
+  -
+    gr: τὸ ἄκρον
+    en: peak, summit; farthest point
+    pos: n
+  -
+    gr: ἀκρόπολις, ἀκροπόλεως, ἡ
+    en: upper city, citadel, acropolis
+    pos: n
