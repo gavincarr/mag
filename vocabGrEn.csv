@@ -593,3 +593,25 @@
 τὸ παρόν,τὸ παρόν,"what is at hand, the present time",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 τὰ παρόντα,τὰ παρόντα,"present circumstances, the present state of affairs",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
 πολεμέω,πολεμέω,make war<br>make war against (+ dat.),pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 27
+ἐπιβουλεύω,ἐπιβουλεύω,plot against (+ dat.),pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ἀγνοέω,ἀγνοέω,"not perceive, be ignorant of, be unaware of<br>[agnostic]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ἁμαρτάνω,ἁμαρτάνω,"miss the mark, fail of hitting or having (+ gen.)<br>err, make a mistake (+ part.)<br>[hamartia]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ἀνέχω,ἀνέχω,hold up<br>(intrans.) rise up,pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ἀνεχομαι,ἀνεχομαι,"(mid.) bear up, endure, put up with (+ part.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+διαμένω,διαμένω,"continue, persist, last",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+διατελέω,διατελέω,"continue<br>persevere, live",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ἐλέγχω,ἐλέγχω,cross-examine<br>put to the test<br>prove<br>refute<br>[elenchus],pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ἐξελέγχω,ἐξελέγχω,"prove<br>convict, refute",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ἐπίσταμαι,ἐπίσταμαι,"know how to (+ inf.)<br>know, understand<br>[epistemology]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ἥδομαι,ἥδομαι,"enjoy, take pleasure in (+ dat. or + part.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+λανθάνω,λανθάνω,"escape notice, be unobserved<br>[Lethe]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+οἶδα,οἶδα,know,pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ὀργίζομαι,ὀργίζομαι,"grow angry, be (made) angry (sometimes + dat. of person or thing)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ὀργίζω,ὀργίζω (rare),make angry,pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+παύω,παύω,"stop (someone else or something)<br>(mid.) stop (oneself), cease<br>[pause]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+περιοράω,περιοράω,"look over<br>overlook<br>permit, look upon while doing nothing",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+τυγχάνω,τυγχάνω,"happen to be (+ part.)<br>happen (of events)<br>succeed<br>meet with, hit upon (+ gen.)<br>obtain (+ gen.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+φθάνω,φθάνω,"anticipate, be ahead of (+ part.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ἄκρος,"ἄκρος, ἄκρα, ἄκρον","topmost, outermost, innermost<br>highest<br>[acrostics, acrophobia]",pos::adjective,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+τὸ ἄκρον,τὸ ἄκρον,"peak, summit<br>farthest point",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ἀκρόπολις,"ἀκρόπολις, ἀκροπόλεως, ἡ","upper city, citadel, acropolis",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
