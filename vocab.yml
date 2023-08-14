@@ -2745,3 +2745,85 @@
     gr: ἀκρόπολις, ἀκροπόλεως, ἡ
     en: upper city, citadel, acropolis
     pos: n
+-
+  name: Unit 29
+  unit: 29
+  vocab:
+  -
+    gr: ἄρα
+    en: (postpositive particle) therefore
+    pos: particle
+  -
+    gr: γε
+    en: (enclitic particle adding emphasis to the previous work or to an entire clause; sometimes untranslatable in English) at least, at any rate
+    pos: particle
+  -
+    gr: οὖν
+    en: (postpositive particle) threfore, then
+    pos: particle
+  -
+    gr: ἀδικία, ἀδικίας, ἠ
+    en: injustice, wrongdoing
+    pos: n
+  -
+    gr: αἰσχύνη, αἰσχυνης, ἡ
+    en: shame, dishonor; sense of shame
+    pos: n
+  -
+    gr: αἰτία, αἰτίας, ἡ
+    en: responsibility, blame; accusation; cause
+    pos: n
+  -
+    gr: ἄρχων, ἄρχοντος, ὁ
+    en: ruler; archon (an Athenican magistrate, one of a group of nine chosen annually)
+    pos: n
+  -
+    gr: ἀσθένεια, ἀσθενείας, ἡ
+    en: weakness, illness
+    pos: n
+  -
+    gr: βάθος, βάθους, το
+    en: depth
+    pos: n
+  -
+    gr: βάρος, βάρους, το
+    en: weight
+    pos: n
+  -
+    gr: δικαιοσύνη, δικαιοσύνης, ἡ
+    en: righteousness, justice
+    pos: n
+  -
+    gr: δυστυχία, δυστυχίας, ἡ
+    en: ill luck, ill fortune
+    pos: n
+  -
+    gr: εὐτυχία, εὐτυχίας, ἡ
+    en: good luck, success
+    pos: n
+  -
+    gr: κακιά, κακίας, ἡ
+    en: badness; cowardice; vice
+    pos: n
+  -
+    gr: κάλλος, κάλλους, το
+    en: beauty
+    cog: calliope
+    pos: n
+  -
+    gr: προδότης, προδότου, ὁ
+    en: traitor, betrayer
+    pos: n
+  -
+    gr: σπονδή, σπονδής, ἡ
+    en: drink offering; (pl.) truce, treaty
+    pos: n
+  -
+    gr: σωφροσύνη, σωφροσύνης, ἡ
+    en: prudence; moderation, temperance
+    pos: n
+  -
+    gr: φαίνω
+    en: bring to light, reveal; show forth display; (very common in pass.) come to light, appear; (pass. with inf.) appear/seem to be doing X; (pass. with suppl. part.) be clearly, obviously, openly doing X
+    cog: phenomenon
+    pos: n
