@@ -16,20 +16,19 @@ task :lint => [ :lintv, :lintpp ]
 
 desc "Export vocab to Anki"
 task :exportv do
-  sh "../mag-utils/bin/export_anki_vocab -o vocabGrEn.csv vocab.yml",
-    :verbose => true
+  sh "../mag-utils/bin/export_anki_vocab -o vocabGrEn.csv vocab.yml", :verbose => true
 end
 
 desc "Export pp to Anki (forward/GrEn format)"
 task :exportpp do
-  sh "../mag-utils/bin/export_anki_pp -n3 -o pp3GrEn.csv pp.yml",
-    :verbose => true
+  sh "../mag-utils/bin/export_anki_pp -n3 -o pp3GrEn.csv pp.yml", :verbose => true
+  sh "../mag-utils/bin/export_anki_pp -n4 -o pp4GrEn.csv pp.yml", :verbose => true
 end
 
 desc "Export pp to Anki (reverse/EnGr format)"
 task :exportppr do
-  sh "../mag-utils/bin/export_anki_pp -n3 -r -o pp3EnGr.csv pp.yml",
-    :verbose => true
+  sh "../mag-utils/bin/export_anki_pp -n3 -r -o pp3EnGr.csv pp.yml", :verbose => true
+ sh "../mag-utils/bin/export_anki_pp -n4 -r -o pp4EnGr.csv pp.yml", :verbose => true
 end
 
 desc "Export all"
