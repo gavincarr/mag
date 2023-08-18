@@ -219,6 +219,13 @@
 ὑπο-gen,ὑπο (+ gen.) (elided ὑπ᾽ or ὑψ᾽),"from under, under<br>by (agent with passive verb or expression)",pos::preposition,Mastronarde AtticGreek Vocab (GrEn)::Unit 11
 ὑπο-dat,ὑπο (+ dat.) (elided ὑπ᾽ or ὑψ᾽),under<br>under the power of,pos::preposition,Mastronarde AtticGreek Vocab (GrEn)::Unit 11
 ὑπο-acc,ὑπο (+ acc.) (elided ὑπ᾽ or ὑψ᾽),"under, during, in the course of",pos::preposition,Mastronarde AtticGreek Vocab (GrEn)::Unit 11
+πείθομαι,πείθομαι,"(mid.) obey, trust, believe (+ dat.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 11
+ἔχομαι,ἔχομαι,"(mid.) hold on to, cling to (+ gen.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 11
+ἄγομαι,ἄγομαι,(mid.) lead (a woman) for myself<br>marry (a woman),pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 11
+γράφομαι,γράφομαι,"(mid.) indict, bring a suit against (literally, I get X['s name] record by the magistrates)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 11
+φέρομαι,φέρομαι,"(mid.) carry off for myself, win (a prize)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 11
+δικάζομαι,δικάζομαι,(mid.) conduct a suit (as a plaintiff),pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 11
+λύομαι,λύομαι,(mid.) ransom,pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 11
 ἀεί,ἀεί,always,pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 12
 αὖ,αὖ,again<br>in turn,pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 12
 αὖθις,αὖθις,"again<br>in turn<br>hereafter, in the future",pos::adverb,Mastronarde AtticGreek Vocab (GrEn)::Unit 12
@@ -599,7 +606,7 @@
 ἀγνοέω,ἀγνοέω,"not perceive, be ignorant of, be unaware of<br>[agnostic]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
 ἁμαρτάνω,ἁμαρτάνω,"miss the mark, fail of hitting or having (+ gen.)<br>err, make a mistake (+ part.)<br>[hamartia]",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
 ἀνέχω,ἀνέχω,hold up<br>(intrans.) rise up,pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
-ἀνεχομαι,ἀνεχομαι,"(mid.) bear up, endure, put up with (+ part.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
+ἀνέχομαι,ἀνέχομαι,"(mid.) bear up, endure, put up with (+ part.)",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
 διαμένω,διαμένω,"continue, persist, last",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
 διατελέω,διατελέω,"continue<br>persevere, live",pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
 ἐλέγχω,ἐλέγχω,cross-examine<br>put to the test<br>prove<br>refute<br>[elenchus],pos::verb,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
@@ -620,11 +627,11 @@
 ἀκρόπολις,"ἀκρόπολις, ἀκροπόλεως, ἡ","upper city, citadel, acropolis",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 28
 ἄρα,ἄρα,(postpositive particle) therefore,pos::particle,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
 γε,γε,"(enclitic particle adding emphasis to the previous work or to an entire clause<br>sometimes untranslatable in English) at least, at any rate",pos::particle,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
-οὖν,οὖν,"(postpositive particle) threfore, then",pos::particle,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
+οὖν,οὖν,"(postpositive particle) therefore, then",pos::particle,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
 ἀδικία,"ἀδικία, ἀδικίας, ἠ","injustice, wrongdoing",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
 αἰσχύνη,"αἰσχύνη, αἰσχυνης, ἡ","shame, dishonor<br>sense of shame",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
 αἰτία,"αἰτία, αἰτίας, ἡ","responsibility, blame<br>accusation<br>cause",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
-ἄρχων,"ἄρχων, ἄρχοντος, ὁ","ruler<br>archon (an Athenican magistrate, one of a group of nine chosen annually)",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
+ἄρχων,"ἄρχων, ἄρχοντος, ὁ","ruler<br>archon (an Athenian magistrate, one of a group of nine chosen annually)",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
 ἀσθένεια,"ἀσθένεια, ἀσθενείας, ἡ","weakness, illness",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
 βάθος,"βάθος, βάθους, το",depth,pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
 βάρος,"βάρος, βάρους, το",weight,pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
@@ -636,4 +643,4 @@
 προδότης,"προδότης, προδότου, ὁ","traitor, betrayer",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
 σπονδή,"σπονδή, σπονδής, ἡ","drink offering<br>(pl.) truce, treaty",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
 σωφροσύνη,"σωφροσύνη, σωφροσύνης, ἡ","prudence<br>moderation, temperance",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
-φαίνω,φαίνω,"bring to light, reveal<br>show forth display<br>(very common in pass.) come to light, appear<br>(pass. with inf.) appear/seem to be doing X<br>(pass. with suppl. part.) be clearly, obviously, openly doing X<br>[phenomenon]",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
+φαίνω,φαίνω,"bring to light, reveal<br>show forth, display<br>(very common in pass.) come to light, appear<br>(pass. with inf.) appear/seem to be doing X<br>(pass. with suppl. part.) be clearly, obviously, openly doing X<br>[phenomenon]",pos::noun,Mastronarde AtticGreek Vocab (GrEn)::Unit 29
