@@ -969,6 +969,34 @@
     en: (+ gen.) from under, under; by (agent with passive verb or expression); (+ dat.) under; under the power of; (+ acc.) under, during, in the course of
     cog: hypothesis, hypotenuse, hypodermic
     pos: prep
+  -
+    gr: πείθομαι
+    en: (mid.) obey, trust, believe (+ dat.)
+    pos: v
+  -
+    gr: ἔχομαι
+    en: (mid.) hold on to, cling to (+ gen.)
+    pos: v
+  -
+    gr: ἄγομαι
+    en: (mid.) lead (a woman) for myself; marry (a woman)
+    pos: v
+  -
+    gr: γράφομαι
+    en: (mid.) indict, bring a suit against (literally, I get X['s name] record by the magistrates)
+    pos: v
+  -
+    gr: φέρομαι
+    en: (mid.) carry off for myself, win (a prize)
+    pos: v
+  -
+    gr: δικάζομαι
+    en: (mid.) conduct a suit (as a plaintiff)
+    pos: v
+  -
+    gr: λύομαι
+    en: (mid.) ransom
+    pos: v
 -
   name: Unit 12
   unit: 12
@@ -2667,7 +2695,7 @@
     pos: v
   -
     gr: ἀνέχω
-    gr_mp: ἀνεχομαι
+    gr_mp: ἀνέχομαι
     en: hold up; (intrans.) rise up; (mid.) bear up, endure, put up with (+ part.)
     pos: v
   -
@@ -2759,7 +2787,7 @@
     pos: particle
   -
     gr: οὖν
-    en: (postpositive particle) threfore, then
+    en: (postpositive particle) therefore, then
     pos: particle
   -
     gr: ἀδικία, ἀδικίας, ἠ
@@ -2775,7 +2803,7 @@
     pos: n
   -
     gr: ἄρχων, ἄρχοντος, ὁ
-    en: ruler; archon (an Athenican magistrate, one of a group of nine chosen annually)
+    en: ruler; archon (an Athenian magistrate, one of a group of nine chosen annually)
     pos: n
   -
     gr: ἀσθένεια, ἀσθενείας, ἡ
@@ -2824,6 +2852,6 @@
     pos: n
   -
     gr: φαίνω
-    en: bring to light, reveal; show forth display; (very common in pass.) come to light, appear; (pass. with inf.) appear/seem to be doing X; (pass. with suppl. part.) be clearly, obviously, openly doing X
+    en: bring to light, reveal; show forth, display; (very common in pass.) come to light, appear; (pass. with inf.) appear/seem to be doing X; (pass. with suppl. part.) be clearly, obviously, openly doing X
     cog: phenomenon
     pos: n
