@@ -187,7 +187,7 @@
 οἰήσομαι,οἰήσομαι,Future of οἴομαι or οἶμαι,pp::future,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 11
 ᾠήθην,ᾠήθην,Aorist Passive of οἴομαι or οἶμαι,pp::aorist_passive,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 11
 παρακελεύσομαι,παρακελεύσομαι,Future of παρακελεύομαι,pp::future,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 11
-παρκελευσάμην,παρκελευσάμην,Aorist of παρακελεύομαι,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 11
+παρεκελευσάμην,παρεκελευσάμην,Aorist of παρακελεύομαι,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 11
 παρακεκέλευσμαι,παρακεκέλευσμαι,Perfect Middle of παρακελεύομαι,pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 11
 πεύσομαι,πεύσομαι,Future of πυνθάνομαι,pp::future,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 11
 ἐπυθόμην,ἐπυθόμην,Aorist of πυνθάνομαι,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 11
@@ -315,7 +315,7 @@
 ηὐξάμην,ηὐξάμην,Aorist of εὔχομαι,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 17
 ηὖγμαι,ηὖγμαι,Perfect Middle of εὔχομαι,pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 17
 κατηγορήσω,κατηγορήσω,Future of κατηγορέω,pp::future,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 17
-κατηγόησα,κατηγόησα,Aorist of κατηγορέω,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 17
+κατηγόρησα,κατηγόρησα,Aorist of κατηγορέω,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 17
 κατηγόρκα,κατηγόρκα,Perfect of κατηγορέω,pp::perfect,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 17
 κατηγόρημαι,κατηγόρημαι,Perfect Middle of κατηγορέω,pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 17
 κατηγορήθην,κατηγορήθην,Aorist Passive of κατηγορέω,pp::aorist_passive,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 17
@@ -330,9 +330,9 @@
 ἐπλήγην or -επλάγην,ἐπλήγην or -επλάγην,Aorist Passive of -πλήττω,pp::aorist_passive,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 17
 καλέω,καλέω,Future of καλέω,pp::future,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 18
 ἐκάλεσα,ἐκάλεσα,Aorist of καλέω,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 18
-κέκληκα,κέκληκα,Perfect of καλέω,pp::perfect,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 18
-κέκλημαι,κέκλημαι,Perfect Middle of καλέω,pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 18
-ἐκλήθην,ἐκλήθην,Aorist Passive of καλέω,pp::aorist_passive,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 18
+κέκληκα,κέκληκα,Perfect of ἐκάλεσα,pp::perfect,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 18
+κέκλημαι,κέκλημαι,Perfect Middle of ἐκάλεσα,pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 18
+ἐκλήθην,ἐκλήθην,Aorist Passive of ἐκάλεσα,pp::aorist_passive,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 18
 μαθήσομαι,μαθήσομαι,Future of μανθάνω,pp::future,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 18
 ἔμαθον,ἔμαθον,Aorist of μανθάνω,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 18
 μεμάθηκα,μεμάθηκα,Perfect of μανθάνω,pp::perfect,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 18
@@ -363,11 +363,11 @@
 ἑώραμαι,ἑώραμαι,Perfect Middle #1 of ὁράω (same meaning),pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
 ὦμμαι,ὦμμαι,Perfect Middle #2 of ὁράω (same meaning),pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
 ὤφθην,ὤφθην,Aorist Passive of ὁράω,pp::aorist_passive,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
-ἐρέω,ἐρέω,Future of ,pp::future,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
-εἶπον (stem εἰπ-),εἶπον (stem εἰπ-),Aorist of ,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
-εἴρηκα,εἴρηκα,Perfect of ,pp::perfect,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
-εἴρημαι,εἴρημαι,Perfect Middle of ,pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
-ἐρρήθην,ἐρρήθην,Aorist Passive of ,pp::aorist_passive,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
+ἐρέω,ἐρέω,Future of εἶπον (stem εἰπ-),pp::future,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
+εἶπον (stem εἰπ-),εἶπον (stem εἰπ-),Aorist of ἐρέω,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
+εἴρηκα,εἴρηκα,Perfect of εἶπον (stem εἰπ-),pp::perfect,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
+εἴρημαι,εἴρημαι,Perfect Middle of εἶπον (stem εἰπ-),pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
+ἐρρήθην,ἐρρήθην,Aorist Passive of εἶπον (stem εἰπ-),pp::aorist_passive,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
 ἐλπιέω,ἐλπιέω,Future of ἐλπίζω,pp::future,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
 ἤλπισα,ἤλπισα,Aorist of ἐλπίζω,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
 ἠλπίσθην,ἠλπίσθην,Aorist Passive of ἐλπίζω,pp::aorist_passive,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 19
@@ -674,9 +674,9 @@
 διαμεμένηκα,διαμεμένηκα,Perfect of διαμένω,pp::perfect,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
 διατελέω,διατελέω,Future of διατελέω,pp::future,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
 διετέλεσα,διετέλεσα,Aorist of διατελέω,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
-διατετέλεκα,διατετέλεκα,Perfect of διατελέω,pp::perfect,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
-διατετέλεσμαι,διατετέλεσμαι,Perfect Middle of διατελέω,pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
-διετελέσθην,διετελέσθην,Aorist Passive of διατελέω,pp::aorist_passive,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
+διατετέλεκα,διατετέλεκα,Perfect of διετέλεσα,pp::perfect,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
+διατετέλεσμαι,διατετέλεσμαι,Perfect Middle of διετέλεσα,pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
+διετελέσθην,διετελέσθην,Aorist Passive of διετέλεσα,pp::aorist_passive,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
 ἐλέγξω,ἐλέγξω,Future of ἐλέγχω,pp::future,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
 ἤλεγξα,ἤλεγξα,Aorist of ἐλέγχω,pp::aorist,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
 ἐλήλεγμαι,ἐλήλεγμαι,Perfect Middle of ἐλέγχω,pp::perfect_middle,Mastronarde AtticGreek Principal Parts (GrEn)::Unit 28
